@@ -1,0 +1,221 @@
+{
+    "nutritionGuide": {
+      "proteinSources": [
+        {
+          "food": "Chicken Breast (Cooked)",
+          "calories": 165,
+          "protein": 31,
+          "carbs": 0,
+          "fat": 3.6
+        },
+        {
+          "food": "Tuna (Canned in Water)",
+          "calories": 132,
+          "protein": 28,
+          "carbs": 0,
+          "fat": 1
+        },
+        {
+          "food": "Eggs",
+          "calories": 155,
+          "protein": 13,
+          "carbs": 1.1,
+          "fat": 11
+        },
+        {
+          "food": "Greek Yogurt (Non-fat)",
+          "calories": 59,
+          "protein": 10,
+          "carbs": 3.6,
+          "fat": 0.4
+        },
+        {
+          "food": "Lentils (Cooked)",
+          "calories": 116,
+          "protein": 9,
+          "carbs": 20,
+          "fat": 0.4
+        },
+        {
+          "food": "Tofu (Firm)",
+          "calories": 144,
+          "protein": 15,
+          "carbs": 3.9,
+          "fat": 8
+        },
+        {
+          "food": "Cottage Cheese (Low-fat)",
+          "calories": 81,
+          "protein": 11,
+          "carbs": 4.3,
+          "fat": 1.0
+        },
+        {
+          "food": "Salmon (Cooked)",
+          "calories": 206,
+          "protein": 22,
+          "carbs": 0,
+          "fat": 13
+        },
+        {
+          "food": "Ground Beef (Lean, Cooked)",
+          "calories": 250,
+          "protein": 26,
+          "carbs": 0,
+          "fat": 17
+        },
+        {
+          "food": "Hemp Seeds",
+          "calories": 553,
+          "protein": 31,
+          "carbs": 9.8,
+          "fat": 48
+        }
+      ],
+      "carbohydrateSources": [
+        {
+          "food": "Oats (Raw)",
+          "calories": 389,
+          "protein": 16.9,
+          "carbs": 66.3,
+          "fat": 6.9
+        },
+        {
+          "food": "Brown Rice (Cooked)",
+          "calories": 111,
+          "protein": 2.6,
+          "carbs": 23,
+          "fat": 0.9
+        },
+        {
+          "food": "Quinoa (Cooked)",
+          "calories": 120,
+          "protein": 4.1,
+          "carbs": 21.3,
+          "fat": 1.9
+        },
+        {
+          "food": "Sweet Potatoes (Cooked)",
+          "calories": 90,
+          "protein": 2,
+          "carbs": 21,
+          "fat": 0.1
+        },
+        {
+          "food": "Whole Wheat Bread",
+          "calories": 247,
+          "protein": 13,
+          "carbs": 41,
+          "fat": 4.2
+        },
+        {
+          "food": "Banana",
+          "calories": 89,
+          "protein": 1.1,
+          "carbs": 23,
+          "fat": 0.3
+        },
+        {
+          "food": "Potatoes (Boiled)",
+          "calories": 87,
+          "protein": 2,
+          "carbs": 20,
+          "fat": 0.1
+        },
+        {
+          "food": "Chickpeas (Cooked)",
+          "calories": 164,
+          "protein": 9,
+          "carbs": 27,
+          "fat": 2.6
+        },
+        {
+          "food": "Pasta (Cooked)",
+          "calories": 157,
+          "protein": 5.8,
+          "carbs": 31,
+          "fat": 0.9
+        },
+        {
+          "food": "Bulgur (Cooked)",
+          "calories": 83,
+          "protein": 3.1,
+          "carbs": 18.6,
+          "fat": 0.2
+        }
+      ],
+      "fatSources": [
+        {
+          "food": "Avocado",
+          "calories": 160,
+          "protein": 2,
+          "carbs": 9,
+          "fat": 15
+        },
+        {
+          "food": "Olive Oil",
+          "calories": 884,
+          "protein": 0,
+          "carbs": 0,
+          "fat": 100
+        },
+        {
+          "food": "Almonds",
+          "calories": 579,
+          "protein": 21,
+          "carbs": 22,
+          "fat": 49
+        },
+        {
+          "food": "Peanut Butter",
+          "calories": 588,
+          "protein": 25,
+          "carbs": 20,
+          "fat": 50
+        },
+        {
+          "food": "Chia Seeds",
+          "calories": 486,
+          "protein": 16,
+          "carbs": 42,
+          "fat": 31
+        },
+        {
+          "food": "Flaxseeds",
+          "calories": 534,
+          "protein": 18,
+          "carbs": 29,
+          "fat": 42
+        },
+        {
+          "food": "Walnuts",
+          "calories": 654,
+          "protein": 15,
+          "carbs": 14,
+          "fat": 65
+        },
+        {
+          "food": "Sunflower Seeds",
+          "calories": 584,
+          "protein": 21,
+          "carbs": 20,
+          "fat": 51
+        },
+        {
+          "food": "Coconut Oil",
+          "calories": 862,
+          "protein": 0,
+          "carbs": 0,
+          "fat": 100
+        },
+        {
+          "food": "Cashews",
+          "calories": 553,
+          "protein": 18,
+          "carbs": 30,
+          "fat": 44
+        }
+      ]
+    }
+  }
+  

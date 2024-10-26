@@ -1,0 +1,1322 @@
+{
+"massGainer":  {"massGainDiet1": {
+    "day": "1",
+    "meals": [
+      {
+        "mealName": "Breakfast",
+        "description": "Oatmeal with Bananas and Peanut Butter",
+        "ingredients": [
+          {
+            "ingredient": "Rolled Oats",
+            "quantity": "100g",
+            "calories": 389,
+            "protein": 16.9,
+            "carbs": 66.3,
+            "fat": 6.9
+          },
+          {
+            "ingredient": "Banana",
+            "quantity": "1 medium",
+            "calories": 89,
+            "protein": 1.1,
+            "carbs": 23,
+            "fat": 0.3
+          },
+          {
+            "ingredient": "Peanut Butter",
+            "quantity": "2 tbsp (32g)",
+            "calories": 188,
+            "protein": 8,
+            "carbs": 6,
+            "fat": 16
+          }
+        ],
+        "totalNutrition": {
+          "calories": 666,
+          "protein": 26,
+          "carbs": 95.3,
+          "fat": 23.2
+        },
+        "preparation": "Cook the rolled oats in water or milk according to package instructions. Slice the banana and stir it into the oatmeal. Add peanut butter on top and mix well."
+      },
+      {
+        "mealName": "Snack",
+        "description": "Protein Shake",
+        "ingredients": [
+          {
+            "ingredient": "Whey Protein Powder",
+            "quantity": "1 scoop (30g)",
+            "calories": 120,
+            "protein": 24,
+            "carbs": 3,
+            "fat": 1
+          },
+          {
+            "ingredient": "Whole Milk",
+            "quantity": "1 cup (240ml)",
+            "calories": 150,
+            "protein": 8,
+            "carbs": 12,
+            "fat": 8
+          }
+        ],
+        "totalNutrition": {
+          "calories": 270,
+          "protein": 32,
+          "carbs": 15,
+          "fat": 9
+        },
+        "preparation": "Mix the whey protein powder with whole milk in a shaker or blender until well combined."
+      },
+      {
+        "mealName": "Lunch",
+        "description": "Chicken Wrap",
+        "ingredients": [
+          {
+            "ingredient": "Grilled Chicken Breast",
+            "quantity": "150g",
+            "calories": 248,
+            "protein": 46,
+            "carbs": 0,
+            "fat": 5.5
+          },
+          {
+            "ingredient": "Whole Wheat Tortilla",
+            "quantity": "1 large (70g)",
+            "calories": 220,
+            "protein": 7,
+            "carbs": 36,
+            "fat": 6
+          },
+          {
+            "ingredient": "Mixed Greens",
+            "quantity": "1 cup",
+            "calories": 9,
+            "protein": 1,
+            "carbs": 2,
+            "fat": 0
+          },
+          {
+            "ingredient": "Avocado",
+            "quantity": "1/2 medium (100g)",
+            "calories": 160,
+            "protein": 2,
+            "carbs": 9,
+            "fat": 15
+          }
+        ],
+        "totalNutrition": {
+          "calories": 637,
+          "protein": 56,
+          "carbs": 47,
+          "fat": 26.5
+        },
+        "preparation": "Grill or pan-cook the chicken breast. Place the chicken, mixed greens, and sliced avocado in the tortilla, then roll it up tightly."
+      },
+      {
+        "mealName": "Snack",
+        "description": "Greek Yogurt with Honey and Berries",
+        "ingredients": [
+          {
+            "ingredient": "Greek Yogurt (Full-fat)",
+            "quantity": "200g",
+            "calories": 200,
+            "protein": 20,
+            "carbs": 9,
+            "fat": 10
+          },
+          {
+            "ingredient": "Honey",
+            "quantity": "1 tbsp (21g)",
+            "calories": 64,
+            "protein": 0.1,
+            "carbs": 17.3,
+            "fat": 0
+          },
+          {
+            "ingredient": "Mixed Berries",
+            "quantity": "100g",
+            "calories": 57,
+            "protein": 1,
+            "carbs": 14,
+            "fat": 0.3
+          }
+        ],
+        "totalNutrition": {
+          "calories": 321,
+          "protein": 21.1,
+          "carbs": 40.3,
+          "fat": 10.3
+        },
+        "preparation": "In a bowl, combine Greek yogurt with honey and top with mixed berries."
+      },
+      {
+        "mealName": "Dinner",
+        "description": "Stir-fried Beef with Vegetables and Rice",
+        "ingredients": [
+          {
+            "ingredient": "Beef Strips (Lean)",
+            "quantity": "150g",
+            "calories": 250,
+            "protein": 26,
+            "carbs": 0,
+            "fat": 17
+          },
+          {
+            "ingredient": "Mixed Vegetables (Frozen)",
+            "quantity": "200g",
+            "calories": 70,
+            "protein": 4,
+            "carbs": 14,
+            "fat": 0.5
+          },
+          {
+            "ingredient": "Brown Rice (Cooked)",
+            "quantity": "200g",
+            "calories": 222,
+            "protein": 5,
+            "carbs": 46,
+            "fat": 1.6
+          }
+        ],
+        "totalNutrition": {
+          "calories": 542,
+          "protein": 35,
+          "carbs": 60,
+          "fat": 19.1
+        },
+        "preparation": "Stir-fry beef strips in a pan with a little oil until cooked. Add frozen mixed vegetables and stir-fry until heated through. Serve over cooked brown rice."
+      },
+      {
+        "mealName": "Evening Snack",
+        "description": "Cottage Cheese with Pineapple",
+        "ingredients": [
+          {
+            "ingredient": "Cottage Cheese (Low-fat)",
+            "quantity": "200g",
+            "calories": 81,
+            "protein": 11,
+            "carbs": 4.3,
+            "fat": 1.0
+          },
+          {
+            "ingredient": "Pineapple Chunks",
+            "quantity": "100g",
+            "calories": 50,
+            "protein": 0.5,
+            "carbs": 13,
+            "fat": 0.1
+          }
+        ],
+        "totalNutrition": {
+          "calories": 131,
+          "protein": 11.5,
+          "carbs": 17.3,
+          "fat": 1.1
+        },
+        "preparation": "Combine cottage cheese with pineapple chunks in a bowl and mix well."
+      }
+    ],
+    "totalDailyNutrition": {
+      "calories": 2.245,
+      "protein": 174.6,
+      "carbs": 275.9,
+      "fat": 89.1
+    }
+  },
+  "massGainDiet2": {
+    "day": "2",
+    "meals": [
+      {
+        "mealName": "Breakfast",
+        "description": "Scrambled Eggs with Spinach and Toast",
+        "ingredients": [
+          {
+            "ingredient": "Eggs",
+            "quantity": "3 large",
+            "calories": 210,
+            "protein": 18,
+            "carbs": 1.5,
+            "fat": 15
+          },
+          {
+            "ingredient": "Fresh Spinach",
+            "quantity": "100g",
+            "calories": 23,
+            "protein": 2.9,
+            "carbs": 3.6,
+            "fat": 0.4
+          },
+          {
+            "ingredient": "Whole Wheat Bread",
+            "quantity": "2 slices (70g)",
+            "calories": 180,
+            "protein": 8,
+            "carbs": 32,
+            "fat": 2
+          }
+        ],
+        "totalNutrition": {
+          "calories": 413,
+          "protein": 28,
+          "carbs": 37.1,
+          "fat": 17.4
+        },
+        "preparation": "In a pan, scramble the eggs until cooked. Add fresh spinach and cook until wilted. Serve with toasted whole wheat bread."
+      },
+      {
+        "mealName": "Snack",
+        "description": "Almonds and an Apple",
+        "ingredients": [
+          {
+            "ingredient": "Almonds",
+            "quantity": "30g",
+            "calories": 174,
+            "protein": 6,
+            "carbs": 6,
+            "fat": 15
+          },
+          {
+            "ingredient": "Apple",
+            "quantity": "1 medium",
+            "calories": 95,
+            "protein": 0.5,
+            "carbs": 25,
+            "fat": 0.3
+          }
+        ],
+        "totalNutrition": {
+          "calories": 269,
+          "protein": 6.5,
+          "carbs": 31,
+          "fat": 15.3
+        },
+        "preparation": "Simply measure out almonds and wash the apple. Enjoy them together."
+      },
+      {
+        "mealName": "Lunch",
+        "description": "Tuna Salad Sandwich",
+        "ingredients": [
+          {
+            "ingredient": "Canned Tuna (in water)",
+            "quantity": "150g",
+            "calories": 165,
+            "protein": 36,
+            "carbs": 0,
+            "fat": 1.5
+          },
+          {
+            "ingredient": "Whole Wheat Bread",
+            "quantity": "2 slices (70g)",
+            "calories": 180,
+            "protein": 8,
+            "carbs": 32,
+            "fat": 2
+          },
+          {
+            "ingredient": "Mayonnaise",
+            "quantity": "1 tbsp (15g)",
+            "calories": 94,
+            "protein": 0.1,
+            "carbs": 0.1,
+            "fat": 10
+          },
+          {
+            "ingredient": "Lettuce",
+            "quantity": "1 leaf",
+            "calories": 1,
+            "protein": 0.1,
+            "carbs": 0.2,
+            "fat": 0
+          }
+        ],
+        "totalNutrition": {
+          "calories": 440,
+          "protein": 44.2,
+          "carbs": 32.3,
+          "fat": 13.5
+        },
+        "preparation": "Mix canned tuna with mayonnaise. Spread on whole wheat bread and add lettuce. Serve as a sandwich."
+      },
+      {
+        "mealName": "Snack",
+        "description": "Hummus with Carrot Sticks",
+        "ingredients": [
+          {
+            "ingredient": "Hummus",
+            "quantity": "100g",
+            "calories": 166,
+            "protein": 8,
+            "carbs": 14,
+            "fat": 9
+          },
+          {
+            "ingredient": "Carrot Sticks",
+            "quantity": "100g",
+            "calories": 41,
+            "protein": 1,
+            "carbs": 10,
+            "fat": 0.2
+          }
+        ],
+        "totalNutrition": {
+          "calories": 207,
+          "protein": 9,
+          "carbs": 24,
+          "fat": 9.2
+        },
+        "preparation": "Serve hummus in a bowl with carrot sticks on the side for dipping."
+      },
+      {
+        "mealName": "Dinner",
+        "description": "Pasta with Meat Sauce",
+        "ingredients": [
+          {
+            "ingredient": "Whole Wheat Pasta (Dry)",
+            "quantity": "100g",
+            "calories": 348,
+            "protein": 14,
+            "carbs": 71,
+            "fat": 2
+          },
+          {
+            "ingredient": "Ground Beef (Lean)",
+            "quantity": "100g",
+            "calories": 250,
+            "protein": 26,
+            "carbs": 0,
+            "fat": 17
+          },
+          {
+            "ingredient": "Tomato Sauce",
+            "quantity": "100g",
+            "calories": 70,
+            "protein": 2,
+            "carbs": 15,
+            "fat": 0.5
+          }
+        ],
+        "totalNutrition": {
+          "calories": 668,
+          "protein": 42,
+          "carbs": 86,
+          "fat": 19.5
+        },
+        "preparation": "Cook the pasta according to package instructions. In a separate pan, cook ground beef until browned, add tomato sauce, and simmer. Serve over the pasta."
+      },
+      {
+        "mealName": "Evening Snack",
+        "description": "Peanut Butter Rice Cakes",
+        "ingredients": [
+          {
+            "ingredient": "Rice Cakes",
+            "quantity": "2 cakes (20g)",
+            "calories": 72,
+            "protein": 1,
+            "carbs": 15,
+            "fat": 0.3
+          },
+          {
+            "ingredient": "Peanut Butter",
+            "quantity": "2 tbsp (32g)",
+            "calories": 188,
+            "protein": 8,
+            "carbs": 6,
+            "fat": 16
+          }
+        ],
+        "totalNutrition": {
+          "calories": 260,
+          "protein": 9,
+          "carbs": 21,
+          "fat": 16.3
+        },
+        "preparation": "Spread peanut butter on rice cakes and enjoy as a snack."
+      }
+    ],
+    "totalDailyNutrition": {
+      "calories": 2.257,
+      "protein": 137.7,
+      "carbs": 199.4,
+      "fat": 81.9
+    }
+  },
+  "massGainDiet3": {
+    "day": "3",
+    "meals": [
+      {
+        "mealName": "Breakfast",
+        "description": "Greek Yogurt Parfait with Granola and Berries",
+        "ingredients": [
+          {
+            "ingredient": "Greek Yogurt (Full-fat)",
+            "quantity": "200g",
+            "calories": 200,
+            "protein": 20,
+            "carbs": 9,
+            "fat": 10
+          },
+          {
+            "ingredient": "Granola",
+            "quantity": "50g",
+            "calories": 200,
+            "protein": 5,
+            "carbs": 40,
+            "fat": 5
+          },
+          {
+            "ingredient": "Mixed Berries",
+            "quantity": "100g",
+            "calories": 57,
+            "protein": 1,
+            "carbs": 14,
+            "fat": 0.3
+          }
+        ],
+        "totalNutrition": {
+          "calories": 457,
+          "protein": 26,
+          "carbs": 63,
+          "fat": 15.3
+        },
+        "preparation": "Layer Greek yogurt with granola and mixed berries in a bowl or glass."
+      },
+      {
+        "mealName": "Snack",
+        "description": "Cottage Cheese with Sliced Peaches",
+        "ingredients": [
+          {
+            "ingredient": "Cottage Cheese (Low-fat)",
+            "quantity": "200g",
+            "calories": 81,
+            "protein": 11,
+            "carbs": 4.3,
+            "fat": 1.0
+          },
+          {
+            "ingredient": "Peach (Fresh)",
+            "quantity": "1 medium",
+            "calories": 58,
+            "protein": 1,
+            "carbs": 14,
+            "fat": 0.3
+          }
+        ],
+        "totalNutrition": {
+          "calories": 139,
+          "protein": 12,
+          "carbs": 18.3,
+          "fat": 1.3
+        },
+        "preparation": "Combine cottage cheese with sliced peaches in a bowl and mix gently."
+      },
+      {
+        "mealName": "Lunch",
+        "description": "Quinoa Salad with Chickpeas and Vegetables",
+        "ingredients": [
+          {
+            "ingredient": "Quinoa (Cooked)",
+            "quantity": "150g",
+            "calories": 168,
+            "protein": 6,
+            "carbs": 29,
+            "fat": 3
+          },
+          {
+            "ingredient": "Canned Chickpeas (Drained)",
+            "quantity": "100g",
+            "calories": 164,
+            "protein": 9,
+            "carbs": 27,
+            "fat": 2.6
+          },
+          {
+            "ingredient": "Bell Pepper (Chopped)",
+            "quantity": "1 medium",
+            "calories": 24,
+            "protein": 1,
+            "carbs": 6,
+            "fat": 0.3
+          },
+          {
+            "ingredient": "Cucumber (Chopped)",
+            "quantity": "100g",
+            "calories": 16,
+            "protein": 0.7,
+            "carbs": 3.8,
+            "fat": 0.1
+          },
+          {
+            "ingredient": "Olive Oil",
+            "quantity": "1 tbsp (15ml)",
+            "calories": 119,
+            "protein": 0,
+            "carbs": 0,
+            "fat": 14
+          }
+        ],
+        "totalNutrition": {
+          "calories": 491,
+          "protein": 16.7,
+          "carbs": 65.8,
+          "fat": 20
+        },
+        "preparation": "In a bowl, mix cooked quinoa, chickpeas, chopped bell pepper, cucumber, and olive oil. Toss to combine."
+      },
+      {
+        "mealName": "Snack",
+        "description": "Rice Cakes with Almond Butter",
+        "ingredients": [
+          {
+            "ingredient": "Rice Cakes",
+            "quantity": "2 cakes (20g)",
+            "calories": 72,
+            "protein": 1,
+            "carbs": 15,
+            "fat": 0.3
+          },
+          {
+            "ingredient": "Almond Butter",
+            "quantity": "2 tbsp (32g)",
+            "calories": 196,
+            "protein": 7,
+            "carbs": 6,
+            "fat": 18
+          }
+        ],
+        "totalNutrition": {
+          "calories": 268,
+          "protein": 8,
+          "carbs": 21,
+          "fat": 18.3
+        },
+        "preparation": "Spread almond butter on rice cakes and enjoy as a snack."
+      },
+      {
+        "mealName": "Dinner",
+        "description": "Salmon with Sweet Potato and Asparagus",
+        "ingredients": [
+          {
+            "ingredient": "Salmon Fillet",
+            "quantity": "150g",
+            "calories": 280,
+            "protein": 39,
+            "carbs": 0,
+            "fat": 13
+          },
+          {
+            "ingredient": "Sweet Potato (Baked)",
+            "quantity": "200g",
+            "calories": 180,
+            "protein": 4,
+            "carbs": 41,
+            "fat": 0.3
+          },
+          {
+            "ingredient": "Asparagus (Steamed)",
+            "quantity": "100g",
+            "calories": 20,
+            "protein": 2.2,
+            "carbs": 3.7,
+            "fat": 0.2
+          }
+        ],
+        "totalNutrition": {
+          "calories": 480,
+          "protein": 45.4,
+          "carbs": 44.7,
+          "fat": 13.5
+        },
+        "preparation": "Bake the salmon fillet and sweet potato. Steam asparagus until tender. Serve together."
+      },
+      {
+        "mealName": "Evening Snack",
+        "description": "Chocolate Protein Bar",
+        "ingredients": [
+          {
+            "ingredient": "Protein Bar",
+            "quantity": "1 bar (60g)",
+            "calories": 200,
+            "protein": 20,
+            "carbs": 25,
+            "fat": 7
+          }
+        ],
+        "totalNutrition": {
+          "calories": 200,
+          "protein": 20,
+          "carbs": 25,
+          "fat": 7
+        },
+        "preparation": "Enjoy the protein bar as a convenient evening snack."
+      }
+    ],
+    "totalDailyNutrition": {
+      "calories": 2.275,
+      "protein": 127.1,
+      "carbs": 235.9,
+      "fat": 75.4
+    }
+  }},
+  "fatLoss":{
+    "fatLossDiet1": {
+    "day": "1",
+    "meals": [
+      {
+        "mealName": "Breakfast",
+        "description": "Oatmeal with Berries and Almonds",
+        "ingredients": [
+          {
+            "ingredient": "Rolled Oats",
+            "quantity": "50g",
+            "calories": 194,
+            "protein": 7,
+            "carbs": 33,
+            "fat": 4
+          },
+          {
+            "ingredient": "Mixed Berries",
+            "quantity": "100g",
+            "calories": 57,
+            "protein": 1,
+            "carbs": 14,
+            "fat": 0.3
+          },
+          {
+            "ingredient": "Almonds",
+            "quantity": "10g",
+            "calories": 58,
+            "protein": 2,
+            "carbs": 2,
+            "fat": 5
+          }
+        ],
+        "totalNutrition": {
+          "calories": 309,
+          "protein": 10,
+          "carbs": 49,
+          "fat": 9.3
+        },
+        "preparation": "Cook the rolled oats according to package instructions. Top with mixed berries and chopped almonds."
+      },
+      {
+        "mealName": "Snack",
+        "description": "Celery Sticks with Hummus",
+        "ingredients": [
+          {
+            "ingredient": "Celery Sticks",
+            "quantity": "100g",
+            "calories": 16,
+            "protein": 0.7,
+            "carbs": 3,
+            "fat": 0.2
+          },
+          {
+            "ingredient": "Hummus",
+            "quantity": "50g",
+            "calories": 166,
+            "protein": 8,
+            "carbs": 14,
+            "fat": 9
+          }
+        ],
+        "totalNutrition": {
+          "calories": 182,
+          "protein": 8.7,
+          "carbs": 17,
+          "fat": 9.2
+        },
+        "preparation": "Serve hummus in a bowl with celery sticks for dipping."
+      },
+      {
+        "mealName": "Lunch",
+        "description": "Grilled Chicken Salad",
+        "ingredients": [
+          {
+            "ingredient": "Grilled Chicken Breast",
+            "quantity": "150g",
+            "calories": 165,
+            "protein": 31,
+            "carbs": 0,
+            "fat": 3.6
+          },
+          {
+            "ingredient": "Mixed Greens",
+            "quantity": "100g",
+            "calories": 20,
+            "protein": 2,
+            "carbs": 4,
+            "fat": 0.4
+          },
+          {
+            "ingredient": "Cherry Tomatoes",
+            "quantity": "100g",
+            "calories": 18,
+            "protein": 0.9,
+            "carbs": 4,
+            "fat": 0.2
+          },
+          {
+            "ingredient": "Olive Oil (for dressing)",
+            "quantity": "1 tbsp (15ml)",
+            "calories": 119,
+            "protein": 0,
+            "carbs": 0,
+            "fat": 14
+          }
+        ],
+        "totalNutrition": {
+          "calories": 322,
+          "protein": 34.9,
+          "carbs": 8,
+          "fat": 18.2
+        },
+        "preparation": "Slice grilled chicken and toss it with mixed greens, cherry tomatoes, and olive oil."
+      },
+      {
+        "mealName": "Snack",
+        "description": "Greek Yogurt with Honey and Cinnamon",
+        "ingredients": [
+          {
+            "ingredient": "Greek Yogurt (Non-fat)",
+            "quantity": "150g",
+            "calories": 100,
+            "protein": 15,
+            "carbs": 6,
+            "fat": 0
+          },
+          {
+            "ingredient": "Honey",
+            "quantity": "1 tsp (7g)",
+            "calories": 21,
+            "protein": 0,
+            "carbs": 5.8,
+            "fat": 0
+          },
+          {
+            "ingredient": "Cinnamon",
+            "quantity": "1/2 tsp",
+            "calories": 3,
+            "protein": 0.1,
+            "carbs": 0.8,
+            "fat": 0
+          }
+        ],
+        "totalNutrition": {
+          "calories": 124,
+          "protein": 15.1,
+          "carbs": 12.6,
+          "fat": 0
+        },
+        "preparation": "Mix Greek yogurt with honey and sprinkle cinnamon on top."
+      },
+      {
+        "mealName": "Dinner",
+        "description": "Baked Cod with Broccoli and Quinoa",
+        "ingredients": [
+          {
+            "ingredient": "Baked Cod",
+            "quantity": "150g",
+            "calories": 168,
+            "protein": 35,
+            "carbs": 0,
+            "fat": 1.6
+          },
+          {
+            "ingredient": "Broccoli (Steamed)",
+            "quantity": "150g",
+            "calories": 52,
+            "protein": 4.6,
+            "carbs": 10,
+            "fat": 0.6
+          },
+          {
+            "ingredient": "Quinoa (Cooked)",
+            "quantity": "100g",
+            "calories": 120,
+            "protein": 4.1,
+            "carbs": 21,
+            "fat": 1.9
+          }
+        ],
+        "totalNutrition": {
+          "calories": 340,
+          "protein": 43.7,
+          "carbs": 31,
+          "fat": 4.1
+        },
+        "preparation": "Bake the cod in the oven and steam the broccoli. Serve with cooked quinoa."
+      },
+      {
+        "mealName": "Evening Snack",
+        "description": "Sliced Cucumber with Lemon Juice",
+        "ingredients": [
+          {
+            "ingredient": "Cucumber",
+            "quantity": "150g",
+            "calories": 24,
+            "protein": 1.2,
+            "carbs": 5,
+            "fat": 0.2
+          },
+          {
+            "ingredient": "Lemon Juice",
+            "quantity": "1 tbsp (15ml)",
+            "calories": 4,
+            "protein": 0.1,
+            "carbs": 1.3,
+            "fat": 0
+          }
+        ],
+        "totalNutrition": {
+          "calories": 28,
+          "protein": 1.3,
+          "carbs": 6.3,
+          "fat": 0.2
+        },
+        "preparation": "Slice cucumber and drizzle with lemon juice."
+      }
+    ],
+    "totalDailyNutrition": {
+      "calories": 1.303,
+      "protein": 113,
+      "carbs": 124.9,
+      "fat": 41.0
+    }
+  },
+  "fatLossDiet2": {
+    "day": "2",
+    "meals": [
+      {
+        "mealName": "Breakfast",
+        "description": "Smoothie with Spinach, Banana, and Protein Powder",
+        "ingredients": [
+          {
+            "ingredient": "Fresh Spinach",
+            "quantity": "100g",
+            "calories": 23,
+            "protein": 2.9,
+            "carbs": 3.6,
+            "fat": 0.4
+          },
+          {
+            "ingredient": "Banana",
+            "quantity": "1 medium (120g)",
+            "calories": 105,
+            "protein": 1.3,
+            "carbs": 27,
+            "fat": 0.3
+          },
+          {
+            "ingredient": "Protein Powder (Whey)",
+            "quantity": "30g",
+            "calories": 120,
+            "protein": 24,
+            "carbs": 3,
+            "fat": 1
+          },
+          {
+            "ingredient": "Almond Milk (Unsweetened)",
+            "quantity": "200ml",
+            "calories": 30,
+            "protein": 1,
+            "carbs": 1,
+            "fat": 2.5
+          }
+        ],
+        "totalNutrition": {
+          "calories": 278,
+          "protein": 29.2,
+          "carbs": 34.6,
+          "fat": 4.2
+        },
+        "preparation": "Blend spinach, banana, protein powder, and almond milk until smooth."
+      },
+      {
+        "mealName": "Snack",
+        "description": "Hard-Boiled Eggs",
+        "ingredients": [
+          {
+            "ingredient": "Eggs",
+            "quantity": "2 large",
+            "calories": 156,
+            "protein": 12,
+            "carbs": 1,
+            "fat": 10
+          }
+        ],
+        "totalNutrition": {
+          "calories": 156,
+          "protein": 12,
+          "carbs": 1,
+          "fat": 10
+        },
+        "preparation": "Boil eggs for 10-12 minutes, cool, peel, and enjoy."
+      },
+      {
+        "mealName": "Lunch",
+        "description": "Turkey Wrap with Lettuce and Avocado",
+        "ingredients": [
+          {
+            "ingredient": "Whole Wheat Tortilla",
+            "quantity": "1 medium (50g)",
+            "calories": 130,
+            "protein": 4,
+            "carbs": 23,
+            "fat": 3
+          },
+          {
+            "ingredient": "Sliced Turkey Breast",
+            "quantity": "100g",
+            "calories": 135,
+            "protein": 30,
+            "carbs": 1,
+            "fat": 1
+          },
+          {
+            "ingredient": "Lettuce",
+            "quantity": "50g",
+            "calories": 8,
+            "protein": 0.5,
+            "carbs": 1.5,
+            "fat": 0.1
+          },
+          {
+            "ingredient": "Avocado",
+            "quantity": "50g",
+            "calories": 80,
+            "protein": 1,
+            "carbs": 4,
+            "fat": 7.5
+          }
+        ],
+        "totalNutrition": {
+          "calories": 353,
+          "protein": 36.5,
+          "carbs": 30.5,
+          "fat": 11.6
+        },
+        "preparation": "Layer turkey, lettuce, and avocado on a tortilla. Roll up and slice in half."
+      },
+      {
+        "mealName": "Snack",
+        "description": "Apple with Peanut Butter",
+        "ingredients": [
+          {
+            "ingredient": "Apple (Medium)",
+            "quantity": "1 (180g)",
+            "calories": 95,
+            "protein": 0.5,
+            "carbs": 25,
+            "fat": 0.3
+          },
+          {
+            "ingredient": "Natural Peanut Butter",
+            "quantity": "1 tbsp (16g)",
+            "calories": 94,
+            "protein": 4,
+            "carbs": 3,
+            "fat": 8
+          }
+        ],
+        "totalNutrition": {
+          "calories": 189,
+          "protein": 4.5,
+          "carbs": 28,
+          "fat": 8.3
+        },
+        "preparation": "Slice apple and serve with peanut butter for dipping."
+      },
+      {
+        "mealName": "Dinner",
+        "description": "Zucchini Noodles with Marinara Sauce and Grilled Shrimp",
+        "ingredients": [
+          {
+            "ingredient": "Zucchini (Spiralized)",
+            "quantity": "200g",
+            "calories": 33,
+            "protein": 2.4,
+            "carbs": 6,
+            "fat": 0.6
+          },
+          {
+            "ingredient": "Marinara Sauce",
+            "quantity": "100g",
+            "calories": 70,
+            "protein": 2,
+            "carbs": 12,
+            "fat": 2.5
+          },
+          {
+            "ingredient": "Grilled Shrimp",
+            "quantity": "100g",
+            "calories": 99,
+            "protein": 24,
+            "carbs": 0,
+            "fat": 1
+          }
+        ],
+        "totalNutrition": {
+          "calories": 202,
+          "protein": 28.4,
+          "carbs": 18,
+          "fat": 4.1
+        },
+        "preparation": "Sauté zucchini noodles in a pan, add marinara sauce, and top with grilled shrimp."
+      },
+      {
+        "mealName": "Evening Snack",
+        "description": "Chia Seed Pudding",
+        "ingredients": [
+          {
+            "ingredient": "Chia Seeds",
+            "quantity": "30g",
+            "calories": 150,
+            "protein": 5,
+            "carbs": 12,
+            "fat": 9
+          },
+          {
+            "ingredient": "Coconut Milk (Light)",
+            "quantity": "100ml",
+            "calories": 50,
+            "protein": 0.5,
+            "carbs": 1,
+            "fat": 5
+          },
+          {
+            "ingredient": "Vanilla Extract",
+            "quantity": "1/2 tsp",
+            "calories": 3,
+            "protein": 0,
+            "carbs": 0.1,
+            "fat": 0
+          }
+        ],
+        "totalNutrition": {
+          "calories": 203,
+          "protein": 5.5,
+          "carbs": 13.1,
+          "fat": 14
+        },
+        "preparation": "Mix chia seeds with coconut milk and vanilla extract. Let it sit in the fridge for a few hours to thicken."
+      }
+    ],
+    "totalDailyNutrition": {
+      "calories": 1.425,
+      "protein": 112.5,
+      "carbs": 135.7,
+      "fat": 41.3
+    }
+  },
+  "fatLossDiet3": {
+    "day": "3",
+    "meals": [
+      {
+        "mealName": "Breakfast",
+        "description": "Greek Yogurt Parfait with Granola and Berries",
+        "ingredients": [
+          {
+            "ingredient": "Greek Yogurt (Non-fat)",
+            "quantity": "200g",
+            "calories": 120,
+            "protein": 22,
+            "carbs": 8,
+            "fat": 0
+          },
+          {
+            "ingredient": "Granola",
+            "quantity": "30g",
+            "calories": 120,
+            "protein": 3,
+            "carbs": 22,
+            "fat": 2
+          },
+          {
+            "ingredient": "Mixed Berries",
+            "quantity": "100g",
+            "calories": 57,
+            "protein": 1,
+            "carbs": 14,
+            "fat": 0.3
+          }
+        ],
+        "totalNutrition": {
+          "calories": 297,
+          "protein": 26,
+          "carbs": 44,
+          "fat": 2.3
+        },
+        "preparation": "Layer Greek yogurt with granola and mixed berries in a bowl."
+      },
+      {
+        "mealName": "Snack",
+        "description": "Carrot Sticks with Hummus",
+        "ingredients": [
+          {
+            "ingredient": "Carrot Sticks",
+            "quantity": "100g",
+            "calories": 41,
+            "protein": 0.9,
+            "carbs": 10,
+            "fat": 0.2
+          },
+          {
+            "ingredient": "Hummus",
+            "quantity": "50g",
+            "calories": 166,
+            "protein": 8,
+            "carbs": 14,
+            "fat": 9
+          }
+        ],
+        "totalNutrition": {
+          "calories": 207,
+          "protein": 8.9,
+          "carbs": 24,
+          "fat": 9.2
+        },
+        "preparation": "Serve hummus in a bowl with carrot sticks for dipping."
+      },
+      {
+        "mealName": "Lunch",
+        "description": "Quinoa Salad with Chickpeas and Veggies",
+        "ingredients": [
+          {
+            "ingredient": "Cooked Quinoa",
+            "quantity": "100g",
+            "calories": 120,
+            "protein": 4.1,
+            "carbs": 21,
+            "fat": 1.9
+          },
+          {
+            "ingredient": "Canned Chickpeas (Drained)",
+            "quantity": "100g",
+            "calories": 164,
+            "protein": 9,
+            "carbs": 27,
+            "fat": 2.6
+          },
+          {
+            "ingredient": "Bell Peppers (Chopped)",
+            "quantity": "50g",
+            "calories": 15,
+            "protein": 0.6,
+            "carbs": 3,
+            "fat": 0.2
+          },
+          {
+            "ingredient": "Olive Oil (for dressing)",
+            "quantity": "1 tbsp (15ml)",
+            "calories": 119,
+            "protein": 0,
+            "carbs": 0,
+            "fat": 14
+          }
+        ],
+        "totalNutrition": {
+          "calories": 418,
+          "protein": 13.7,
+          "carbs": 51,
+          "fat": 18.7
+        },
+        "preparation": "Combine quinoa, chickpeas, and bell peppers in a bowl. Drizzle with olive oil."
+      },
+      {
+        "mealName": "Snack",
+        "description": "Cottage Cheese with Pineapple",
+        "ingredients": [
+          {
+            "ingredient": "Cottage Cheese (Low-fat)",
+            "quantity": "150g",
+            "calories": 120,
+            "protein": 20,
+            "carbs": 6,
+            "fat": 2
+          },
+          {
+            "ingredient": "Pineapple Chunks (Canned in Juice)",
+            "quantity": "100g",
+            "calories": 50,
+            "protein": 0.5,
+            "carbs": 13,
+            "fat": 0.1
+          }
+        ],
+        "totalNutrition": {
+          "calories": 170,
+          "protein": 20.5,
+          "carbs": 19,
+          "fat": 2.1
+        },
+        "preparation": "Mix cottage cheese with pineapple chunks in a bowl."
+      },
+      {
+        "mealName": "Dinner",
+        "description": "Stir-Fried Tofu with Vegetables",
+        "ingredients": [
+          {
+            "ingredient": "Firm Tofu",
+            "quantity": "150g",
+            "calories": 144,
+            "protein": 15,
+            "carbs": 3,
+            "fat": 9
+          },
+          {
+            "ingredient": "Mixed Vegetables (Broccoli, Carrots, Bell Peppers)",
+            "quantity": "200g",
+            "calories": 70,
+            "protein": 3,
+            "carbs": 14,
+            "fat": 0.4
+          },
+          {
+            "ingredient": "Soy Sauce",
+            "quantity": "1 tbsp (15ml)",
+            "calories": 10,
+            "protein": 1,
+            "carbs": 1,
+            "fat": 0
+          }
+        ],
+        "totalNutrition": {
+          "calories": 224,
+          "protein": 19,
+          "carbs": 18,
+          "fat": 9.4
+        },
+        "preparation": "Stir-fry tofu and mixed vegetables in a non-stick pan with soy sauce until heated through."
+      },
+      {
+        "mealName": "Evening Snack",
+        "description": "Air-Popped Popcorn",
+        "ingredients": [
+          {
+            "ingredient": "Air-Popped Popcorn",
+            "quantity": "30g",
+            "calories": 120,
+            "protein": 3,
+            "carbs": 24,
+            "fat": 1
+          }
+        ],
+        "totalNutrition": {
+          "calories": 120,
+          "protein": 3,
+          "carbs": 24,
+          "fat": 1
+        },
+        "preparation": "Air-pop popcorn kernels and season lightly with salt."
+      }
+    ],
+    "totalDailyNutrition": {
+      "calories": 1.436,
+      "protein": 91.8,
+      "carbs": 139,
+      "fat": 41.7
+    }
+  }
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "bodyTypeSelection": {
+      "introduction": "Welcome to your fitness journey! To personalize your experience, please choose your body type. Read the hints carefully to help you identify which type you are.",
+      "bodyTypes": [
+        {
+          "type": "Ectomorph",
+          "hint": "You have a slim build with narrow shoulders and hips. You find it hard to gain weight, even when eating a lot. You may have long limbs and a fast metabolism.",
+          "description": "Ectomorphs typically have a lean physique and may struggle to gain muscle mass. They often have smaller bone structures and lower body fat."
+        },
+        {
+          "type": "Mesomorph",
+          "hint": "You have an athletic build with broad shoulders and a narrow waist. You gain and lose weight relatively easily and have well-defined muscles.",
+          "description": "Mesomorphs are naturally strong and muscular, making it easier for them to build muscle and maintain a healthy weight."
+        },
+        {
+          "type": "Endomorph",
+          "hint": "You have a rounder physique with wider hips and shoulders. You tend to gain weight easily and may have a slower metabolism.",
+          "description": "Endomorphs can build muscle quickly but may struggle with fat loss. They often have a softer body composition."
+        }
+      ],
+      "instruction": "Select the body type that best describes you, and let's get started on your fitness goals!"
+    }
+  }
+  

@@ -1,0 +1,775 @@
+{
+  "quizzes": [
+    {
+      "level": 1,
+      "questions": [
+        [
+          {
+            "question": "Lionel Messi ha ganado más premios Balón de Oro que Cristiano Ronaldo.",
+            "answer": true
+          },
+          {
+            "question": "La Copa Mundial FIFA 2018 se celebró en Brasil.",
+            "answer": false
+          },
+          {
+            "question": "El Real Madrid ha ganado más títulos de la Liga de Campeones de la UEFA.",
+            "answer": true
+          },
+          {
+            "question": "La Premier League es la división profesional de fútbol más alta de Alemania.",
+            "answer": false
+          },
+          {
+            "question": "Diego Maradona anotó el gol de 'La Mano de Dios' durante la Copa Mundial de 1986.",
+            "answer": true
+          },
+          {
+            "question": "El estadio local del Manchester United se llama Anfield.",
+            "answer": false
+          },
+          {
+            "question": "La Copa Mundial FIFA se celebra cada cuatro años.",
+            "answer": true
+          },
+          {
+            "question": "El Campeonato Europeo de la UEFA también se conoce como la Eurocopa.",
+            "answer": true
+          },
+          {
+            "question": "Pelé es conocido por marcar más de 1000 goles en su carrera.",
+            "answer": true
+          },
+          {
+            "question": "El Arsenal nunca ha ganado el título de la Premier League.",
+            "answer": false
+          }
+        ],
+        [
+          {
+            "question": "Bayern Munich ganó la UEFA Champions League en la temporada 2019-2020.",
+            "answer": true
+          },
+          {
+            "question": "Robert Lewandowski ganó el premio al Jugador del Año de la UEFA en 2020.",
+            "answer": true
+          },
+          {
+            "question": "Argentina ganó la Copa América en 2020.",
+            "answer": true
+          },
+          {
+            "question": "Mohamed Salah fue el máximo goleador de la Premier League en la temporada 2021-2022.",
+            "answer": true
+          },
+          {
+            "question": "Villarreal fue el club ganador de la UEFA Europa League en la temporada 2020-2021.",
+            "answer": true
+          },
+          {
+            "question": "Portugal ganó el Campeonato Europeo de la UEFA en 2016.",
+            "answer": true
+          },
+          {
+            "question": "Brian Romero fue el máximo goleador en la Copa Libertadores en 2021.",
+            "answer": true
+          },
+          {
+            "question": "Arsenal es el club que ha ganado más títulos de la FA Cup.",
+            "answer": true
+          },
+          {
+            "question": "Canadá ganó la medalla de oro más reciente en fútbol femenino en los Juegos Olímpicos.",
+            "answer": true
+          },
+          {
+            "question": "Robert Lewandowski ganó el premio al Mejor Jugador de la FIFA en 2020.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "Cristiano Ronaldo es el jugador que ha ganado más premios Balón de Oro.",
+            "answer": false
+          },
+          {
+            "question": "Ajax es el club que ganó la Copa de Campeones de la UEFA en la temporada 1983.",
+            "answer": false
+          },
+          {
+            "question": "Diego Milito fue el máximo goleador en la Copa Libertadores en el año 2013.",
+            "answer": true
+          },
+          {
+            "question": "Manchester City ganó la Premier League en la temporada 2020-2021.",
+            "answer": true
+          },
+          {
+            "question": "Barcelona es el club que ha ganado más títulos de la Supercopa de Europa.",
+            "answer": true
+          },
+          {
+            "question": "Roberto Baggio es el jugador que ha ganado más títulos de la Copa Libertadores.",
+            "answer": false
+          },
+          {
+            "question": "Brasil es el país que ha ganado más títulos de la Copa del Mundo de la FIFA.",
+            "answer": true
+          },
+          {
+            "question": "Joseph Blatter fue presidente de la Federación Internacional de Fútbol Asociación (FIFA).",
+            "answer": true
+          },
+          {
+            "question": "Paolo Maldini es el jugador que ha ganado más títulos de la Liga de Campeones de la UEFA.",
+            "answer": false
+          },
+          {
+            "question": "El Atlético de Madrid ganó la Supercopa de España en la temporada 2020-2021.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "Lionel Messi ha ganado más premios Balón de Oro que Cristiano Ronaldo.",
+            "answer": true
+          },
+          {
+            "question": "La Copa Mundial de la FIFA 2018 se celebró en Brasil.",
+            "answer": false
+          },
+          {
+            "question": "El Real Madrid ha ganado la mayoría de los títulos de la UEFA Champions League.",
+            "answer": true
+          },
+          {
+            "question": "La Premier League es la principal división profesional de fútbol de Alemania.",
+            "answer": false
+          },
+          {
+            "question": "Diego Maradona marcó el gol 'Mano de Dios' durante la Copa Mundial de 1986.",
+            "answer": true
+          },
+          {
+            "question": "El estadio local del Manchester United se llama Anfield.",
+            "answer": false
+          },
+          {
+            "question": "La Copa Mundial de la FIFA se celebra cada cuatro años.",
+            "answer": true
+          },
+          {
+            "question": "El Campeonato de Europa de la UEFA también se conoce como la Eurocopa.",
+            "answer": true
+          },
+          {
+            "question": "Pelé es conocido por haber marcado más de 1,000 goles en su carrera.",
+            "answer": true
+          },
+          {
+            "question": "El Arsenal nunca ha ganado el título de la Premier League.",
+            "answer": false
+          }
+        ],
+        [
+          {
+            "question": "Cristiano Ronaldo ha ganado la UEFA Champions League con tres clubes diferentes.",
+            "answer": false
+          },
+          {
+            "question": "La Copa Mundial de la FIFA 2014 se celebró en Alemania.",
+            "answer": false
+          },
+          {
+            "question": "El estadio local del FC Barcelona es el Camp Nou.",
+            "answer": true
+          },
+          {
+            "question": "La Liga es la principal división profesional de fútbol en Italia.",
+            "answer": false
+          },
+          {
+            "question": "Zinedine Zidane ganó el Balón de Oro en 1998.",
+            "answer": true
+          },
+          {
+            "question": "El Liverpool FC ha ganado más títulos de liga inglesa que el Manchester United.",
+            "answer": false
+          },
+          {
+            "question": "La Copa América es un torneo de fútbol celebrado en Sudamérica.",
+            "answer": true
+          },
+          {
+            "question": "David Beckham jugó para el Manchester City.",
+            "answer": false
+          },
+          {
+            "question": "Brasil ha ganado la mayoría de los títulos de la Copa Mundial de la FIFA.",
+            "answer": true
+          },
+          {
+            "question": "La MLS es una liga profesional de fútbol en México.",
+            "answer": false
+          }
+        ],
+        [
+          {
+            "question": "Lionel Messi nunca ha jugado para ningún club fuera de Europa.",
+            "answer": false
+          },
+          {
+            "question": "La Copa Mundial de la FIFA 2006 se celebró en Alemania.",
+            "answer": true
+          },
+          {
+            "question": "El estadio local del Real Madrid es el Santiago Bernabéu.",
+            "answer": true
+          },
+          {
+            "question": "La Bundesliga es la principal división profesional de fútbol en Francia.",
+            "answer": false
+          },
+          {
+            "question": "Pelé ha ganado la Copa Mundial de la FIFA tres veces.",
+            "answer": true
+          },
+          {
+            "question": "El estadio local del Chelsea FC es Stamford Bridge.",
+            "answer": true
+          },
+          {
+            "question": "La final de la UEFA Champions League se celebra cada dos años.",
+            "answer": false
+          },
+          {
+            "question": "Cristiano Ronaldo ha ganado el Balón de Oro cinco veces.",
+            "answer": true
+          },
+          {
+            "question": "El Manchester City ha ganado la Premier League más de 10 veces.",
+            "answer": false
+          },
+          {
+            "question": "La Copa Africana de Naciones se celebra cada cuatro años.",
+            "answer": false
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        [
+          {
+            "question": "Ronaldo Nazário ganó el Botín de Oro de la Copa del Mundo FIFA en 2002.",
+            "answer": true
+          },
+          {
+            "question": "Ajax Amsterdam es el único club neerlandés que ha ganado la Liga de Campeones de la UEFA.",
+            "answer": true
+          },
+          {
+            "question": "Wayne Rooney comenzó su carrera profesional en el Everton FC.",
+            "answer": true
+          },
+          {
+            "question": "La Copa Confederaciones de la FIFA se celebra cada dos años.",
+            "answer": false
+          },
+          {
+            "question": "Andrea Pirlo ganó la Liga de Campeones de la UEFA con el AC Milan.",
+            "answer": true
+          },
+          {
+            "question": "Frank Lampard jugó para el Manchester United antes de unirse al Chelsea.",
+            "answer": false
+          },
+          {
+            "question": "Lionel Messi ha ganado la Copa América con Argentina.",
+            "answer": true
+          },
+          {
+            "question": "Thierry Henry comenzó su carrera en el AS Monaco.",
+            "answer": true
+          },
+          {
+            "question": "Didier Drogba no ganó el Botín de Oro de la Premier League en la temporada 2010-2011.",
+            "answer": false
+          },
+          {
+            "question": "La Bundesliga es la división profesional más alta de fútbol en Francia.",
+            "answer": false
+          }
+        ],
+        [
+          {
+            "question": "Zinedine Zidane cabeceó a Marco Materazzi en la final de la Copa del Mundo de 2006.",
+            "answer": true
+          },
+          {
+            "question": "Bayern Munich es un club de fútbol con sede en España.",
+            "answer": false
+          },
+          {
+            "question": "Cristiano Ronaldo comenzó su carrera profesional en el Sporting CP.",
+            "answer": true
+          },
+          {
+            "question": "El Estadio Maracanã está ubicado en Buenos Aires.",
+            "answer": false
+          },
+          {
+            "question": "AC Milan ha ganado más títulos de la Liga de Campeones de la UEFA que Inter de Milán.",
+            "answer": true
+          },
+          {
+            "question": "El nombre original de Juventus FC es 'Football Club Juventus'.",
+            "answer": false
+          },
+          {
+            "question": "La Copa Mundial de la FIFA de 2002 se celebró en Corea del Sur y Japón.",
+            "answer": true
+          },
+          {
+            "question": "Steven Gerrard jugó toda su carrera en el Manchester City.",
+            "answer": false
+          },
+          {
+            "question": "Luis Figo se transfirió directamente del Barcelona al Real Madrid.",
+            "answer": true
+          },
+          {
+            "question": "La Serie A es la máxima división profesional de fútbol en Italia.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "Johan Cruyff ganó la Liga de Campeones de la UEFA como jugador con el Ajax.",
+            "answer": true
+          },
+          {
+            "question": "Gianluigi Buffon no ha ganado la Eurocopa con Italia.",
+            "answer": false
+          },
+          {
+            "question": "Sergio Ramos comenzó su carrera profesional en el Sevilla FC.",
+            "answer": true
+          },
+          {
+            "question": "La Copa Libertadores es la competición de clubes más prestigiosa de Sudamérica.",
+            "answer": true
+          },
+          {
+            "question": "Thiago Silva ha jugado tanto en el AC Milan como en el Paris Saint-Germain.",
+            "answer": true
+          },
+          {
+            "question": "La Eredivisie es la máxima división profesional de fútbol en Bélgica.",
+            "answer": false
+          },
+          {
+            "question": "Patrick Vieira no ganó la Copa del Mundo con Inglaterra en 2006.",
+            "answer": false
+          },
+          {
+            "question": "Xavi Hernández es el jugador con más apariciones en la historia del FC Barcelona.",
+            "answer": true
+          },
+          {
+            "question": "La MLS Cup es la competición profesional más alta de fútbol en México.",
+            "answer": false
+          },
+          {
+            "question": "Neymar comenzó su carrera profesional en el Santos FC en Brasil.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "Zinedine Zidane cabeceó a Marco Materazzi en la final de la Copa Mundial de 2006.",
+            "answer": true
+          },
+          {
+            "question": "El Bayern de Múnich es un club de fútbol con sede en España.",
+            "answer": false
+          },
+          {
+            "question": "Cristiano Ronaldo comenzó su carrera profesional en el Sporting CP.",
+            "answer": true
+          },
+          {
+            "question": "El Estadio Maracaná está ubicado en Buenos Aires.",
+            "answer": false
+          },
+          {
+            "question": "AC Milan ha ganado más títulos de la UEFA Champions League que el Inter de Milán.",
+            "answer": true
+          },
+          {
+            "question": "El nombre original de Juventus FC es 'Football Club Juventus'.",
+            "answer": false
+          },
+          {
+            "question": "La Copa Mundial de la FIFA 2002 se celebró en Corea del Sur y Japón.",
+            "answer": true
+          },
+          {
+            "question": "Steven Gerrard jugó toda su carrera en el Manchester City.",
+            "answer": false
+          },
+          {
+            "question": "Luis Figo se trasladó directamente del Barcelona al Real Madrid.",
+            "answer": true
+          },
+          {
+            "question": "La Serie A es la principal división profesional de fútbol en Italia.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "Ronaldinho jugó para el Paris Saint-Germain antes de unirse al Barcelona.",
+            "answer": true
+          },
+          {
+            "question": "La Copa Mundial de la FIFA 2010 se celebró en Sudáfrica.",
+            "answer": true
+          },
+          {
+            "question": "Arjen Robben es conocido por su tiempo en el Bayern de Múnich y el Real Madrid.",
+            "answer": true
+          },
+          {
+            "question": "La Copa Libertadores es una competición de clubes en América del Norte.",
+            "answer": false
+          },
+          {
+            "question": "Zlatan Ibrahimović ha jugado en la Premier League.",
+            "answer": true
+          },
+          {
+            "question": "La UEFA Europa League es la competición de clubes de primer nivel en Europa.",
+            "answer": false
+          },
+          {
+            "question": "Andrés Iniesta pasó toda su carrera en el FC Barcelona.",
+            "answer": false
+          },
+          {
+            "question": "La FA Cup es la competición de fútbol más antigua del mundo.",
+            "answer": true
+          },
+          {
+            "question": "Lionel Messi ha marcado más de 700 goles en su carrera.",
+            "answer": true
+          },
+          {
+            "question": "Pep Guardiola ha dirigido tanto al Barcelona como al Real Madrid.",
+            "answer": false
+          }
+        ],
+        [
+          {
+            "question": "Wayne Rooney es el máximo goleador de todos los tiempos del Manchester United.",
+            "answer": true
+          },
+          {
+            "question": "La final de la UEFA Champions League 2008 se celebró en Moscú.",
+            "answer": true
+          },
+          {
+            "question": "Paolo Maldini pasó toda su carrera en el Inter de Milán.",
+            "answer": false
+          },
+          {
+            "question": "Cristiano Ronaldo ganó su primer Balón de Oro en 2008.",
+            "answer": true
+          },
+          {
+            "question": "El Liverpool FC ganó la Premier League en la temporada 2019-2020.",
+            "answer": true
+          },
+          {
+            "question": "David Villa es el máximo goleador de todos los tiempos de España.",
+            "answer": true
+          },
+          {
+            "question": "El Real Madrid nunca ha descendido de La Liga.",
+            "answer": true
+          },
+          {
+            "question": "Thierry Henry jugó para Arsenal y Chelsea.",
+            "answer": false
+          },
+          {
+            "question": "Diego Simeone es el actual entrenador del Atlético de Madrid.",
+            "answer": true
+          },
+          {
+            "question": "La Supercopa de la UEFA la disputan los campeones de la Champions League y la Europa League.",
+            "answer": true
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        [
+          {
+            "question": "Lev Yashin es el único portero que ha ganado el Balón de Oro.",
+            "answer": true
+          },
+          {
+            "question": "Paolo Maldini jugó la mayor parte de su carrera en el AC Milan.",
+            "answer": true
+          },
+          {
+            "question": "La Copa Mundial de Clubes de la FIFA se celebró por primera vez en 2000.",
+            "answer": false
+          },
+          {
+            "question": "Diego Maradona jugó en el FC Barcelona antes de unirse al Napoli.",
+            "answer": true
+          },
+          {
+            "question": "El Bayern de Múnich ganó la UEFA Champions League en la temporada 2012-2013.",
+            "answer": true
+          },
+          {
+            "question": "El premio Bota de Oro se otorga al máximo goleador de la UEFA Champions League.",
+            "answer": false
+          },
+          {
+            "question": "Hristo Stoichkov ganó la Bota de Oro Europea en 1994.",
+            "answer": true
+          },
+          {
+            "question": "La Copa del Mundo de la FIFA fue cancelada en 1942 y 1946 debido a la Segunda Guerra Mundial.",
+            "answer": true
+          },
+          {
+            "question": "David Beckham jugó en el Real Madrid antes de unirse al LA Galaxy.",
+            "answer": true
+          },
+          {
+            "question": "Cafú tiene más apariciones con la selección brasileña de fútbol.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "George Weah es el único jugador africano que ha ganado el Balón de Oro.",
+            "answer": true
+          },
+          {
+            "question": "Boca Juniors ganó la Copa Libertadores en 2007.",
+            "answer": false
+          },
+          {
+            "question": "Alessandro Del Piero jugó la mayor parte de su carrera en la Juventus FC.",
+            "answer": true
+          },
+          {
+            "question": "El trofeo de la Copa del Mundo de la FIFA lleva el nombre de Jules Rimet.",
+            "answer": true
+          },
+          {
+            "question": "Raúl González Blanco ganó la UEFA Champions League con el Real Madrid.",
+            "answer": true
+          },
+          {
+            "question": "El premio al Jugador Mundial de la FIFA se fusionó con el Balón de Oro en 2010.",
+            "answer": true
+          },
+          {
+            "question": "Franz Beckenbauer ganó el Balón de Oro dos veces durante su carrera.",
+            "answer": true
+          },
+          {
+            "question": "Cristiano Ronaldo marcó un hat-trick contra Suiza en las semifinales de la UEFA Nations League en 2019.",
+            "answer": true
+          },
+          {
+            "question": "Hakan Şükür anotó el gol más rápido en la historia de la Copa del Mundo de la FIFA en 2002.",
+            "answer": false
+          },
+          {
+            "question": "Michel Platini dirigió a la selección francesa para ganar la Eurocopa en 1984.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "Luis Suárez ganó la Bota de Oro Europea en la temporada 2013-2014.",
+            "answer": true
+          },
+          {
+            "question": "Inter de Milán ganó el título de la Serie A en la temporada 2005-2006.",
+            "answer": false
+          },
+          {
+            "question": "Roberto Baggio jugó tanto en el AC Milan como en la Juventus durante su carrera.",
+            "answer": true
+          },
+          {
+            "question": "La Copa América se celebró por primera vez en 1916.",
+            "answer": true
+          },
+          {
+            "question": "Fabio Cannavaro ganó el Balón de Oro en 2006.",
+            "answer": true
+          },
+          {
+            "question": "Johan Cruyff ganó la Copa de Europa tres veces con el Ajax de Ámsterdam.",
+            "answer": true
+          },
+          {
+            "question": "Pelé marcó más de 1,000 goles durante su carrera profesional.",
+            "answer": true
+          },
+          {
+            "question": "La Copa Africana de Naciones se celebró por primera vez en 1957.",
+            "answer": true
+          },
+          {
+            "question": "Ronaldo Nazário ganó el Botín de Oro en la Copa del Mundo de la FIFA dos veces en su carrera.",
+            "answer": false
+          },
+          {
+            "question": "Diego Maradona jugó para el Napoli antes de unirse al Barcelona.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "Kazuyoshi Miura es conocido por ser el goleador más viejo en el fútbol profesional.",
+            "answer": true
+          },
+          {
+            "question": "La Copa Confederaciones de la FIFA se celebra cada dos años.",
+            "answer": false
+          },
+          {
+            "question": "El Estadio Santiago Bernabéu es el hogar del Atlético de Madrid.",
+            "answer": false
+          },
+          {
+            "question": "Eusébio fue un famoso jugador de fútbol de Portugal.",
+            "answer": true
+          },
+          {
+            "question": "Ajax Amsterdam ha ganado la mayoría de los títulos de la Eredivisie.",
+            "answer": true
+          },
+          {
+            "question": "El Camp Nou está ubicado en Madrid.",
+            "answer": false
+          },
+          {
+            "question": "Los colores originales del kit del Chelsea FC eran amarillo y azul.",
+            "answer": false
+          },
+          {
+            "question": "Ronaldinho ganó el Balón de Oro en 2005.",
+            "answer": true
+          },
+          {
+            "question": "La Copa Mundial de la FIFA 1930 se celebró en Uruguay.",
+            "answer": true
+          },
+          {
+            "question": "Neymar se transfirió directamente del Santos FC al Paris Saint-Germain.",
+            "answer": false
+          }
+        ],
+        [
+          {
+            "question": "Johan Cruyff ganó tres premios Balón de Oro.",
+            "answer": true
+          },
+          {
+            "question": "La Copa Mundial de la FIFA 1998 se celebró en Francia.",
+            "answer": true
+          },
+          {
+            "question": "Roberto Baggio es conocido por fallar un penal crucial en la final de la Copa Mundial de 1994.",
+            "answer": true
+          },
+          {
+            "question": "El Manchester United ganó el triplete en la temporada 1998-1999.",
+            "answer": true
+          },
+          {
+            "question": "La Copa del Rey es la principal competición de fútbol en Alemania.",
+            "answer": false
+          },
+          {
+            "question": "Lionel Messi nunca ha ganado la Copa América.",
+            "answer": false
+          },
+          {
+            "question": "El Estadio Azteca está ubicado en Brasil.",
+            "answer": false
+          },
+          {
+            "question": "Fernando Torres ganó la Copa del Mundo con España en 2010.",
+            "answer": true
+          },
+          {
+            "question": "El Liverpool FC tiene más títulos de la Copa de Europa/Champions League que el AC Milan.",
+            "answer": false
+          },
+          {
+            "question": "La Copa América Centenario se celebró en 2016.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "George Best jugó para Irlanda del Norte.",
+            "answer": true
+          },
+          {
+            "question": "La Copa Mundial de la FIFA 1982 se celebró en Argentina.",
+            "answer": false
+          },
+          {
+            "question": "Luis Suárez ganó la Bota de Oro europea jugando para el Liverpool.",
+            "answer": true
+          },
+          {
+            "question": "La UEFA Europa League antes se conocía como la Copa UEFA.",
+            "answer": true
+          },
+          {
+            "question": "Oliver Kahn es conocido por su carrera en el Bayern de Múnich.",
+            "answer": true
+          },
+          {
+            "question": "El Estadio San Siro es el estadio local tanto del AC Milan como del Inter de Milán.",
+            "answer": true
+          },
+          {
+            "question": "Luka Modric ganó el Balón de Oro en 2018.",
+            "answer": true
+          },
+          {
+            "question": "La Copa Mundial Femenina de la FIFA se celebró por primera vez en 1991.",
+            "answer": true
+          },
+          {
+            "question": "Thierry Henry ganó la Champions League con el Barcelona.",
+            "answer": true
+          },
+          {
+            "question": "La Community Shield de la FA se disputa entre los ganadores de la Premier League y la FA Cup.",
+            "answer": true
+          }
+        ]
+      ]
+    }
+  ]
+}

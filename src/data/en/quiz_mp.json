@@ -1,0 +1,775 @@
+{
+  "quizzes": [
+    {
+      "level": 1,
+      "questions": [
+        [
+          {
+            "question": "Lionel Messi has won more Ballon d'Or awards than Cristiano Ronaldo.",
+            "answer": true
+          },
+          {
+            "question": "The 2018 FIFA World Cup was held in Brazil.",
+            "answer": false
+          },
+          {
+            "question": "Real Madrid has won the most UEFA Champions League titles.",
+            "answer": true
+          },
+          {
+            "question": "The Premier League is the top professional football division of Germany.",
+            "answer": false
+          },
+          {
+            "question": "Diego Maradona scored the 'Hand of God' goal during the 1986 World Cup.",
+            "answer": true
+          },
+          {
+            "question": "Manchester United's home ground is called Anfield.",
+            "answer": false
+          },
+          {
+            "question": "The FIFA World Cup is held every four years.",
+            "answer": true
+          },
+          {
+            "question": "The UEFA European Championship is also known as the Euros.",
+            "answer": true
+          },
+          {
+            "question": "Pelé is known for scoring over 1,000 goals in his career.",
+            "answer": true
+          },
+          {
+            "question": "Arsenal has never won the Premier League title.",
+            "answer": false
+          }
+        ],
+        [
+          {
+            "question": "Neymar currently plays for FC Barcelona.",
+            "answer": false
+          },
+          {
+            "question": "Italy won the FIFA World Cup in 2006.",
+            "answer": true
+          },
+          {
+            "question": "Bayern Munich is based in Germany.",
+            "answer": true
+          },
+          {
+            "question": "Zlatan Ibrahimović is from Sweden.",
+            "answer": true
+          },
+          {
+            "question": "Cristiano Ronaldo has played for Manchester United.",
+            "answer": true
+          },
+          {
+            "question": "The Copa America is the South American championship for national teams.",
+            "answer": true
+          },
+          {
+            "question": "Ajax is a club based in Italy.",
+            "answer": false
+          },
+          {
+            "question": "The Bundesliga is the top football league in France.",
+            "answer": false
+          },
+          {
+            "question": "Diego Simeone is the current manager of Real Madrid.",
+            "answer": false
+          },
+          {
+            "question": "Brazil has won the most FIFA World Cup titles.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "Lionel Messi started his professional career with FC Barcelona.",
+            "answer": true
+          },
+          {
+            "question": "The UEFA Champions League final is played as a single match.",
+            "answer": false
+          },
+          {
+            "question": "Germany won the FIFA World Cup in 2014.",
+            "answer": true
+          },
+          {
+            "question": "Manchester City's home stadium is Etihad Stadium.",
+            "answer": true
+          },
+          {
+            "question": "Sergio Ramos plays as a midfielder for Real Madrid.",
+            "answer": false
+          },
+          {
+            "question": "The Africa Cup of Nations is held every two years.",
+            "answer": false
+          },
+          {
+            "question": "David Beckham has played for AC Milan.",
+            "answer": true
+          },
+          {
+            "question": "Argentina won the Copa America in 2016.",
+            "answer": false
+          },
+          {
+            "question": "Thierry Henry is a retired French footballer.",
+            "answer": true
+          },
+          {
+            "question": "Juventus is based in Spain.",
+            "answer": false
+          }
+        ],
+        [
+          {
+            "question": "Lionel Messi has won more Ballon d'Or awards than Cristiano Ronaldo.",
+            "answer": true
+          },
+          {
+            "question": "The 2018 FIFA World Cup was held in Brazil.",
+            "answer": false
+          },
+          {
+            "question": "Real Madrid has won the most UEFA Champions League titles.",
+            "answer": true
+          },
+          {
+            "question": "The Premier League is the top professional football division of Germany.",
+            "answer": false
+          },
+          {
+            "question": "Diego Maradona scored the 'Hand of God' goal during the 1986 World Cup.",
+            "answer": true
+          },
+          {
+            "question": "Manchester United's home ground is called Anfield.",
+            "answer": false
+          },
+          {
+            "question": "The FIFA World Cup is held every four years.",
+            "answer": true
+          },
+          {
+            "question": "The UEFA European Championship is also known as the Euros.",
+            "answer": true
+          },
+          {
+            "question": "Pelé is known for scoring over 1,000 goals in his career.",
+            "answer": true
+          },
+          {
+            "question": "Arsenal has never won the Premier League title.",
+            "answer": false
+          }
+        ],
+        [
+          {
+            "question": "Cristiano Ronaldo has won the UEFA Champions League with three different clubs.",
+            "answer": false
+          },
+          {
+            "question": "The 2014 FIFA World Cup was held in Germany.",
+            "answer": false
+          },
+          {
+            "question": "FC Barcelona's home ground is Camp Nou.",
+            "answer": true
+          },
+          {
+            "question": "The La Liga is the top professional football division in Italy.",
+            "answer": false
+          },
+          {
+            "question": "Zinedine Zidane won the Ballon d'Or in 1998.",
+            "answer": true
+          },
+          {
+            "question": "Liverpool FC has won more English league titles than Manchester United.",
+            "answer": false
+          },
+          {
+            "question": "The Copa America is a football tournament held in South America.",
+            "answer": true
+          },
+          {
+            "question": "David Beckham played for Manchester City.",
+            "answer": false
+          },
+          {
+            "question": "Brazil has won the most FIFA World Cup titles.",
+            "answer": true
+          },
+          {
+            "question": "The MLS is a professional football league in Mexico.",
+            "answer": false
+          }
+        ],
+        [
+          {
+            "question": "Lionel Messi has never played for any club outside of Europe.",
+            "answer": false
+          },
+          {
+            "question": "The 2006 FIFA World Cup was held in Germany.",
+            "answer": true
+          },
+          {
+            "question": "Real Madrid's home ground is Santiago Bernabéu.",
+            "answer": true
+          },
+          {
+            "question": "The Bundesliga is the top professional football division in France.",
+            "answer": false
+          },
+          {
+            "question": "Pele has won the FIFA World Cup three times.",
+            "answer": true
+          },
+          {
+            "question": "Chelsea FC's home ground is Stamford Bridge.",
+            "answer": true
+          },
+          {
+            "question": "The UEFA Champions League final is held every two years.",
+            "answer": false
+          },
+          {
+            "question": "Cristiano Ronaldo has won the Ballon d'Or five times.",
+            "answer": true
+          },
+          {
+            "question": "Manchester City has won the Premier League more than 10 times.",
+            "answer": false
+          },
+          {
+            "question": "The Africa Cup of Nations is held every four years.",
+            "answer": false
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        [
+          {
+            "question": "Ronaldo Nazário won the FIFA World Cup Golden Boot in 2002.",
+            "answer": true
+          },
+          {
+            "question": "Ajax Amsterdam is the only Dutch club to have won the UEFA Champions League.",
+            "answer": true
+          },
+          {
+            "question": "Wayne Rooney began his professional career at Everton FC.",
+            "answer": true
+          },
+          {
+            "question": "The FIFA Confederations Cup is held every two years.",
+            "answer": false
+          },
+          {
+            "question": "Andrea Pirlo won the UEFA Champions League with AC Milan.",
+            "answer": true
+          },
+          {
+            "question": "Frank Lampard played for Manchester United before joining Chelsea.",
+            "answer": false
+          },
+          {
+            "question": "Lionel Messi has won the Copa America with Argentina.",
+            "answer": true
+          },
+          {
+            "question": "Thierry Henry started his career at AS Monaco.",
+            "answer": true
+          },
+          {
+            "question": "Didier Drogba won the Premier League Golden Boot in the 2010-2011 season.",
+            "answer": false
+          },
+          {
+            "question": "The Bundesliga is the top professional football division in France.",
+            "answer": false
+          }
+        ],
+        [
+          {
+            "question": "Diego Maradona coached the Argentina national team at the 2010 FIFA World Cup.",
+            "answer": true
+          },
+          {
+            "question": "Porto FC has won more UEFA Champions League titles than Benfica.",
+            "answer": false
+          },
+          {
+            "question": "Zlatan Ibrahimović has played for FC Barcelona.",
+            "answer": true
+          },
+          {
+            "question": "The African Cup of Nations is organized by the Confederation of African Football (CAF).",
+            "answer": true
+          },
+          {
+            "question": "Arsène Wenger managed Arsenal FC for over 20 years.",
+            "answer": true
+          },
+          {
+            "question": "Roberto Carlos is known for his time playing as a midfielder for Real Madrid.",
+            "answer": false
+          },
+          {
+            "question": "Italy won the UEFA European Championship in 2004.",
+            "answer": false
+          },
+          {
+            "question": "Ruud Gullit played for AC Milan during their successful period in the 1980s.",
+            "answer": true
+          },
+          {
+            "question": "The J1 League is the top professional football division in South Korea.",
+            "answer": false
+          },
+          {
+            "question": "David Villa is Spain's all-time top scorer in international matches.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "Johan Cruyff won the UEFA Champions League as a player with Ajax.",
+            "answer": true
+          },
+          {
+            "question": "Gianluigi Buffon has won the UEFA European Championship with Italy.",
+            "answer": false
+          },
+          {
+            "question": "Sergio Ramos began his professional career at Sevilla FC.",
+            "answer": true
+          },
+          {
+            "question": "The Copa Libertadores is South America's most prestigious club football competition.",
+            "answer": true
+          },
+          {
+            "question": "Thiago Silva has played for both AC Milan and Paris Saint-Germain.",
+            "answer": true
+          },
+          {
+            "question": "The Eredivisie is the top professional football division in Belgium.",
+            "answer": false
+          },
+          {
+            "question": "Patrick Vieira won the FIFA World Cup with England in 2006.",
+            "answer": false
+          },
+          {
+            "question": "Xavi Hernández is the all-time appearance leader for FC Barcelona.",
+            "answer": true
+          },
+          {
+            "question": "The MLS Cup is the top professional football competition in Mexico.",
+            "answer": false
+          },
+          {
+            "question": "Neymar started his professional career at Santos FC in Brazil.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "Zinedine Zidane headbutted Marco Materazzi in the 2006 World Cup final.",
+            "answer": true
+          },
+          {
+            "question": "Bayern Munich is a football club based in Spain.",
+            "answer": false
+          },
+          {
+            "question": "Cristiano Ronaldo started his professional career at Sporting CP.",
+            "answer": true
+          },
+          {
+            "question": "The Maracanã Stadium is located in Buenos Aires.",
+            "answer": false
+          },
+          {
+            "question": "AC Milan has won more UEFA Champions League titles than Inter Milan.",
+            "answer": true
+          },
+          {
+            "question": "The original name of Juventus FC is 'Football Club Juventus'.",
+            "answer": false
+          },
+          {
+            "question": "The 2002 FIFA World Cup was held in South Korea and Japan.",
+            "answer": true
+          },
+          {
+            "question": "Steven Gerrard played his entire career at Manchester City.",
+            "answer": false
+          },
+          {
+            "question": "Luis Figo transferred directly from Barcelona to Real Madrid.",
+            "answer": true
+          },
+          {
+            "question": "The Serie A is the top professional football division in Italy.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "Ronaldinho played for Paris Saint-Germain before joining Barcelona.",
+            "answer": true
+          },
+          {
+            "question": "The 2010 FIFA World Cup was held in South Africa.",
+            "answer": true
+          },
+          {
+            "question": "Arjen Robben is known for his time at Bayern Munich and Real Madrid.",
+            "answer": true
+          },
+          {
+            "question": "The Copa Libertadores is a club competition in North America.",
+            "answer": false
+          },
+          {
+            "question": "Zlatan Ibrahimović has played in the Premier League.",
+            "answer": true
+          },
+          {
+            "question": "The UEFA Europa League is the top-tier club competition in Europe.",
+            "answer": false
+          },
+          {
+            "question": "Andres Iniesta spent his entire career at FC Barcelona.",
+            "answer": false
+          },
+          {
+            "question": "The FA Cup is the oldest football competition in the world.",
+            "answer": true
+          },
+          {
+            "question": "Lionel Messi has scored over 700 career goals.",
+            "answer": true
+          },
+          {
+            "question": "Pep Guardiola has managed both Barcelona and Real Madrid.",
+            "answer": false
+          }
+        ],
+        [
+          {
+            "question": "Wayne Rooney is Manchester United's all-time leading scorer.",
+            "answer": true
+          },
+          {
+            "question": "The 2008 UEFA Champions League final was held in Moscow.",
+            "answer": true
+          },
+          {
+            "question": "Paolo Maldini spent his entire career at Inter Milan.",
+            "answer": false
+          },
+          {
+            "question": "Cristiano Ronaldo won his first Ballon d'Or in 2008.",
+            "answer": true
+          },
+          {
+            "question": "Liverpool FC won the Premier League in the 2019-2020 season.",
+            "answer": true
+          },
+          {
+            "question": "David Villa is Spain's all-time top scorer.",
+            "answer": true
+          },
+          {
+            "question": "Real Madrid has never been relegated from La Liga.",
+            "answer": true
+          },
+          {
+            "question": "Thierry Henry played for Arsenal and Chelsea.",
+            "answer": false
+          },
+          {
+            "question": "Diego Simeone is the current manager of Atletico Madrid.",
+            "answer": true
+          },
+          {
+            "question": "The UEFA Super Cup is contested by the champions of the Champions League and the Europa League.",
+            "answer": true
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        [
+          {
+            "question": "Lev Yashin is the only goalkeeper to have won the Ballon d'Or.",
+            "answer": true
+          },
+          {
+            "question": "Paolo Maldini played his entire club career at AC Milan.",
+            "answer": true
+          },
+          {
+            "question": "The FIFA Club World Cup was first held in 2000.",
+            "answer": false
+          },
+          {
+            "question": "Diego Maradona played for FC Barcelona before joining Napoli.",
+            "answer": true
+          },
+          {
+            "question": "Bayern Munich won the UEFA Champions League in the 2012-2013 season.",
+            "answer": true
+          },
+          {
+            "question": "The Golden Boot award is given to the top scorer in the UEFA Champions League.",
+            "answer": false
+          },
+          {
+            "question": "Hristo Stoichkov won the European Golden Shoe in 1994.",
+            "answer": true
+          },
+          {
+            "question": "The FIFA World Cup was canceled in 1942 and 1946 due to World War II.",
+            "answer": true
+          },
+          {
+            "question": "David Beckham played for Real Madrid before joining LA Galaxy.",
+            "answer": true
+          },
+          {
+            "question": "Cafu has won the most caps for the Brazil national football team.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "George Weah is the only African player to have won the Ballon d'Or.",
+            "answer": true
+          },
+          {
+            "question": "Boca Juniors won the Copa Libertadores in 2007.",
+            "answer": false
+          },
+          {
+            "question": "Alessandro Del Piero played his entire club career at Juventus FC.",
+            "answer": true
+          },
+          {
+            "question": "The FIFA World Cup trophy is named after Jules Rimet.",
+            "answer": true
+          },
+          {
+            "question": "Raul Gonzalez Blanco won the UEFA Champions League with Real Madrid.",
+            "answer": true
+          },
+          {
+            "question": "The FIFA World Player of the Year award merged with the Ballon d'Or in 2010.",
+            "answer": true
+          },
+          {
+            "question": "Franz Beckenbauer won the Ballon d'Or twice during his career.",
+            "answer": true
+          },
+          {
+            "question": "Cristiano Ronaldo scored a hat-trick against Switzerland in the UEFA Nations League semifinal in 2019.",
+            "answer": true
+          },
+          {
+            "question": "Hakan Şükür scored the fastest goal in FIFA World Cup history in 2002.",
+            "answer": false
+          },
+          {
+            "question": "Michel Platini coached the French national team to win the UEFA European Championship in 1984.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "Luis Suarez won the European Golden Shoe in the 2013-2014 season.",
+            "answer": true
+          },
+          {
+            "question": "Inter Milan won the Serie A title in the 2005-2006 season.",
+            "answer": false
+          },
+          {
+            "question": "Roberto Baggio played for AC Milan and Juventus during his career.",
+            "answer": true
+          },
+          {
+            "question": "The Copa America was first held in 1916.",
+            "answer": true
+          },
+          {
+            "question": "Fabio Cannavaro won the Ballon d'Or in 2006.",
+            "answer": true
+          },
+          {
+            "question": "Johan Cruyff won the European Cup three times with Ajax Amsterdam.",
+            "answer": true
+          },
+          {
+            "question": "Pele scored over 1,000 goals in his professional career.",
+            "answer": true
+          },
+          {
+            "question": "The African Cup of Nations was first held in 1957.",
+            "answer": true
+          },
+          {
+            "question": "Ronaldo Nazário won the FIFA World Cup Golden Boot twice in his career.",
+            "answer": false
+          },
+          {
+            "question": "Diego Maradona played for Napoli before joining FC Barcelona.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "Kazuyoshi Miura is known for being the oldest goalscorer in professional football.",
+            "answer": true
+          },
+          {
+            "question": "The FIFA Confederations Cup is held every two years.",
+            "answer": false
+          },
+          {
+            "question": "The Santiago Bernabéu Stadium is the home of Atletico Madrid.",
+            "answer": false
+          },
+          {
+            "question": "Eusébio was a famous football player from Portugal.",
+            "answer": true
+          },
+          {
+            "question": "Ajax Amsterdam has won the most Eredivisie titles.",
+            "answer": true
+          },
+          {
+            "question": "The Camp Nou is located in Madrid.",
+            "answer": false
+          },
+          {
+            "question": "Chelsea FC's original kit colors were yellow and blue.",
+            "answer": false
+          },
+          {
+            "question": "Ronaldinho won the Ballon d'Or in 2005.",
+            "answer": true
+          },
+          {
+            "question": "The 1930 FIFA World Cup was held in Uruguay.",
+            "answer": true
+          },
+          {
+            "question": "Neymar transferred from Santos FC to Paris Saint-Germain directly.",
+            "answer": false
+          }
+        ],
+        [
+          {
+            "question": "Johan Cruyff won three Ballon d'Or awards.",
+            "answer": true
+          },
+          {
+            "question": "The 1998 FIFA World Cup was held in France.",
+            "answer": true
+          },
+          {
+            "question": "Roberto Baggio is known for missing a crucial penalty in the 1994 World Cup final.",
+            "answer": true
+          },
+          {
+            "question": "Manchester United won the treble in the 1998-1999 season.",
+            "answer": true
+          },
+          {
+            "question": "The Copa del Rey is the top football competition in Germany.",
+            "answer": false
+          },
+          {
+            "question": "Lionel Messi has never won the Copa America.",
+            "answer": false
+          },
+          {
+            "question": "The Estadio Azteca is located in Brazil.",
+            "answer": false
+          },
+          {
+            "question": "Fernando Torres won the World Cup with Spain in 2010.",
+            "answer": true
+          },
+          {
+            "question": "Liverpool FC has more European Cup/Champions League titles than AC Milan.",
+            "answer": false
+          },
+          {
+            "question": "The Copa America Centenario was held in 2016.",
+            "answer": true
+          }
+        ],
+        [
+          {
+            "question": "George Best played for Northern Ireland.",
+            "answer": true
+          },
+          {
+            "question": "The 1982 FIFA World Cup was held in Argentina.",
+            "answer": false
+          },
+          {
+            "question": "Luis Suarez won the European Golden Shoe playing for Liverpool.",
+            "answer": true
+          },
+          {
+            "question": "The Europa League was formerly known as the UEFA Cup.",
+            "answer": true
+          },
+          {
+            "question": "Oliver Kahn is known for his career at Bayern Munich.",
+            "answer": true
+          },
+          {
+            "question": "The San Siro is the home stadium for both AC Milan and Inter Milan.",
+            "answer": true
+          },
+          {
+            "question": "Luka Modric won the Ballon d'Or in 2018.",
+            "answer": true
+          },
+          {
+            "question": "The FIFA Women's World Cup was first held in 1991.",
+            "answer": true
+          },
+          {
+            "question": "Thierry Henry won the Champions League with Barcelona.",
+            "answer": true
+          },
+          {
+            "question": "The FA Community Shield is played between the winners of the Premier League and the FA Cup.",
+            "answer": true
+          }
+        ]
+      ]
+    }
+  ]
+}

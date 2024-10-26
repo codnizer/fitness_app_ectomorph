@@ -1,0 +1,2384 @@
+{
+  "questions": {
+   "1": [
+  {
+    "question": "¿Qué jugador ha ganado más premios Balón de Oro?",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Michel Platini",
+      "Johan Cruyff"
+    ],
+    "correctAnswer": "Lionel Messi"
+  },
+  {
+    "question": "¿Qué país ha ganado más títulos de la Copa Mundial de la FIFA?",
+    "options": [
+      "Brasil",
+      "Alemania",
+      "Italia",
+      "Argentina"
+    ],
+    "correctAnswer": "Brasil"
+  },
+  {
+    "question": "¿Quién es el máximo goleador en la historia de la UEFA Champions League?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Raúl",
+      "Robert Lewandowski"
+    ],
+    "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+    "question": "¿Qué club ha ganado más títulos de la Premier League inglesa?",
+    "options": [
+      "Manchester United",
+      "Liverpool",
+      "Chelsea",
+      "Arsenal"
+    ],
+    "correctAnswer": "Manchester United"
+  },
+  {
+    "question": "¿Quién marcó el gol 'Mano de Dios' en la Copa Mundial de la FIFA de 1986?",
+    "options": [
+      "Diego Maradona",
+      "Pelé",
+      "Zinedine Zidane",
+      "Ronaldinho"
+    ],
+    "correctAnswer": "Diego Maradona"
+  },
+  {
+    "question": "¿Qué jugador tiene el récord de más goles anotados en un solo torneo de la Copa Mundial de la FIFA?",
+    "options": [
+      "Just Fontaine",
+      "Miroslav Klose",
+      "Pelé",
+      "Gary Lineker"
+    ],
+    "correctAnswer": "Just Fontaine"
+  },
+  {
+    "question": "¿Qué país ganó el torneo UEFA Euro 2020?",
+    "options": [
+      "Italia",
+      "Inglaterra",
+      "Portugal",
+      "Francia"
+    ],
+    "correctAnswer": "Italia"
+  },
+  {
+    "question": "¿Quién es el máximo goleador de todos los tiempos de la selección brasileña?",
+    "options": [
+      "Neymar",
+      "Ronaldo",
+      "Romario",
+      "Pelé"
+    ],
+    "correctAnswer": "Pelé"
+  },
+  {
+    "question": "¿Qué club ganó la UEFA Champions League en la temporada 2018-2019?",
+    "options": [
+      "Liverpool",
+      "Real Madrid",
+      "Bayern Munich",
+      "Barcelona"
+    ],
+    "correctAnswer": "Liverpool"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en el torneo UEFA Euro 2021?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Karim Benzema",
+      "Harry Kane",
+      "Romelu Lukaku"
+    ],
+    "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+    "question": "¿Qué jugador ha ganado más títulos del Campeonato Europeo de la UEFA?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Michel Platini",
+      "Marco van Basten",
+      "David Beckham"
+    ],
+    "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+    "question": "¿Qué país ganó el torneo Copa América 2021?",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "Chile",
+      "Uruguay"
+    ],
+    "correctAnswer": "Argentina"
+  },
+  {
+    "question": "¿Quién es el entrenador con más títulos de la Premier League inglesa?",
+    "options": [
+      "Sir Alex Ferguson",
+      "Jose Mourinho",
+      "Pep Guardiola",
+      "Arsene Wenger"
+    ],
+    "correctAnswer": "Sir Alex Ferguson"
+  },
+  {
+    "question": "¿Qué jugador tiene más asistencias en la historia de la La Liga española?",
+    "options": [
+      "Lionel Messi",
+      "Xavi Hernández",
+      "Andrés Iniesta",
+      "Cristiano Ronaldo"
+    ],
+    "correctAnswer": "Lionel Messi"
+  },
+  {
+    "question": "¿Qué club ha ganado más títulos de la FA Cup?",
+    "options": [
+      "Arsenal",
+      "Manchester United",
+      "Chelsea",
+      "Liverpool"
+    ],
+    "correctAnswer": "Arsenal"
+  }
+]
+,
+   "2": [
+  {
+    "question": "¿Quién ganó el Balón de Oro en 2004?",
+    "options": [
+      "Andriy Shevchenko",
+      "Ronaldinho",
+      "Thierry Henry",
+      "Zinedine Zidane"
+    ],
+    "correctAnswer": "Ronaldinho"
+  },
+  {
+    "question": "¿Qué jugador ha ganado más títulos del Mundial de Clubes de la FIFA?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Sergio Ramos",
+      "Dani Alves"
+    ],
+    "correctAnswer": "Dani Alves"
+  },
+  {
+    "question": "¿Qué país fue el anfitrión de la Copa Mundial de la FIFA 2010?",
+    "options": [
+      "Sudáfrica",
+      "Brasil",
+      "Alemania",
+      "Rusia"
+    ],
+    "correctAnswer": "Sudáfrica"
+  },
+  {
+    "question": "¿Quién anotó el gol ganador para Alemania en la final de la Copa Mundial de la FIFA 2014?",
+    "options": [
+      "Lionel Messi",
+      "Thomas Müller",
+      "Mario Götze",
+      "Mesut Özil"
+    ],
+    "correctAnswer": "Mario Götze"
+  },
+  {
+    "question": "¿Qué club ganó la UEFA Champions League en la temporada 2008-2009?",
+    "options": [
+      "Barcelona",
+      "Manchester United",
+      "AC Milan",
+      "Real Madrid"
+    ],
+    "correctAnswer": "Barcelona"
+  },
+  {
+    "question": "¿Quién es el máximo goleador de todos los tiempos en la historia de la Bundesliga alemana?",
+    "options": [
+      "Gerd Müller",
+      "Robert Lewandowski",
+      "Karl-Heinz Rummenigge",
+      "Lothar Matthäus"
+    ],
+    "correctAnswer": "Gerd Müller"
+  },
+  {
+    "question": "¿Qué jugador ha ganado más títulos de la Supercopa de la UEFA?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Paolo Maldini",
+      "Philipp Lahm"
+    ],
+    "correctAnswer": "Paolo Maldini"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la UEFA Euro 2016?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Antoine Griezmann",
+      "Mario Gómez",
+      "Olivier Giroud"
+    ],
+    "correctAnswer": "Antoine Griezmann"
+  },
+  {
+    "question": "¿Qué club ha ganado más títulos de la Serie A italiana?",
+    "options": [
+      "Juventus",
+      "AC Milan",
+      "Inter de Milán",
+      "Roma"
+    ],
+    "correctAnswer": "Juventus"
+  },
+  {
+    "question": "¿Quién es el jugador más joven en marcar un gol en la historia de la Copa Mundial de la FIFA?",
+    "options": [
+      "Pelé",
+      "Kylian Mbappé",
+      "Michael Owen",
+      "Diego Maradona"
+    ],
+    "correctAnswer": "Pelé"
+  },
+  {
+    "question": "¿Qué país ganó el torneo UEFA Euro 2016?",
+    "options": [
+      "Portugal",
+      "Francia",
+      "España",
+      "Alemania"
+    ],
+    "correctAnswer": "Portugal"
+  },
+  {
+    "question": "¿Quién es el máximo goleador de todos los tiempos en la historia de la Ligue 1 francesa?",
+    "options": [
+      "Zlatan Ibrahimović",
+      "Edinson Cavani",
+      "Thierry Henry",
+      "Pauleta"
+    ],
+    "correctAnswer": "Zlatan Ibrahimović"
+  },
+  {
+    "question": "¿Qué club ha ganado más títulos de la Eredivisie neerlandesa?",
+    "options": [
+      "Ajax",
+      "PSV Eindhoven",
+      "Feyenoord",
+      "AZ Alkmaar"
+    ],
+    "correctAnswer": "Ajax"
+  },
+  {
+    "question": "¿Quién ganó el Balón de Oro en 2006?",
+    "options": [
+      "Fabio Cannavaro",
+      "Ronaldinho",
+      "Thierry Henry",
+      "Zinedine Zidane"
+    ],
+    "correctAnswer": "Fabio Cannavaro"
+  },
+  {
+    "question": "¿Qué jugador ha ganado más títulos de la Copa América?",
+    "options": [
+      "Lionel Messi",
+      "Neymar",
+      "Diego Maradona",
+      "Pelé"
+    ],
+    "correctAnswer": "Lionel Messi"
+  }
+]
+,
+  "3": [
+      {
+        "question": "¿Quién fue el entrenador de la selección española durante su victoria en la Copa Mundial de la FIFA de 2010?",
+        "options": [
+          "Vicente del Bosque",
+          "Luis Aragonés",
+          "José Mourinho",
+          "Pep Guardiola"
+        ],
+        "correctAnswer": "Vicente del Bosque"
+      },
+      {
+        "question": "¿Qué jugador ganó la Bota de Oro en la Copa Mundial de la FIFA 2018?",
+        "options": [
+          "Harry Kane",
+          "Kylian Mbappé",
+          "Luka Modrić",
+          "Cristiano Ronaldo"
+        ],
+        "correctAnswer": "Harry Kane"
+      },
+      {
+        "question": "¿Quién anotó el gol ganador para España en la final de la Eurocopa 2008?",
+        "options": [
+          "Fernando Torres",
+          "David Villa",
+          "Xavi Hernández",
+          "Andrés Iniesta"
+        ],
+        "correctAnswer": "Fernando Torres"
+      },
+      {
+        "question": "¿Qué jugador ha ganado la mayoría de títulos de la Copa Africana de Naciones?",
+        "options": [
+          "Samuel Eto'o",
+          "Didier Drogba",
+          "Roger Milla",
+          "Yaya Touré"
+        ],
+        "correctAnswer": "Samuel Eto'o"
+      },
+      {
+        "question": "¿Qué club ganó la Liga de Campeones de la UEFA en la temporada 2004-2005?",
+        "options": [
+          "Liverpool",
+          "AC Milan",
+          "Chelsea",
+          "Barcelona"
+        ],
+        "correctAnswer": "Liverpool"
+      },
+      {
+        "question": "¿Quién es el máximo goleador de la historia de la selección argentina?",
+        "options": [
+          "Lionel Messi",
+          "Diego Maradona",
+          "Gabriel Batistuta",
+          "Sergio Agüero"
+        ],
+        "correctAnswer": "Lionel Messi"
+      },
+      {
+        "question": "¿Qué jugador tiene la mayoría de asistencias en la historia del Campeonato Europeo de la UEFA?",
+        "options": [
+          "Andrés Iniesta",
+          "Luis Figo",
+          "David Beckham",
+          "Zinedine Zidane"
+        ],
+        "correctAnswer": "Andrés Iniesta"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la Copa Mundial de la FIFA 2014?",
+        "options": [
+          "James Rodríguez",
+          "Thomas Müller",
+          "Lionel Messi",
+          "Neymar"
+        ],
+        "correctAnswer": "James Rodríguez"
+      },
+      {
+        "question": "¿Qué club ha ganado la mayoría de títulos de la Ligue 1 francesa?",
+        "options": [
+          "Saint-Étienne",
+          "Paris Saint-Germain",
+          "Olympique de Marsella",
+          "AS Mónaco"
+        ],
+        "correctAnswer": "Saint-Étienne"
+      },
+      {
+        "question": "¿Quién ganó el Balón de Oro en 2018?",
+        "options": [
+          "Luka Modrić",
+          "Cristiano Ronaldo",
+          "Lionel Messi",
+          "Kylian Mbappé"
+        ],
+        "correctAnswer": "Luka Modrić"
+      },
+      {
+        "question": "¿Qué jugador ha ganado la mayoría de títulos de la Copa Libertadores?",
+        "options": [
+          "Francisco Gento",
+          "Ariel Ortega",
+          "Carlos Tévez",
+          "Pelé"
+        ],
+        "correctAnswer": "Francisco Gento"
+      },
+      {
+        "question": "¿Quién es el máximo goleador de todos los tiempos de la selección neerlandesa?",
+        "options": [
+          "Robin van Persie",
+          "Ruud van Nistelrooy",
+          "Johan Cruyff",
+          "Patrick Kluivert"
+        ],
+        "correctAnswer": "Robin van Persie"
+      },
+      {
+        "question": "¿Qué club ha ganado la mayoría de títulos de la Primeira Liga portuguesa?",
+        "options": [
+          "Benfica",
+          "Porto",
+          "Sporting CP",
+          "Boavista"
+        ],
+        "correctAnswer": "Benfica"
+      },
+      {
+        "question": "¿Quién ganó el Balón de Oro en 2007?",
+        "options": [
+          "Kaká",
+          "Cristiano Ronaldo",
+          "Thierry Henry",
+          "Zinedine Zidane"
+        ],
+        "correctAnswer": "Kaká"
+      },
+      {
+        "question": "¿Qué jugador ha ganado la mayoría de títulos de la MLS Cup?",
+        "options": [
+          "Landon Donovan",
+          "David Beckham",
+          "Thierry Henry",
+          "Robbie Keane"
+        ],
+        "correctAnswer": "Landon Donovan"
+      }
+    ],
+    "4": [
+      {
+        "question": "¿Qué jugador tiene el récord de más goles anotados en un solo torneo de la Copa Mundial de la FIFA?",
+        "options": [
+          "Just Fontaine",
+          "Gerd Müller",
+          "Pelé",
+          "Ronaldo"
+        ],
+        "correctAnswer": "Just Fontaine"
+      },
+      {
+        "question": "¿Quién ganó el Campeonato Europeo de la UEFA en 2012?",
+        "options": [
+          "España",
+          "Alemania",
+          "Italia",
+          "Portugal"
+        ],
+        "correctAnswer": "España"
+      },
+      {
+        "question": "¿Qué país ganó el torneo de la Copa América 2019?",
+        "options": [
+          "Brasil",
+          "Argentina",
+          "Uruguay",
+          "Chile"
+        ],
+        "correctAnswer": "Brasil"
+      },
+      {
+        "question": "¿Quién es el máximo goleador de todos los tiempos de la selección francesa?",
+        "options": [
+          "Thierry Henry",
+          "Michel Platini",
+          "Zinedine Zidane",
+          "Just Fontaine"
+        ],
+        "correctAnswer": "Thierry Henry"
+      },
+      {
+        "question": "¿Qué club ganó la Liga de Campeones de la UEFA en la temporada 2012-2013?",
+        "options": [
+          "Bayern Múnich",
+          "Borussia Dortmund",
+          "Chelsea",
+          "Real Madrid"
+        ],
+        "correctAnswer": "Bayern Múnich"
+      },
+      {
+        "question": "¿Quién ganó el Balón de Oro en 2001?",
+        "options": [
+          "Michael Owen",
+          "Luis Figo",
+          "Ronaldo",
+          "Zinedine Zidane"
+        ],
+        "correctAnswer": "Michael Owen"
+      },
+      {
+        "question": "¿Qué jugador ha ganado la mayoría de títulos de la Copa Africana de Naciones?",
+        "options": [
+          "Samuel Eto'o",
+          "Didier Drogba",
+          "Yaya Touré",
+          "Roger Milla"
+        ],
+        "correctAnswer": "Samuel Eto'o"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la Eurocopa 2012?",
+        "options": [
+          "Fernando Torres",
+          "Mario Gómez",
+          "Cristiano Ronaldo",
+          "Mario Balotelli"
+        ],
+        "correctAnswer": "Fernando Torres"
+      },
+      {
+        "question": "¿Qué club ha ganado la mayoría de títulos de la Pro League belga?",
+        "options": [
+          "Anderlecht",
+          "Club Brugge",
+          "Standard Lieja",
+          "Genk"
+        ],
+        "correctAnswer": "Anderlecht"
+      },
+      {
+        "question": "¿Quién ganó el Balón de Oro en 2003?",
+        "options": [
+          "Pavel Nedvěd",
+          "Thierry Henry",
+          "Zinedine Zidane",
+          "Ronaldo"
+        ],
+        "correctAnswer": "Pavel Nedvěd"
+      },
+      {
+        "question": "¿Qué jugador tiene más apariciones en la historia de la Copa Mundial de la FIFA?",
+        "options": [
+          "Lothar Matthäus",
+          "Paolo Maldini",
+          "Cafu",
+          "Gianluigi Buffon"
+        ],
+        "correctAnswer": "Lothar Matthäus"
+      },
+      {
+        "question": "¿Qué club ganó la Liga de Campeones de la UEFA en la temporada 2005-2006?",
+        "options": [
+          "Liverpool",
+          "AC Milan",
+          "Barcelona",
+          "Real Madrid"
+        ],
+        "correctAnswer": "Liverpool"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la Copa Mundial de la FIFA 2010?",
+        "options": [
+          "Thomas Müller",
+          "Diego Forlán",
+          "Wesley Sneijder",
+          "David Villa"
+        ],
+        "correctAnswer": "Thomas Müller"
+      }
+    ]
+,
+   "5": [
+      {
+        "question": "¿Quién ganó el Balón de Oro en 2019?",
+        "options": [
+          "Lionel Messi",
+          "Virgil van Dijk",
+          "Cristiano Ronaldo",
+          "Mohamed Salah"
+        ],
+        "correctAnswer": "Lionel Messi"
+      },
+      {
+        "question": "¿Qué jugador tiene el récord de más goles anotados en una sola temporada de la UEFA Champions League?",
+        "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Robert Lewandowski",
+          "Raúl"
+        ],
+        "correctAnswer": "Cristiano Ronaldo"
+      },
+      {
+        "question": "¿Qué club ganó la Copa Libertadores en 2020?",
+        "options": [
+          "Palmeiras",
+          "Santos",
+          "River Plate",
+          "Boca Juniors"
+        ],
+        "correctAnswer": "Palmeiras"
+      },
+      {
+        "question": "¿Quién ganó la Copa Mundial Femenina de la FIFA en 2019?",
+        "options": [
+          "EE.UU.",
+          "Países Bajos",
+          "Suecia",
+          "Alemania"
+        ],
+        "correctAnswer": "EE.UU."
+      },
+      {
+        "question": "¿Qué jugador ha ganado la mayoría de los premios Golden Boot de la Premier League?",
+        "options": [
+          "Thierry Henry",
+          "Alan Shearer",
+          "Harry Kane",
+          "Sergio Agüero"
+        ],
+        "correctAnswer": "Alan Shearer"
+      },
+      {
+        "question": "¿Qué país fue el anfitrión de la Copa Mundial de la FIFA en 2002?",
+        "options": [
+          "Corea del Sur y Japón",
+          "Alemania",
+          "Francia",
+          "Italia"
+        ],
+        "correctAnswer": "Corea del Sur y Japón"
+      },
+      {
+        "question": "¿Quién ganó el Balón de Oro en 2016?",
+        "options": [
+          "Cristiano Ronaldo",
+          "Lionel Messi",
+          "Antoine Griezmann",
+          "Neymar"
+        ],
+        "correctAnswer": "Cristiano Ronaldo"
+      },
+      {
+        "question": "¿Qué club ganó la UEFA Europa League en la temporada 2019-2020?",
+        "options": [
+          "Sevilla",
+          "Inter de Milán",
+          "Manchester United",
+          "Arsenal"
+        ],
+        "correctAnswer": "Sevilla"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la Copa Mundial de la FIFA 2018?",
+        "options": [
+          "Harry Kane",
+          "Antoine Griezmann",
+          "Kylian Mbappé",
+          "Romelu Lukaku"
+        ],
+        "correctAnswer": "Harry Kane"
+      },
+      {
+        "question": "¿Qué jugador ha ganado la mayoría de los títulos del Campeonato de Europa de la UEFA?",
+        "options": [
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Marco van Basten",
+          "Antoine Griezmann"
+        ],
+        "correctAnswer": "Cristiano Ronaldo"
+      },
+      {
+        "question": "¿Qué club ganó la UEFA Champions League en la temporada 2016-2017?",
+        "options": [
+          "Real Madrid",
+          "Barcelona",
+          "Bayern de Múnich",
+          "Liverpool"
+        ],
+        "correctAnswer": "Real Madrid"
+      },
+      {
+        "question": "¿Quién ganó el Balón de Oro en 2011?",
+        "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Andrés Iniesta",
+          "Xavi Hernández"
+        ],
+        "correctAnswer": "Lionel Messi"
+      },
+      {
+        "question": "¿Qué jugador ha ganado la mayoría de los títulos de la Bundesliga?",
+        "options": [
+          "Franz Beckenbauer",
+          "Gerd Müller",
+          "Lothar Matthäus",
+          "Oliver Kahn"
+        ],
+        "correctAnswer": "Franz Beckenbauer"
+      },
+      {
+        "question": "¿Qué club ganó la Supercopa de la UEFA en 2020?",
+        "options": [
+          "Bayern de Múnich",
+          "Liverpool",
+          "Sevilla",
+          "Real Madrid"
+        ],
+        "correctAnswer": "Bayern de Múnich"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la Copa Mundial de la FIFA 2006?",
+        "options": [
+          "Miroslav Klose",
+          "Ronaldo",
+          "David Villa",
+          "Thierry Henry"
+        ],
+        "correctAnswer": "Miroslav Klose"
+      }
+    ],
+    "6": [
+      {
+        "question": "¿Qué jugador ha ganado la UEFA Champions League con tres clubes diferentes?",
+        "options": [
+          "Cristiano Ronaldo",
+          "Clarence Seedorf",
+          "Xavi Hernández",
+          "Andrés Iniesta"
+        ],
+        "correctAnswer": "Clarence Seedorf"
+      },
+      {
+        "question": "¿Qué nación ha ganado más títulos de la Copa Mundial Sub-20 de la FIFA?",
+        "options": [
+          "Brasil",
+          "Argentina",
+          "España",
+          "Alemania"
+        ],
+        "correctAnswer": "Argentina"
+      },
+      {
+        "question": "¿Quién ganó la Copa América Centenario en 2016?",
+        "options": [
+          "Chile",
+          "Argentina",
+          "Brasil",
+          "Uruguay"
+        ],
+        "correctAnswer": "Chile"
+      },
+      {
+        "question": "¿Qué jugador tiene el récord de más goles anotados en un solo torneo de la UEFA European Championship?",
+        "options": [
+          "Michel Platini",
+          "Cristiano Ronaldo",
+          "Thierry Henry",
+          "Antoine Griezmann"
+        ],
+        "correctAnswer": "Michel Platini"
+      },
+      {
+        "question": "¿Qué club ganó la Copa Libertadores en 2019?",
+        "options": [
+          "Flamengo",
+          "River Plate",
+          "Boca Juniors",
+          "Santos"
+        ],
+        "correctAnswer": "Flamengo"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la Copa Mundial de la FIFA 2002?",
+        "options": [
+          "Ronaldo",
+          "Miroslav Klose",
+          "Rivaldo",
+          "Ronaldinho"
+        ],
+        "correctAnswer": "Ronaldo"
+      },
+      {
+        "question": "¿Qué jugador tiene más asistencias en la historia de la Premier League?",
+        "options": [
+          "Ryan Giggs",
+          "Cesc Fàbregas",
+          "Thierry Henry",
+          "David Beckham"
+        ],
+        "correctAnswer": "Ryan Giggs"
+      },
+      {
+        "question": "¿Qué nación ganó la Copa Mundial Sub-17 de la FIFA en 2019?",
+        "options": [
+          "Brasil",
+          "Países Bajos",
+          "España",
+          "México"
+        ],
+        "correctAnswer": "Brasil"
+      },
+      {
+        "question": "¿Qué club ha ganado más títulos de la FA Cup?",
+        "options": [
+          "Arsenal",
+          "Manchester United",
+          "Chelsea",
+          "Liverpool"
+        ],
+        "correctAnswer": "Arsenal"
+      },
+      {
+        "question": "¿Quién ganó el Balón de Oro en 2013?",
+        "options": [
+          "Cristiano Ronaldo",
+          "Lionel Messi",
+          "Franck Ribéry",
+          "Zlatan Ibrahimović"
+        ],
+        "correctAnswer": "Cristiano Ronaldo"
+      },
+      {
+        "question": "¿Qué jugador ha ganado la mayoría de los títulos del Campeonato de Europa de la UEFA?",
+        "options": [
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Xavi Hernández",
+          "Andrés Iniesta"
+        ],
+        "correctAnswer": "Cristiano Ronaldo"
+      },
+      {
+        "question": "¿Qué nación ganó la Copa Africana de Naciones en 2019?",
+        "options": [
+          "Argelia",
+          "Senegal",
+          "Nigeria",
+          "Egipto"
+        ],
+        "correctAnswer": "Argelia"
+      },
+      {
+        "question": "¿Quién ganó la UEFA Europa League en la temporada 2018-2019?",
+        "options": [
+          "Chelsea",
+          "Arsenal",
+          "Sevilla",
+          "Inter de Milán"
+        ],
+        "correctAnswer": "Chelsea"
+      },
+      {
+        "question": "¿Qué jugador marcó el hat-trick más rápido en la historia de la Premier League?",
+        "options": [
+          "Sadio Mané",
+          "Robbie Fowler",
+          "Harry Kane",
+          "Alan Shearer"
+        ],
+        "correctAnswer": "Sadio Mané"
+      },
+      {
+        "question": "¿Qué club ganó la Copa del Rey en 2021?",
+        "options": [
+          "Barcelona",
+          "Real Madrid",
+          "Atlético de Madrid",
+          "Sevilla"
+        ],
+        "correctAnswer": "Barcelona"
+      }
+    ],
+    "7": [
+      {
+        "question": "¿Qué jugador ha ganado más títulos de la Copa Mundial de la FIFA?",
+        "options": [
+          "Pelé",
+          "Diego Maradona",
+          "Zinedine Zidane",
+          "Cristiano Ronaldo"
+        ],
+        "correctAnswer": "Pelé"
+      },
+      {
+        "question": "¿Quién ganó la UEFA Champions League en la temporada 2013-2014?",
+        "options": [
+          "Real Madrid",
+          "Barcelona",
+          "Bayern de Múnich",
+          "Chelsea"
+        ],
+        "correctAnswer": "Real Madrid"
+      },
+      {
+        "question": "¿Qué país ha sido anfitrión de la mayoría de los torneos de la Copa Mundial de la FIFA?",
+        "options": [
+          "Brasil",
+          "Italia",
+          "Alemania",
+          "Francia"
+        ],
+        "correctAnswer": "Brasil"
+      },
+      {
+        "question": "¿Quién ganó el Campeonato de Europa de la UEFA en 2008?",
+        "options": [
+          "España",
+          "Alemania",
+          "Italia",
+          "Francia"
+        ],
+        "correctAnswer": "España"
+      },
+      {
+        "question": "¿Qué jugador ha ganado más títulos de la Copa América?",
+        "options": [
+          "Lionel Messi",
+          "Diego Maradona",
+          "Neymar",
+          "Pelé"
+        ],
+        "correctAnswer": "Lionel Messi"
+      },
+      {
+        "question": "¿Qué club ganó la Copa Mundial de Clubes de la FIFA en 2019?",
+        "options": [
+          "Liverpool",
+          "Real Madrid",
+          "Bayern de Múnich",
+          "Barcelona"
+        ],
+        "correctAnswer": "Liverpool"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la UEFA Champions League en la temporada 2019-2020?",
+        "options": [
+          "Robert Lewandowski",
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Kylian Mbappé"
+        ],
+        "correctAnswer": "Robert Lewandowski"
+      },
+      {
+        "question": "¿Qué jugador ha ganado más premios Balón de Oro?",
+        "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Johan Cruyff"
+        ],
+        "correctAnswer": "Lionel Messi"
+      },
+      {
+        "question": "¿Qué nación ha ganado más títulos de la Copa Africana de Naciones?",
+        "options": [
+          "Egipto",
+          "Nigeria",
+          "Ghana",
+          "Camerún"
+        ],
+        "correctAnswer": "Egipto"
+      },
+      {
+        "question": "¿Quién ganó la UEFA Europa League en la temporada 2015-2016?",
+        "options": [
+          "Sevilla",
+          "Manchester United",
+          "Atlético de Madrid",
+          "Chelsea"
+        ],
+        "correctAnswer": "Sevilla"
+      },
+      {
+        "question": "¿Qué jugador ha ganado más premios al Jugador del Año de la Premier League?",
+        "options": [
+          "Thierry Henry",
+          "Cristiano Ronaldo",
+          "Alan Shearer",
+          "Virgil van Dijk"
+        ],
+        "correctAnswer": "Thierry Henry"
+      },
+      {
+        "question": "¿Qué club ganó la Copa Libertadores en 2018?",
+        "options": [
+          "River Plate",
+          "Boca Juniors",
+          "Flamengo",
+          "Santos"
+        ],
+        "correctAnswer": "River Plate"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la Copa América Centenario en 2016?",
+        "options": [
+          "Lionel Messi",
+          "James Rodríguez",
+          "Alexis Sánchez",
+          "Luis Suárez"
+        ],
+        "correctAnswer": "Lionel Messi"
+      },
+      {
+        "question": "¿Qué país ganó el Campeonato de Europa de la UEFA en 2016?",
+        "options": [
+          "Portugal",
+          "Francia",
+          "Alemania",
+          "España"
+        ],
+        "correctAnswer": "Portugal"
+      },
+      {
+        "question": "¿Quién ganó la Copa Mundial Femenina de la FIFA en 2015?",
+        "options": [
+          "EE.UU.",
+          "Alemania",
+          "Japón",
+          "Inglaterra"
+        ],
+        "correctAnswer": "EE.UU."
+      }
+    ]
+,
+    "8": [
+      {
+        "question": "¿Qué jugador ha ganado más premios FIFA World Player of the Year?",
+        "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Zinedine Zidane",
+          "Ronaldo Nazario"
+        ],
+        "correctAnswer": "Lionel Messi"
+      },
+      {
+        "question": "¿Quién ganó la UEFA Champions League en la temporada 2016-2017?",
+        "options": [
+          "Real Madrid",
+          "Juventus",
+          "Barcelona",
+          "Liverpool"
+        ],
+        "correctAnswer": "Real Madrid"
+      },
+      {
+        "question": "¿Qué país ganó la Copa Mundial de la FIFA en 2010?",
+        "options": [
+          "España",
+          "Países Bajos",
+          "Alemania",
+          "Argentina"
+        ],
+        "correctAnswer": "España"
+      },
+      {
+        "question": "¿Quién ganó el Campeonato de Europa de la UEFA en 2004?",
+        "options": [
+          "Grecia",
+          "Portugal",
+          "Italia",
+          "Francia"
+        ],
+        "correctAnswer": "Grecia"
+      },
+      {
+        "question": "¿Qué jugador ha ganado más títulos de la Copa Libertadores?",
+        "options": [
+          "Carlos Tévez",
+          "Ariel Ortega",
+          "Francisco Varallo",
+          "Francisco Gento"
+        ],
+        "correctAnswer": "Francisco Varallo"
+      },
+      {
+        "question": "¿Qué club ganó la Copa Mundial de Clubes de la FIFA en 2018?",
+        "options": [
+          "Real Madrid",
+          "Liverpool",
+          "Barcelona",
+          "Bayern de Múnich"
+        ],
+        "correctAnswer": "Real Madrid"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la UEFA Champions League en la temporada 2017-2018?",
+        "options": [
+          "Cristiano Ronaldo",
+          "Mohamed Salah",
+          "Lionel Messi",
+          "Harry Kane"
+        ],
+        "correctAnswer": "Cristiano Ronaldo"
+      },
+      {
+        "question": "¿Qué jugador ha ganado más premios FIFA Club World Cup Golden Ball?",
+        "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Neymar",
+          "Andrés Iniesta"
+        ],
+        "correctAnswer": "Lionel Messi"
+      },
+      {
+        "question": "¿Qué nación ha ganado más títulos de la Copa Asiática de la AFC?",
+        "options": [
+          "Japón",
+          "Corea del Sur",
+          "Arabia Saudita",
+          "Australia"
+        ],
+        "correctAnswer": "Japón"
+      },
+      {
+        "question": "¿Quién ganó la UEFA Europa League en la temporada 2017-2018?",
+        "options": [
+          "Atlético de Madrid",
+          "Arsenal",
+          "Chelsea",
+          "Sevilla"
+        ],
+        "correctAnswer": "Atlético de Madrid"
+      },
+      {
+        "question": "¿Qué jugador ha marcado más goles en un solo torneo de la Copa Mundial de la FIFA?",
+        "options": [
+          "Just Fontaine",
+          "Pelé",
+          "Gary Lineker",
+          "Gerd Müller"
+        ],
+        "correctAnswer": "Just Fontaine"
+      },
+      {
+        "question": "¿Qué club ganó la Copa Libertadores en 2020?",
+        "options": [
+          "Palmeiras",
+          "Santos",
+          "River Plate",
+          "Boca Juniors"
+        ],
+        "correctAnswer": "Palmeiras"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la Copa América en 2019?",
+        "options": [
+          "Lionel Messi",
+          "Paolo Guerrero",
+          "Gabriel Jesús",
+          "Luis Suárez"
+        ],
+        "correctAnswer": "Paolo Guerrero"
+      },
+      {
+        "question": "¿Qué país ganó el Campeonato de Europa de la UEFA en 1996?",
+        "options": [
+          "Alemania",
+          "Francia",
+          "Italia",
+          "Inglaterra"
+        ],
+        "correctAnswer": "Alemania"
+      },
+      {
+        "question": "¿Quién ganó la Copa Mundial Femenina de la FIFA en 2011?",
+        "options": [
+          "Japón",
+          "EE.UU.",
+          "Alemania",
+          "Suecia"
+        ],
+        "correctAnswer": "Japón"
+      }
+    ]
+,
+    "9": [
+      {
+        "question": "¿Qué jugador tiene el récord de más goles marcados en una sola temporada de la UEFA Champions League?",
+        "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Robert Lewandowski",
+          "Raúl"
+        ],
+        "correctAnswer": "Cristiano Ronaldo"
+      },
+      {
+        "question": "¿Quién ganó la Copa Mundial de la FIFA en 2006?",
+        "options": [
+          "Italia",
+          "Francia",
+          "Brasil",
+          "Alemania"
+        ],
+        "correctAnswer": "Italia"
+      },
+      {
+        "question": "¿Qué país ganó la Copa América en 2015?",
+        "options": [
+          "Chile",
+          "Argentina",
+          "Brasil",
+          "Uruguay"
+        ],
+        "correctAnswer": "Chile"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la Premier League de Inglaterra en la temporada 2019-2020?",
+        "options": [
+          "Jamie Vardy",
+          "Pierre-Emerick Aubameyang",
+          "Sadio Mané",
+          "Mohamed Salah"
+        ],
+        "correctAnswer": "Jamie Vardy"
+      },
+      {
+        "question": "¿Qué jugador ha ganado más títulos de la Eurocopa de la UEFA?",
+        "options": [
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Andrés Iniesta",
+          "Zinedine Zidane"
+        ],
+        "correctAnswer": "Cristiano Ronaldo"
+      },
+      {
+        "question": "¿Qué club ganó la Recopa de la UEFA en 1997?",
+        "options": [
+          "Barcelona",
+          "Chelsea",
+          "Paris Saint-Germain",
+          "Real Madrid"
+        ],
+        "correctAnswer": "Barcelona"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la Copa Libertadores en 2019?",
+        "options": [
+          "Gabriel Barbosa",
+          "Bruno Henrique",
+          "Rafael Santos Borré",
+          "Giorgian De Arrascaeta"
+        ],
+        "correctAnswer": "Bruno Henrique"
+      },
+      {
+        "question": "¿Qué jugador ha ganado más premios Bota de Oro de la Premier League?",
+        "options": [
+          "Thierry Henry",
+          "Alan Shearer",
+          "Harry Kane",
+          "Mohamed Salah"
+        ],
+        "correctAnswer": "Alan Shearer"
+      },
+      {
+        "question": "¿Qué nación ha ganado más títulos del Campeonato Europeo Sub-21 de la UEFA?",
+        "options": [
+          "España",
+          "Italia",
+          "Alemania",
+          "Inglaterra"
+        ],
+        "correctAnswer": "España"
+      },
+      {
+        "question": "¿Quién ganó la Copa Mundial de Clubes de la FIFA en 2020?",
+        "options": [
+          "Bayern de Múnich",
+          "Liverpool",
+          "Real Madrid",
+          "Chelsea"
+        ],
+        "correctAnswer": "Bayern de Múnich"
+      },
+      {
+        "question": "¿Qué jugador ha marcado más goles en un solo torneo de la Copa Mundial de la FIFA para Brasil?",
+        "options": [
+          "Pelé",
+          "Ronaldo Nazario",
+          "Romario",
+          "Zico"
+        ],
+        "correctAnswer": "Pelé"
+      },
+      {
+        "question": "¿Qué club ganó la Copa Libertadores en 2017?",
+        "options": [
+          "Grêmio",
+          "Lanús",
+          "Boca Juniors",
+          "Palmeiras"
+        ],
+        "correctAnswer": "Grêmio"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la UEFA Europa League en la temporada 2018-2019?",
+        "options": [
+          "Olivier Giroud",
+          "Pierre-Emerick Aubameyang",
+          "Edin Dzeko",
+          "Luka Jovic"
+        ],
+        "correctAnswer": "Olivier Giroud"
+      },
+      {
+        "question": "¿Qué país ganó la Copa América en 2011?",
+        "options": [
+          "Uruguay",
+          "Argentina",
+          "Chile",
+          "Brasil"
+        ],
+        "correctAnswer": "Uruguay"
+      },
+      {
+        "question": "¿Quién ganó la Copa Mundial Femenina de la FIFA en 2019?",
+        "options": [
+          "EE.UU.",
+          "Países Bajos",
+          "Alemania",
+          "Suecia"
+        ],
+        "correctAnswer": "EE.UU."
+      }
+    ]
+,
+   "10": [
+      {
+        "question": "¿Qué jugador ha ganado más premios Balón de Oro?",
+        "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Johan Cruyff"
+        ],
+        "correctAnswer": "Lionel Messi"
+      },
+      {
+        "question": "¿Quién ganó la UEFA Champions League en la temporada 2012-2013?",
+        "options": [
+          "Bayern Munich",
+          "Real Madrid",
+          "Chelsea",
+          "Barcelona"
+        ],
+        "correctAnswer": "Bayern Munich"
+      },
+      {
+        "question": "¿Qué país ganó la Copa América en 2019?",
+        "options": [
+          "Brasil",
+          "Argentina",
+          "Chile",
+          "Uruguay"
+        ],
+        "correctAnswer": "Brasil"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la Premier League inglesa en la temporada 2018-2019?",
+        "options": [
+          "Mohamed Salah",
+          "Sergio Agüero",
+          "Pierre-Emerick Aubameyang",
+          "Jamie Vardy"
+        ],
+        "correctAnswer": "Mohamed Salah"
+      },
+      {
+        "question": "¿Qué jugador ha ganado más títulos de la Eurocopa de la UEFA?",
+        "options": [
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Zinedine Zidane",
+          "Luis Figo"
+        ],
+        "correctAnswer": "Cristiano Ronaldo"
+      },
+      {
+        "question": "¿Qué club ganó la Supercopa de la UEFA en 2018?",
+        "options": [
+          "Real Madrid",
+          "Atlético de Madrid",
+          "Liverpool",
+          "Bayern Munich"
+        ],
+        "correctAnswer": "Atlético de Madrid"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la Copa Libertadores en 2018?",
+        "options": [
+          "Gabriel Barbosa",
+          "Bruno Henrique",
+          "Rafael Santos Borré",
+          "Giorgian De Arrascaeta"
+        ],
+        "correctAnswer": "Gabriel Barbosa"
+      },
+      {
+        "question": "¿Qué jugador ha ganado más premios Bota de Oro de la Premier League?",
+        "options": [
+          "Thierry Henry",
+          "Harry Kane",
+          "Alan Shearer",
+          "Sergio Agüero"
+        ],
+        "correctAnswer": "Harry Kane"
+      },
+      {
+        "question": "¿Qué nación ha ganado más títulos de la Copa Mundial Sub-20 de la FIFA?",
+        "options": [
+          "Brasil",
+          "Argentina",
+          "Alemania",
+          "España"
+        ],
+        "correctAnswer": "Argentina"
+      },
+      {
+        "question": "¿Quién ganó la Copa Mundial de Clubes de la FIFA en 2019?",
+        "options": [
+          "Liverpool",
+          "Real Madrid",
+          "Bayern Munich",
+          "Chelsea"
+        ],
+        "correctAnswer": "Liverpool"
+      },
+      {
+        "question": "¿Qué jugador ha marcado más goles en un solo torneo de la Copa Mundial de la FIFA?",
+        "options": [
+          "Just Fontaine",
+          "Pelé",
+          "Gerd Müller",
+          "Ronaldo Nazario"
+        ],
+        "correctAnswer": "Just Fontaine"
+      },
+      {
+        "question": "¿Qué club ganó la Copa Libertadores en 2015?",
+        "options": [
+          "River Plate",
+          "Boca Juniors",
+          "San Lorenzo",
+          "Atlético Nacional"
+        ],
+        "correctAnswer": "River Plate"
+      },
+      {
+        "question": "¿Quién fue el máximo goleador en la UEFA Europa League en la temporada 2016-2017?",
+        "options": [
+          "Edin Dzeko",
+          "Pierre-Emerick Aubameyang",
+          "Romelu Lukaku",
+          "Radamel Falcao"
+        ],
+        "correctAnswer": "Edin Dzeko"
+      },
+      {
+        "question": "¿Qué país ganó la Copa América en 2015?",
+        "options": [
+          "Chile",
+          "Argentina",
+          "Brasil",
+          "Uruguay"
+        ],
+        "correctAnswer": "Chile"
+      },
+      {
+        "question": "¿Quién ganó la Copa Mundial Femenina de la FIFA en 2015?",
+        "options": [
+          "EE.UU.",
+          "Alemania",
+          "Japón",
+          "Brasil"
+        ],
+        "correctAnswer": "EE.UU."
+      }
+    ]
+,
+
+
+
+
+    
+  "11": [
+  {
+    "question": "¿Qué jugador ha marcado más goles en la historia de la Copa del Mundo de la FIFA?",
+    "options": [
+      "Miroslav Klose",
+      "Ronaldo Nazario",
+      "Gerd Muller",
+      "Pelé"
+    ],
+    "correctAnswer": "Miroslav Klose"
+  },
+  {
+    "question": "¿Quién ganó la Copa del Mundo de la FIFA en 2018?",
+    "options": [
+      "Francia",
+      "Croacia",
+      "Alemania",
+      "Brasil"
+    ],
+    "correctAnswer": "Francia"
+  },
+  {
+    "question": "¿Qué país ganó la Copa América en 2021?",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "Chile",
+      "Uruguay"
+    ],
+    "correctAnswer": "Argentina"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la Premier League inglesa en la temporada 2020-2021?",
+    "options": [
+      "Harry Kane",
+      "Mohamed Salah",
+      "Bruno Fernandes",
+      "Jamie Vardy"
+    ],
+    "correctAnswer": "Harry Kane"
+  },
+  {
+    "question": "¿Qué club ganó la UEFA Champions League en la temporada 2020-2021?",
+    "options": [
+      "Chelsea",
+      "Manchester City",
+      "Real Madrid",
+      "Bayern Múnich"
+    ],
+    "correctAnswer": "Chelsea"
+  },
+  {
+    "question": "¿Quién ganó la Eurocopa de la UEFA en 2020?",
+    "options": [
+      "Italia",
+      "Inglaterra",
+      "España",
+      "Portugal"
+    ],
+    "correctAnswer": "Italia"
+  },
+  {
+    "question": "¿Qué jugador ganó la Bota de Oro en la Copa Libertadores 2020?",
+    "options": [
+      "Gabriel Barbosa",
+      "Marcos Riquelme",
+      "Carlos Tévez",
+      "Diego Rossi"
+    ],
+    "correctAnswer": "Gabriel Barbosa"
+  },
+  {
+    "question": "¿Quién ha ganado más títulos de la Premier League como entrenador?",
+    "options": [
+      "Sir Alex Ferguson",
+      "Arsène Wenger",
+      "Pep Guardiola",
+      "José Mourinho"
+    ],
+    "correctAnswer": "Sir Alex Ferguson"
+  },
+  {
+    "question": "¿Qué país ganó la medalla de oro más reciente en fútbol masculino en los Juegos Olímpicos?",
+    "options": [
+      "Brasil",
+      "Argentina",
+      "Alemania",
+      "España"
+    ],
+    "correctAnswer": "Brasil"
+  },
+  {
+    "question": "¿Quién fue nombrado el Mejor Jugador de la FIFA en 2021?",
+    "options": [
+      "Robert Lewandowski",
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Kylian Mbappé"
+    ],
+    "correctAnswer": "Robert Lewandowski"
+  },
+  {
+    "question": "¿Qué club ganó la Copa Libertadores en 2021?",
+    "options": [
+      "Palmeiras",
+      "Flamengo",
+      "River Plate",
+      "Boca Juniors"
+    ],
+    "correctAnswer": "Palmeiras"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la UEFA Europa League en la temporada 2020-2021?",
+    "options": [
+      "Gerard Moreno",
+      "Edinson Cavani",
+      "Harry Kane",
+      "Lorenzo Insigne"
+    ],
+    "correctAnswer": "Gerard Moreno"
+  },
+  {
+    "question": "¿Qué país ganó la Copa Mundial Femenina de la FIFA en 2019?",
+    "options": [
+      "Estados Unidos",
+      "Países Bajos",
+      "Alemania",
+      "Inglaterra"
+    ],
+    "correctAnswer": "Estados Unidos"
+  },
+  {
+    "question": "¿Qué país ganó el Campeonato Europeo Sub-21 de la UEFA en 2021?",
+    "options": [
+      "Alemania",
+      "Portugal",
+      "España",
+      "Francia"
+    ],
+    "correctAnswer": "Alemania"
+  }
+]
+,
+   "12": [
+  {
+    "question": "¿Quién ganó la UEFA Champions League en la temporada 2019-2020?",
+    "options": [
+      "Bayern Múnich",
+      "Paris Saint-Germain",
+      "Real Madrid",
+      "Manchester City"
+    ],
+    "correctAnswer": "Bayern Múnich"
+  },
+  {
+    "question": "¿Qué jugador ganó el premio al Jugador del Año de la UEFA en 2020?",
+    "options": [
+      "Robert Lewandowski",
+      "Kevin De Bruyne",
+      "Lionel Messi",
+      "Cristiano Ronaldo"
+    ],
+    "correctAnswer": "Robert Lewandowski"
+  },
+  {
+    "question": "¿Qué país ganó la Copa América en 2020?",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "Chile",
+      "Uruguay"
+    ],
+    "correctAnswer": "Argentina"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la Premier League inglesa en la temporada 2021-2022?",
+    "options": [
+      "Mohamed Salah",
+      "Harry Kane",
+      "Romelu Lukaku",
+      "Sadio Mané"
+    ],
+    "correctAnswer": "Mohamed Salah"
+  },
+  {
+    "question": "¿Qué club ganó la UEFA Europa League en la temporada 2020-2021?",
+    "options": [
+      "Villarreal",
+      "Manchester United",
+      "Arsenal",
+      "Roma"
+    ],
+    "correctAnswer": "Villarreal"
+  },
+  {
+    "question": "¿Quién ganó la Eurocopa de la UEFA en 2016?",
+    "options": [
+      "Portugal",
+      "Francia",
+      "Alemania",
+      "España"
+    ],
+    "correctAnswer": "Portugal"
+  },
+  {
+    "question": "¿Qué jugador ganó la Bota de Oro en la Copa Libertadores 2021?",
+    "options": [
+      "Rafael Santos Borré",
+      "Gabriel Barbosa",
+      "Braian Romero",
+      "Miguel Borja"
+    ],
+    "correctAnswer": "Braian Romero"
+  },
+  {
+    "question": "¿Quién ha ganado más títulos de la FA Cup?",
+    "options": [
+      "Arsenal",
+      "Manchester United",
+      "Chelsea",
+      "Liverpool"
+    ],
+    "correctAnswer": "Arsenal"
+  },
+  {
+    "question": "¿Qué país ganó la medalla de oro más reciente en fútbol femenino en los Juegos Olímpicos?",
+    "options": [
+      "EE.UU.",
+      "Suecia",
+      "Alemania",
+      "Brasil"
+    ],
+    "correctAnswer": "Canadá"
+  },
+  {
+    "question": "¿Quién fue nombrado el Mejor Jugador de la FIFA en 2020?",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Robert Lewandowski",
+      "Kevin De Bruyne"
+    ],
+    "correctAnswer": "Robert Lewandowski"
+  },
+  {
+    "question": "¿Qué club ganó la Copa Libertadores en 2020?",
+    "options": [
+      "Palmeiras",
+      "Santos",
+      "River Plate",
+      "Boca Juniors"
+    ],
+    "correctAnswer": "Palmeiras"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la UEFA Europa League en la temporada 2019-2020?",
+    "options": [
+      "Romelu Lukaku",
+      "Bruno Fernandes",
+      "Erling Haaland",
+      "Kevin Gameiro"
+    ],
+    "correctAnswer": "Romelu Lukaku"
+  },
+  {
+    "question": "¿Qué país ganó la Copa Mundial Femenina de la FIFA en 2015?",
+    "options": [
+      "EE.UU.",
+      "Alemania",
+      "Japón",
+      "Brasil"
+    ],
+    "correctAnswer": "EE.UU."
+  },
+  {
+    "question": "¿Quién ha ganado más títulos de la Copa Mundial de la FIFA?",
+    "options": [
+      "Brasil",
+      "Alemania",
+      "Italia",
+      "Argentina"
+    ],
+    "correctAnswer": "Brasil"
+  },
+  {
+    "question": "¿Qué país ganó el Campeonato Europeo Sub-21 de la UEFA en 2019?",
+    "options": [
+      "Alemania",
+      "España",
+      "Italia",
+      "Portugal"
+    ],
+    "correctAnswer": "España"
+  }
+]
+,
+"13": [
+  {
+    "question": "¿Quién fue el máximo goleador en la UEFA Champions League en la temporada 2017-2018?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Mohamed Salah",
+      "Lionel Messi",
+      "Robert Lewandowski"
+    ],
+    "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+    "question": "¿Qué jugador tiene el récord de más goles marcados en un solo torneo de la Copa Mundial de la FIFA?",
+    "options": [
+      "Just Fontaine",
+      "Pelé",
+      "Gerd Müller",
+      "Ronaldo Nazario"
+    ],
+    "correctAnswer": "Just Fontaine"
+  },
+  {
+    "question": "¿Qué país ha ganado más títulos de la Copa América?",
+    "options": [
+      "Uruguay",
+      "Argentina",
+      "Brasil",
+      "Chile"
+    ],
+    "correctAnswer": "Uruguay"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la Premier League inglesa en la temporada 2017-2018?",
+    "options": [
+      "Mohamed Salah",
+      "Harry Kane",
+      "Sergio Agüero",
+      "Jamie Vardy"
+    ],
+    "correctAnswer": "Mohamed Salah"
+  },
+  {
+    "question": "¿Qué club ganó la Recopa de la UEFA en 1983?",
+    "options": [
+      "Aberdeen",
+      "Juventus",
+      "Ajax",
+      "Oporto"
+    ],
+    "correctAnswer": "Aberdeen"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la Copa Libertadores en 2013?",
+    "options": [
+      "Diego Milito",
+      "Neymar",
+      "Edinson Cavani",
+      "Luis Fabiano"
+    ],
+    "correctAnswer": "Diego Milito"
+  },
+  {
+    "question": "¿Qué jugador ha ganado más títulos de la Copa Africana de Naciones?",
+    "options": [
+      "Samuel Eto'o",
+      "Didier Drogba",
+      "Yaya Touré",
+      "Roger Milla"
+    ],
+    "correctAnswer": "Samuel Eto'o"
+  },
+  {
+    "question": "¿Qué país ha ganado más medallas de oro olímpicas en fútbol masculino?",
+    "options": [
+      "Hungría",
+      "Argentina",
+      "Alemania",
+      "EE.UU."
+    ],
+    "correctAnswer": "Hungría"
+  },
+  {
+    "question": "¿Quién ganó la Copa Mundial Femenina de la FIFA en 2007?",
+    "options": [
+      "Alemania",
+      "EE.UU.",
+      "Brasil",
+      "Japón"
+    ],
+    "correctAnswer": "Alemania"
+  },
+  {
+    "question": "¿Qué jugador ha ganado más títulos de la Supercopa de la UEFA?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Paolo Maldini",
+      "Gareth Bale"
+    ],
+    "correctAnswer": "Paolo Maldini"
+  },
+  {
+    "question": "¿Qué club ganó la Copa Libertadores en 2012?",
+    "options": [
+      "Corinthians",
+      "Boca Juniors",
+      "Santos",
+      "Fluminense"
+    ],
+    "correctAnswer": "Corinthians"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la UEFA Europa League en la temporada 2015-2016?",
+    "options": [
+      "Aritz Aduriz",
+      "Kevin Gameiro",
+      "Pierre-Emerick Aubameyang",
+      "Romelu Lukaku"
+    ],
+    "correctAnswer": "Aritz Aduriz"
+  },
+  {
+    "question": "¿Qué país ganó la Copa América en 2004?",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "Chile",
+      "Uruguay"
+    ],
+    "correctAnswer": "Brasil"
+  },
+  {
+    "question": "¿Quién ganó la Copa Mundial de Clubes de la FIFA en 2012?",
+    "options": [
+      "Corinthians",
+      "Real Madrid",
+      "Bayern Múnich",
+      "Chelsea"
+    ],
+    "correctAnswer": "Corinthians"
+  }
+]
+,
+"14": [
+  {
+    "question": "¿Qué jugador ha ganado más títulos de la Eurocopa de la UEFA?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Michel Platini",
+      "Andrés Iniesta",
+      "Zinedine Zidane"
+    ],
+    "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+    "question": "¿Quién ganó la Copa Mundial de la FIFA en 1954?",
+    "options": [
+      "Alemania Occidental",
+      "Hungría",
+      "Brasil",
+      "Argentina"
+    ],
+    "correctAnswer": "Alemania Occidental"
+  },
+  {
+    "question": "¿Qué país ha ganado más títulos de la Copa Africana de Naciones?",
+    "options": [
+      "Egipto",
+      "Nigeria",
+      "Camerún",
+      "Ghana"
+    ],
+    "correctAnswer": "Egipto"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la Premier League inglesa en la temporada 2016-2017?",
+    "options": [
+      "Harry Kane",
+      "Romelu Lukaku",
+      "Alexis Sánchez",
+      "Diego Costa"
+    ],
+    "correctAnswer": "Harry Kane"
+  },
+  {
+    "question": "¿Qué club ganó la Recopa de la UEFA en 1981?",
+    "options": [
+      "Dinamo Tbilisi",
+      "Aston Villa",
+      "Ajax",
+      "Oporto"
+    ],
+    "correctAnswer": "Dinamo Tbilisi"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la Copa Libertadores en 2010?",
+    "options": [
+      "Neymar",
+      "Fred",
+      "Walter",
+      "Thiago Neves"
+    ],
+    "correctAnswer": "Walter"
+  },
+  {
+    "question": "¿Qué jugador ha ganado más premios Balón de Oro del Mundial de Clubes de la FIFA?",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Ronaldinho",
+      "Neymar"
+    ],
+    "correctAnswer": "Lionel Messi"
+  },
+  {
+    "question": "¿Qué país ha ganado más medallas de oro olímpicas en fútbol femenino?",
+    "options": [
+      "EE.UU.",
+      "Noruega",
+      "Alemania",
+      "Suecia"
+    ],
+    "correctAnswer": "EE.UU."
+  },
+  {
+    "question": "¿Quién ganó la Copa Mundial Femenina de la FIFA en 1999?",
+    "options": [
+      "EE.UU.",
+      "China",
+      "Noruega",
+      "Brasil"
+    ],
+    "correctAnswer": "EE.UU."
+  },
+  {
+    "question": "¿Qué jugador ha ganado más títulos de la UEFA Europa League?",
+    "options": [
+      "Dani Alves",
+      "Aritz Aduriz",
+      "Radamel Falcao",
+      "Juan Mata"
+    ],
+    "correctAnswer": "Dani Alves"
+  },
+  {
+    "question": "¿Qué club ganó la Copa Libertadores en 2008?",
+    "options": [
+      "Fluminense",
+      "Liga de Quito",
+      "Boca Juniors",
+      "Estudiantes"
+    ],
+    "correctAnswer": "Liga de Quito"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la UEFA Europa League en la temporada 2014-2015?",
+    "options": [
+      "Romelu Lukaku",
+      "Carlos Bacca",
+      "Gonzalo Higuaín",
+      "Yevhen Seleznyov del Dnipro"
+    ],
+    "correctAnswer": "Romelu Lukaku"
+  },
+  {
+    "question": "¿Qué país ganó la Copa América en 1997?",
+    "options": [
+      "Brasil",
+      "Argentina",
+      "Chile",
+      "Uruguay"
+    ],
+    "correctAnswer": "Brasil"
+  },
+  {
+    "question": "¿Quién ganó la Copa Mundial de Clubes de la FIFA en 2011?",
+    "options": [
+      "Barcelona",
+      "Real Madrid",
+      "Bayern Múnich",
+      "Chelsea"
+    ],
+    "correctAnswer": "Barcelona"
+  }
+]
+,
+"15": [
+  {
+    "question": "¿Quién fue el máximo goleador en la UEFA Champions League en la temporada 2009-2010?",
+    "options": [
+      "Lionel Messi",
+      "Wayne Rooney",
+      "Didier Drogba",
+      "Cristiano Ronaldo"
+    ],
+    "correctAnswer": "Lionel Messi"
+  },
+  {
+    "question": "¿Qué jugador tiene el récord de más goles en un solo partido de la Copa Mundial de la FIFA?",
+    "options": [
+      "Sándor Kocsis",
+      "Just Fontaine",
+      "Oleg Salenko",
+      "Miroslav Klose"
+    ],
+    "correctAnswer": "Oleg Salenko"
+  },
+  {
+    "question": "¿Qué país ha ganado más títulos de la Copa Mundial Sub-20 de la FIFA?",
+    "options": [
+      "Brasil",
+      "Argentina",
+      "Alemania",
+      "Nigeria"
+    ],
+    "correctAnswer": "Brasil"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la Premier League inglesa en la temporada 2007-2008?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Fernando Torres",
+      "Didier Drogba",
+      "Emmanuel Adebayor"
+    ],
+    "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+    "question": "¿Qué club ganó la Recopa de la UEFA en 1963?",
+    "options": [
+      "Tottenham Hotspur",
+      "Rangers",
+      "Werder Bremen",
+      "Dynamo Kyiv"
+    ],
+    "correctAnswer": "Tottenham Hotspur"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la Copa Libertadores en 2007?",
+    "options": [
+      "Alexandre Pato",
+      "Martín Palermo",
+      "Washington Sebastián Abreu",
+      "Salvador Cabañas"
+    ],
+    "correctAnswer": "Washington Sebastián Abreu"
+  },
+  {
+    "question": "¿Qué jugador ha ganado más títulos de la Copa Asiática de la AFC?",
+    "options": [
+      "Ali Daei",
+      "Hidetoshi Nakata",
+      "Sami Al-Jaber",
+      "Sunil Chhetri"
+    ],
+    "correctAnswer": "Sami Al-Jaber"
+  },
+  {
+    "question": "¿Qué país ha ganado más medallas de oro olímpicas en fútbol masculino?",
+    "options": [
+      "Argentina",
+      "Hungría",
+      "Alemania",
+      "Italia"
+    ],
+    "correctAnswer": "Hungría"
+  },
+  {
+    "question": "¿Quién ganó la Copa Mundial Femenina de la FIFA en 2011?",
+    "options": [
+      "Japón",
+      "EE.UU.",
+      "Alemania",
+      "Suecia"
+    ],
+    "correctAnswer": "Japón"
+  },
+  {
+    "question": "¿Qué jugador ha ganado más títulos de la MLS Cup?",
+    "options": [
+      "Landon Donovan",
+      "David Beckham",
+      "Robbie Keane",
+      "Cobi Jones"
+    ],
+    "correctAnswer": "Landon Donovan"
+  },
+  {
+    "question": "¿Qué club ganó la Copa Libertadores en 2001?",
+    "options": [
+      "Boca Juniors",
+      "Palmeiras",
+      "San Lorenzo",
+      "Vasco da Gama"
+    ],
+    "correctAnswer": "Boca Juniors"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la UEFA Europa League en la temporada 2013-2014?",
+    "options": [
+      "Jonathan Soriano",
+      "Rodrigo Palacio",
+      "Carlos Bacca",
+      "Lima"
+    ],
+    "correctAnswer": "Jonathan Soriano"
+  },
+  {
+    "question": "¿Qué país ganó la Copa América en 1987?",
+    "options": [
+      "Uruguay",
+      "Brasil",
+      "Argentina",
+      "Chile"
+    ],
+    "correctAnswer": "Uruguay"
+  },
+  {
+    "question": "¿Quién ganó la Copa Mundial de Clubes de la FIFA en 2005?",
+    "options": [
+      "São Paulo",
+      "Liverpool",
+      "Barcelona",
+      "AC Milan"
+    ],
+    "correctAnswer": "São Paulo"
+  }
+]
+,
+"16": [
+  {
+    "question": "¿Qué jugador ha ganado más premios Ballon d'Or?",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Michel Platini",
+      "Johan Cruyff"
+    ],
+    "correctAnswer": "Lionel Messi"
+  },
+  {
+    "question": "¿Quién ganó la UEFA Champions League en la temporada 2004-2005?",
+    "options": [
+      "Liverpool",
+      "AC Milan",
+      "Barcelona",
+      "Real Madrid"
+    ],
+    "correctAnswer": "Liverpool"
+  },
+  {
+    "question": "¿Qué país ganó la Copa América en 1975?",
+    "options": [
+      "Perú",
+      "Argentina",
+      "Brasil",
+      "Chile"
+    ],
+    "correctAnswer": "Perú"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la Premier League inglesa en la temporada 2003-2004?",
+    "options": [
+      "Thierry Henry",
+      "Ruud van Nistelrooy",
+      "Alan Shearer",
+      "Didier Drogba"
+    ],
+    "correctAnswer": "Thierry Henry"
+  },
+  {
+    "question": "¿Qué club ganó la Supercopa de la UEFA en 1999?",
+    "options": [
+      "Real Madrid",
+      "Bayern Munich",
+      "AC Milan",
+      "Chelsea"
+    ],
+    "correctAnswer": "Lazio"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la Copa Libertadores en 2005?",
+    "options": [
+      "Carlos Tévez",
+      "Diego Milito",
+      "Luis Fabiano",
+      "Javier Saviola"
+    ],
+    "correctAnswer": "Carlos Tévez"
+  },
+  {
+    "question": "¿Qué jugador ha ganado más títulos de la Copa Africana de Naciones?",
+    "options": [
+      "Samuel Eto'o",
+      "Didier Drogba",
+      "Yaya Touré",
+      "Roger Milla"
+    ],
+    "correctAnswer": "Samuel Eto'o"
+  },
+  {
+    "question": "¿Qué país ha ganado más medallas de oro olímpicas en fútbol masculino?",
+    "options": [
+      "Brasil",
+      "Argentina",
+      "Hungría",
+      "Italia"
+    ],
+    "correctAnswer": "Hungría"
+  },
+  {
+    "question": "¿Quién ganó la Copa Mundial Femenina de la FIFA en 2003?",
+    "options": [
+      "Alemania",
+      "EE.UU.",
+      "Noruega",
+      "Suecia"
+    ],
+    "correctAnswer": "Alemania"
+  },
+  {
+    "question": "¿Qué jugador ha ganado más títulos de la Supercopa de la UEFA?",
+    "options": [
+      "Paolo Maldini",
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Andrés Iniesta"
+    ],
+    "correctAnswer": "Paolo Maldini"
+  },
+  {
+    "question": "¿Qué club ganó la Copa Libertadores en 2014?",
+    "options": [
+      "San Lorenzo",
+      "Atlético Mineiro",
+      "River Plate",
+      "Boca Juniors"
+    ],
+    "correctAnswer": "San Lorenzo"
+  },
+  {
+    "question": "¿Quién fue el máximo goleador en la UEFA Europa League en la temporada 2011-2012?",
+    "options": [
+      "Falcao",
+      "Oscar Cardozo",
+      "Radamel Falcao",
+      "Edinson Cavani"
+    ],
+    "correctAnswer": "Falcao"
+  },
+  {
+    "question": "¿Qué país ganó la Copa América en 1991?",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "Uruguay",
+      "Chile"
+    ],
+    "correctAnswer": "Argentina"
+  },
+  {
+    "question": "¿Quién ganó la Copa Mundial de Clubes de la FIFA en 2010?",
+    "options": [
+      "Inter de Milán",
+      "Barcelona",
+      "Santos",
+      "Bayern Munich"
+    ],
+    "correctAnswer": "Inter de Milán"
+  }
+]
+
+  }
+}

@@ -1,0 +1,829 @@
+{
+    "2_days_per_week": {
+      "Day 1: Full Body": {
+        "Workout": [
+          {
+            "exercise": "Barbell Squat",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Barbell Bench Press",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Pull-Ups",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Leg Press",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Dumbbell Lateral Raise",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Cable Tricep Pushdown",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Dumbbell Curl",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "HIIT",
+          "duration": "20 minutes",
+          "intensity": "High"
+        }
+      },
+      "Day 2: Full Body": {
+        "Workout": [
+          {
+            "exercise": "Romanian Deadlift",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Incline Barbell Press",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Seated Cable Row",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Leg Extension",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Dumbbell Lateral Raise",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Shrugs",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Dumbbell Curl",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "LISS",
+          "duration": "30 minutes",
+          "intensity": "Moderate"
+        }
+      }
+    },
+    "3_days_per_week": {
+      "Day 1: Push (Chest, Shoulders, Triceps)": {
+        "Workout": [
+          {
+            "exercise": "Barbell Bench Press",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Incline Dumbbell Press",
+            "sets": 4,
+            "reps": "10-12",
+            "RPE": 7
+          },
+          {
+            "exercise": "Seated Barbell Overhead Press",
+            "sets": 3,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Dumbbell Lateral Raise",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Tricep Dips",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Cable Tricep Pushdown",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "HIIT",
+          "duration": "20 minutes",
+          "intensity": "High"
+        }
+      },
+      "Day 2: Pull (Back, Biceps)": {
+        "Workout": [
+          {
+            "exercise": "Barbell Deadlift",
+            "sets": 4,
+            "reps": "6-8",
+            "RPE": 7
+          },
+          {
+            "exercise": "Bent Over Barbell Row",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Pull-Ups",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Seated Cable Row",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Dumbbell Curl",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Shrugs",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "LISS",
+          "duration": "30 minutes",
+          "intensity": "Moderate"
+        }
+      },
+      "Day 3: Legs (Quads, Hamstrings, Calves)": {
+        "Workout": [
+          {
+            "exercise": "Barbell Squat",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Leg Press",
+            "sets": 4,
+            "reps": "10-12",
+            "RPE": 7
+          },
+          {
+            "exercise": "Romanian Deadlift",
+            "sets": 3,
+            "reps": "8-10",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Leg Extension",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Seated Leg Curl",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Standing Calf Raise",
+            "sets": 4,
+            "reps": "12-15",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "HIIT",
+          "duration": "20 minutes",
+          "intensity": "High"
+        }
+      }
+    },
+    "4_days_per_week": {
+      "Day 1: Push (Chest, Shoulders, Triceps)": {
+        "Workout": [
+          {
+            "exercise": "Barbell Bench Press",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Incline Dumbbell Press",
+            "sets": 4,
+            "reps": "10-12",
+            "RPE": 7
+          },
+          {
+            "exercise": "Seated Barbell Overhead Press",
+            "sets": 3,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Dumbbell Lateral Raise",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Tricep Dips",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Cable Tricep Pushdown",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "HIIT",
+          "duration": "20 minutes",
+          "intensity": "High"
+        }
+      },
+      "Day 2: Pull (Back, Biceps)": {
+        "Workout": [
+          {
+            "exercise": "Barbell Deadlift",
+            "sets": 4,
+            "reps": "6-8",
+            "RPE": 7
+          },
+          {
+            "exercise": "Bent Over Barbell Row",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Pull-Ups",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Seated Cable Row",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Dumbbell Curl",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Shrugs",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "LISS",
+          "duration": "30 minutes",
+          "intensity": "Moderate"
+        }
+      },
+      "Day 3: Legs (Quads, Hamstrings, Calves)": {
+        "Workout": [
+          {
+            "exercise": "Barbell Squat",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Leg Press",
+            "sets": 4,
+            "reps": "10-12",
+            "RPE": 7
+          },
+          {
+            "exercise": "Romanian Deadlift",
+            "sets": 3,
+            "reps": "8-10",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Leg Extension",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Seated Leg Curl",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Standing Calf Raise",
+            "sets": 4,
+            "reps": "12-15",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "HIIT",
+          "duration": "20 minutes",
+          "intensity": "High"
+        }
+      },
+      "Day 4: Upper Body Accessory Work": {
+        "Workout": [
+          {
+            "exercise": "Incline Barbell Press",
+            "sets": 3,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Dumbbell Pullover",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Cable Face Pull",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Dumbbell Curl",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Tricep Pushdown",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "LISS",
+          "duration": "30 minutes",
+          "intensity": "Moderate"
+        }
+      }
+    },
+    "5_days_per_week": {
+      "Day 1: Push (Chest, Shoulders, Triceps)": {
+        "Workout": [
+          {
+            "exercise": "Barbell Bench Press",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Incline Dumbbell Press",
+            "sets": 4,
+            "reps": "10-12",
+            "RPE": 7
+          },
+          {
+            "exercise": "Seated Barbell Overhead Press",
+            "sets": 3,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Dumbbell Lateral Raise",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "HIIT",
+          "duration": "20 minutes",
+          "intensity": "High"
+        }
+      },
+      "Day 2: Pull (Back, Biceps)": {
+        "Workout": [
+          {
+            "exercise": "Barbell Deadlift",
+            "sets": 4,
+            "reps": "6-8",
+            "RPE": 7
+          },
+          {
+            "exercise": "Bent Over Barbell Row",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Pull-Ups",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": 7
+          },
+          {
+            "exercise": "Seated Cable Row",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "LISS",
+          "duration": "30 minutes",
+          "intensity": "Moderate"
+        }
+      },
+      "Day 3: Legs (Quads, Hamstrings, Calves)": {
+        "Workout": [
+          {
+            "exercise": "Barbell Squat",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Leg Press",
+            "sets": 4,
+            "reps": "10-12",
+            "RPE": 7
+          },
+          {
+            "exercise": "Romanian Deadlift",
+            "sets": 3,
+            "reps": "8-10",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Leg Extension",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Seated Leg Curl",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Standing Calf Raise",
+            "sets": 4,
+            "reps": "12-15",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "HIIT",
+          "duration": "20 minutes",
+          "intensity": "High"
+        }
+      },
+      "Day 4: Push (Chest, Shoulders)": {
+        "Workout": [
+          {
+            "exercise": "Incline Barbell Press",
+            "sets": 3,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Dumbbell Lateral Raise",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Arnold Press",
+            "sets": 3,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Cable Face Pull",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "HIIT",
+          "duration": "20 minutes",
+          "intensity": "High"
+        }
+      },
+      "Day 5: Pull (Back, Biceps)": {
+        "Workout": [
+          {
+            "exercise": "Bent Over Barbell Row",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Seated Cable Row",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Dumbbell Shrugs",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Barbell Curl",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "LISS",
+          "duration": "30 minutes",
+          "intensity": "Moderate"
+        }
+      }
+    },
+    "6_days_per_week": {
+      "Day 1: Push (Chest, Shoulders, Triceps)": {
+        "Workout": [
+          {
+            "exercise": "Barbell Bench Press",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Incline Dumbbell Press",
+            "sets": 4,
+            "reps": "10-12",
+            "RPE": 7
+          },
+          {
+            "exercise": "Seated Barbell Overhead Press",
+            "sets": 3,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Dumbbell Lateral Raise",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Tricep Dips",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "HIIT",
+          "duration": "20 minutes",
+          "intensity": "High"
+        }
+      },
+      "Day 2: Pull (Back, Biceps)": {
+        "Workout": [
+          {
+            "exercise": "Barbell Deadlift",
+            "sets": 4,
+            "reps": "6-8",
+            "RPE": 7
+          },
+          {
+            "exercise": "Bent Over Barbell Row",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Pull-Ups",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": 7
+          },
+          {
+            "exercise": "Seated Cable Row",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Dumbbell Curl",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Shrugs",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "LISS",
+          "duration": "30 minutes",
+          "intensity": "Moderate"
+        }
+      },
+      "Day 3: Legs (Quads, Hamstrings, Calves)": {
+        "Workout": [
+          {
+            "exercise": "Barbell Squat",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Leg Press",
+            "sets": 4,
+            "reps": "10-12",
+            "RPE": 7
+          },
+          {
+            "exercise": "Romanian Deadlift",
+            "sets": 3,
+            "reps": "8-10",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Leg Extension",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Seated Leg Curl",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Standing Calf Raise",
+            "sets": 4,
+            "reps": "12-15",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "HIIT",
+          "duration": "20 minutes",
+          "intensity": "High"
+        }
+      },
+      "Day 4: Push (Chest, Shoulders)": {
+        "Workout": [
+          {
+            "exercise": "Incline Barbell Press",
+            "sets": 3,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Dumbbell Lateral Raise",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Arnold Press",
+            "sets": 3,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Cable Face Pull",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "HIIT",
+          "duration": "20 minutes",
+          "intensity": "High"
+        }
+      },
+      "Day 5: Pull (Back, Biceps)": {
+        "Workout": [
+          {
+            "exercise": "Bent Over Barbell Row",
+            "sets": 4,
+            "reps": "8-10",
+            "RPE": 7
+          },
+          {
+            "exercise": "Seated Cable Row",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Dumbbell Shrugs",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Barbell Curl",
+            "sets": 3,
+            "reps": "10-12",
+            "RPE": "7"
+          }
+        ],
+        "Cardio": {
+          "type": "LISS",
+          "duration": "30 minutes",
+          "intensity": "Moderate"
+        }
+      },
+      "Day 6: Legs (Quads, Hamstrings, Calves)": {
+        "Workout": [
+          {
+            "exercise": "Romanian Deadlift",
+            "sets": 3,
+            "reps": "8-10",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Leg Press",
+            "sets": 4,
+            "reps": "10-12",
+            "RPE": 7
+          },
+          {
+            "exercise": "Seated Leg Curl",
+            "sets": 3,
+            "reps": "12-15",
+            "RPE": "7"
+          },
+          {
+            "exercise": "Standing Calf Raise",
+            "sets": 4,
+            "reps": "12-15",
+            "RPE": 7
+          }
+        ],
+        "Cardio": {
+          "type": "HIIT",
+          "duration": "20 minutes",
+          "intensity": "High"
+        }
+      }
+    }
+  }
+  

@@ -1,0 +1,56 @@
+{
+    "bodyTypes": [
+      {
+        "type": "Ectomorph",
+        "description": "Ectomorphs are characterized by a slim, lean build, with narrow shoulders and hips. They typically have a fast metabolism and find it hard to gain weight.",
+        "motivational": "Embrace your uniqueness! Your body type may be challenging, but with the right approach, you can achieve an impressive physique.",
+        "potentialBenefits": "Gain muscle mass efficiently with targeted nutrition and training. You'll be able to showcase your defined muscles with hard work!",
+        "instructions": {
+          "goal": "Build Muscle Mass",
+          "diet": "Focus on a caloric surplus with a high-protein and high-carb diet. Include healthy fats for added calories.",
+          "workout": "Prioritize strength training with compound exercises. Aim for lower reps and heavier weights (6-10 reps per set).",
+          "tips": [
+            "Eat more frequently, aiming for 5-6 meals per day.",
+            "Include protein shakes or smoothies to increase calorie intake.",
+            "Limit cardio to preserve energy for weight training.",
+            "Consider tracking your caloric intake to ensure you're meeting your goals."
+          ]
+        }
+      },
+      {
+        "type": "Mesomorph",
+        "description": "Mesomorphs have a naturally athletic build with broad shoulders, a narrow waist, and muscular limbs. They gain and lose weight relatively easily.",
+        "motivational": "You have the potential to sculpt your body into a fitness model! Use your genetics to your advantage and reach new heights.",
+        "potentialBenefits": "With your body type, you can build muscle effectively while maintaining a lean physique. You’re on the path to a well-defined body!",
+        "instructions": {
+          "goal": "Build Muscle and Maintain Balance",
+          "diet": "Follow a balanced diet with a good mix of protein, carbohydrates, and fats. Adjust caloric intake based on your goals.",
+          "workout": "Combine strength training and cardiovascular workouts. Aim for moderate to high reps (8-12 reps per set).",
+          "tips": [
+            "Include variety in your workouts to prevent plateaus.",
+            "Monitor your body composition and adjust your diet and training accordingly.",
+            "Incorporate both compound and isolation exercises.",
+            "Stay consistent, and don't be afraid to challenge yourself!"
+          ]
+        }
+      },
+      {
+        "type": "Endomorph",
+        "description": "Endomorphs are characterized by a rounder physique, with wider hips and shoulders. They tend to gain weight easily and have a slower metabolism.",
+        "motivational": "Your journey may require more discipline, but your body can be transformed into a powerhouse! Focus on progress, not perfection.",
+        "potentialBenefits": "You can build significant muscle mass while losing fat, creating a strong and defined physique. Your hard work will pay off!",
+        "instructions": {
+          "goal": "Lose Fat While Building Muscle",
+          "diet": "Focus on a caloric deficit with a higher protein intake to support muscle retention while losing fat. Include plenty of vegetables and healthy fats.",
+          "workout": "Incorporate strength training and high-intensity interval training (HIIT). Aim for higher reps (10-15 reps per set) to burn more calories.",
+          "tips": [
+            "Limit processed foods and sugars to aid in fat loss.",
+            "Increase cardio sessions to improve metabolic rate.",
+            "Stay consistent with your workouts and monitor your progress.",
+            "Celebrate small victories to keep your motivation high!"
+          ]
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,756 @@
+{
+    "mealPlansMassGain": [
+      {
+        "mealName": "Scrambled Eggs with Spinach",
+        "ingredients": [
+          { "ingredient": "Eggs", "quantity": "4 large", "calories": 280, "protein": 24, "carbs": 2, "fat": 20 },
+          { "ingredient": "Spinach", "quantity": "1 cup", "calories": 7, "protein": 1, "carbs": 1, "fat": 0 },
+          { "ingredient": "Olive Oil", "quantity": "1 tsp", "calories": 40, "protein": 0, "carbs": 0, "fat": 4 }
+        ],
+        "totalNutrition": {
+          "calories": 327,
+          "protein": 25,
+          "carbs": 3,
+          "fat": 24
+        },
+        "preparationSteps": [
+          "1. Heat olive oil in a non-stick pan.",
+          "2. Whisk the eggs in a bowl and pour them into the pan.",
+          "3. Stir in spinach and cook until eggs are scrambled and spinach is wilted.",
+          "4. Serve immediately."
+        ]
+      },
+      {
+        "mealName": "Grilled Chicken with Sweet Potato",
+        "ingredients": [
+          { "ingredient": "Chicken Breast", "quantity": "200g", "calories": 330, "protein": 40, "carbs": 0, "fat": 7 },
+          { "ingredient": "Sweet Potato", "quantity": "200g", "calories": 180, "protein": 4, "carbs": 40, "fat": 0 },
+          { "ingredient": "Olive Oil", "quantity": "1 tsp", "calories": 40, "protein": 0, "carbs": 0, "fat": 4 }
+        ],
+        "totalNutrition": {
+          "calories": 550,
+          "protein": 44,
+          "carbs": 40,
+          "fat": 11
+        },
+        "preparationSteps": [
+          "1. Season the chicken breast with salt and pepper.",
+          "2. Grill the chicken for about 6-8 minutes on each side or until fully cooked.",
+          "3. Bake or steam the sweet potato until soft (about 30 minutes).",
+          "4. Serve the grilled chicken with the sweet potato."
+        ]
+      },
+      {
+        "mealName": "Oatmeal with Protein Powder",
+        "ingredients": [
+          { "ingredient": "Rolled Oats", "quantity": "1 cup", "calories": 300, "protein": 10, "carbs": 54, "fat": 6 },
+          { "ingredient": "Protein Powder", "quantity": "1 scoop (30g)", "calories": 120, "protein": 24, "carbs": 2, "fat": 2 },
+          { "ingredient": "Almond Milk", "quantity": "1 cup", "calories": 40, "protein": 1, "carbs": 1, "fat": 3 }
+        ],
+        "totalNutrition": {
+          "calories": 460,
+          "protein": 35,
+          "carbs": 57,
+          "fat": 11
+        },
+        "preparationSteps": [
+          "1. Cook the oats with almond milk according to package instructions.",
+          "2. Stir in the protein powder once the oats are cooked.",
+          "3. Serve immediately."
+        ]
+      },
+      {
+        "mealName": "Greek Yogurt with Berries and Almonds",
+        "ingredients": [
+          { "ingredient": "Greek Yogurt (Plain, Non-Fat)", "quantity": "1 cup", "calories": 100, "protein": 17, "carbs": 6, "fat": 0 },
+          { "ingredient": "Mixed Berries", "quantity": "1/2 cup", "calories": 35, "protein": 1, "carbs": 9, "fat": 0 },
+          { "ingredient": "Almonds", "quantity": "15 pieces", "calories": 100, "protein": 4, "carbs": 3, "fat": 9 }
+        ],
+        "totalNutrition": {
+          "calories": 235,
+          "protein": 22,
+          "carbs": 18,
+          "fat": 9
+        },
+        "preparationSteps": [
+          "1. In a bowl, mix Greek yogurt with berries.",
+          "2. Top with almonds and enjoy."
+        ]
+      },
+      {
+        "mealName": "Tuna Salad with Avocado",
+        "ingredients": [
+          { "ingredient": "Canned Tuna (in water)", "quantity": "1 can (120g)", "calories": 140, "protein": 30, "carbs": 0, "fat": 2 },
+          { "ingredient": "Avocado", "quantity": "1/2 medium", "calories": 120, "protein": 1, "carbs": 6, "fat": 11 },
+          { "ingredient": "Mixed Greens", "quantity": "1 cup", "calories": 10, "protein": 1, "carbs": 2, "fat": 0 },
+          { "ingredient": "Olive Oil", "quantity": "1 tsp", "calories": 40, "protein": 0, "carbs": 0, "fat": 4 }
+        ],
+        "totalNutrition": {
+          "calories": 310,
+          "protein": 32,
+          "carbs": 8,
+          "fat": 17
+        },
+        "preparationSteps": [
+          "1. Drain the tuna and place it in a bowl.",
+          "2. Mash the avocado and mix it with the tuna.",
+          "3. Toss the mixed greens with olive oil and serve with the tuna and avocado mixture."
+        ]
+      },
+      {
+        "mealName": "Beef Stir-fry with Brown Rice",
+        "ingredients": [
+          { "ingredient": "Lean Beef Strips", "quantity": "200g", "calories": 310, "protein": 36, "carbs": 0, "fat": 18 },
+          { "ingredient": "Brown Rice", "quantity": "1/2 cup", "calories": 110, "protein": 3, "carbs": 23, "fat": 1 },
+          { "ingredient": "Mixed Vegetables", "quantity": "1 cup", "calories": 50, "protein": 2, "carbs": 10, "fat": 0 }
+        ],
+        "totalNutrition": {
+          "calories": 470,
+          "protein": 41,
+          "carbs": 33,
+          "fat": 19
+        },
+        "preparationSteps": [
+          "1. Stir-fry beef strips in a hot pan until browned.",
+          "2. Add mixed vegetables and cook for another 5-7 minutes.",
+          "3. Serve over cooked brown rice."
+        ]
+      },
+      {
+        "mealName": "Cottage Cheese with Pineapple",
+        "ingredients": [
+          { "ingredient": "Cottage Cheese (Low-fat)", "quantity": "1 cup", "calories": 200, "protein": 28, "carbs": 6, "fat": 4 },
+          { "ingredient": "Pineapple", "quantity": "1/2 cup", "calories": 40, "protein": 0, "carbs": 10, "fat": 0 }
+        ],
+        "totalNutrition": {
+          "calories": 240,
+          "protein": 28,
+          "carbs": 16,
+          "fat": 4
+        },
+        "preparationSteps": [
+          "1. Mix the cottage cheese with pineapple chunks.",
+          "2. Serve chilled or at room temperature."
+        ]
+      },
+      {
+        "mealName": "Turkey Burger with Whole Wheat Bun",
+        "ingredients": [
+          { "ingredient": "Ground Turkey", "quantity": "200g", "calories": 320, "protein": 42, "carbs": 0, "fat": 16 },
+          { "ingredient": "Whole Wheat Bun", "quantity": "1 bun", "calories": 130, "protein": 6, "carbs": 24, "fat": 2 },
+          { "ingredient": "Lettuce & Tomato", "quantity": "1 slice each", "calories": 10, "protein": 0, "carbs": 2, "fat": 0 }
+        ],
+        "totalNutrition": {
+          "calories": 460,
+          "protein": 48,
+          "carbs": 26,
+          "fat": 18
+        },
+        "preparationSteps": [
+          "1. Form ground turkey into a patty and grill until fully cooked.",
+          "2. Toast the whole wheat bun lightly.",
+          "3. Assemble the burger with lettuce and tomato."
+        ]
+      },
+      {
+        "mealName": "Quinoa Salad with Chickpeas",
+        "ingredients": [
+          { "ingredient": "Quinoa", "quantity": "1/2 cup", "calories": 110, "protein": 4, "carbs": 19, "fat": 2 },
+          { "ingredient": "Chickpeas (canned)", "quantity": "1/2 cup", "calories": 120, "protein": 6, "carbs": 20, "fat": 2 },
+          { "ingredient": "Olive Oil", "quantity": "1 tsp", "calories": 40, "protein": 0, "carbs": 0, "fat": 4 }
+        ],
+        "totalNutrition": {
+          "calories": 270,
+          "protein": 10,
+          "carbs": 39,
+          "fat": 8
+        },
+        "preparationSteps": [
+          "1. Cook quinoa according to package instructions.",
+          "2. Mix cooked quinoa with chickpeas and olive oil.",
+          "3. Serve as a salad."
+        ]
+      },
+      {
+        "mealName": "Salmon with Asparagus",
+        "ingredients": [
+          { "ingredient": "Salmon Fillet", "quantity": "200g", "calories": 370, "protein": 40, "carbs": 0, "fat": 22 },
+          { "ingredient": "Asparagus", "quantity": "1 cup", "calories": 30, "protein": 3, "carbs": 5, "fat": 0 },
+          { "ingredient": "Olive Oil", "quantity": "1 tsp", "calories": 40, "protein": 0, "carbs": 0, "fat": 4 }
+        ],
+        "totalNutrition": {
+          "calories": 440,
+          "protein": 43,
+          "carbs": 5,
+          "fat": 26
+        },
+        "preparationSteps": [
+          "1. Grill or bake the salmon fillet for 10-12 minutes until fully cooked.",
+          "2. Steam or grill the asparagus until tender.",
+          "3. Serve salmon with asparagus and drizzle with olive oil."
+        ]
+      },
+      {
+        "mealName": "Peanut Butter Banana Smoothie",
+        "ingredients": [
+          { "ingredient": "Banana", "quantity": "1 medium", "calories": 105, "protein": 1, "carbs": 27, "fat": 0 },
+          { "ingredient": "Peanut Butter", "quantity": "2 tbsp", "calories": 180, "protein": 8, "carbs": 6, "fat": 16 },
+          { "ingredient": "Milk", "quantity": "1 cup", "calories": 100, "protein": 8, "carbs": 12, "fat": 2 }
+        ],
+        "totalNutrition": {
+          "calories": 385,
+          "protein": 17,
+          "carbs": 45,
+          "fat": 18
+        },
+        "preparationSteps": [
+          "1. Blend the banana, peanut butter, and milk together until smooth.",
+          "2. Serve chilled."
+        ]
+      },
+      {
+        "mealName": "Baked Cod with Broccoli",
+        "ingredients": [
+          { "ingredient": "Cod Fillet", "quantity": "200g", "calories": 180, "protein": 40, "carbs": 0, "fat": 2 },
+          { "ingredient": "Broccoli", "quantity": "1 cup", "calories": 55, "protein": 4, "carbs": 11, "fat": 0 }
+        ],
+        "totalNutrition": {
+          "calories": 235,
+          "protein": 44,
+          "carbs": 11,
+          "fat": 2
+        },
+        "preparationSteps": [
+          "1. Bake cod fillet in the oven for 10-12 minutes until flaky.",
+          "2. Steam or roast broccoli.",
+          "3. Serve together with a drizzle of olive oil if desired."
+        ]
+      },
+      {
+        "mealName": "Chicken and Quinoa Salad",
+        "ingredients": [
+          { "ingredient": "Chicken Breast", "quantity": "200g", "calories": 330, "protein": 40, "carbs": 0, "fat": 7 },
+          { "ingredient": "Quinoa", "quantity": "1/2 cup", "calories": 110, "protein": 4, "carbs": 19, "fat": 2 },
+          { "ingredient": "Mixed Vegetables", "quantity": "1 cup", "calories": 50, "protein": 2, "carbs": 10, "fat": 0 }
+        ],
+        "totalNutrition": {
+          "calories": 490,
+          "protein": 46,
+          "carbs": 29,
+          "fat": 9
+        },
+        "preparationSteps": [
+          "1. Grill the chicken breast until fully cooked.",
+          "2. Cook quinoa according to package instructions.",
+          "3. Mix cooked quinoa, chicken, and vegetables in a bowl and serve."
+        ]
+      },
+      {
+        "mealName": "Turkey Wrap with Avocado",
+        "ingredients": [
+          { "ingredient": "Turkey Breast (Sliced)", "quantity": "150g", "calories": 180, "protein": 30, "carbs": 0, "fat": 4 },
+          { "ingredient": "Whole Wheat Wrap", "quantity": "1 wrap", "calories": 150, "protein": 5, "carbs": 25, "fat": 3 },
+          { "ingredient": "Avocado", "quantity": "1/2 medium", "calories": 120, "protein": 1, "carbs": 6, "fat": 11 }
+        ],
+        "totalNutrition": {
+          "calories": 450,
+          "protein": 36,
+          "carbs": 31,
+          "fat": 18
+        },
+        "preparationSteps": [
+          "1. Lay the turkey slices in the wrap.",
+          "2. Mash the avocado and spread it over the turkey.",
+          "3. Roll up the wrap and serve."
+        ]
+      },
+      {
+        "mealName": "Salmon with Brown Rice and Green Beans",
+        "ingredients": [
+          { "ingredient": "Salmon Fillet", "quantity": "200g", "calories": 370, "protein": 40, "carbs": 0, "fat": 22 },
+          { "ingredient": "Brown Rice", "quantity": "1/2 cup", "calories": 110, "protein": 3, "carbs": 23, "fat": 1 },
+          { "ingredient": "Green Beans", "quantity": "1 cup", "calories": 30, "protein": 2, "carbs": 7, "fat": 0 }
+        ],
+        "totalNutrition": {
+          "calories": 510,
+          "protein": 45,
+          "carbs": 30,
+          "fat": 23
+        },
+        "preparationSteps": [
+          "1. Grill or bake the salmon for 10-12 minutes until fully cooked.",
+          "2. Cook the brown rice according to package instructions.",
+          "3. Steam the green beans and serve alongside the salmon and rice."
+        ]
+      },
+      {
+        "mealName": "Egg White Omelette with Veggies",
+        "ingredients": [
+          { "ingredient": "Egg Whites", "quantity": "6 large", "calories": 100, "protein": 21, "carbs": 2, "fat": 0 },
+          { "ingredient": "Bell Pepper", "quantity": "1/2 medium", "calories": 20, "protein": 1, "carbs": 4, "fat": 0 },
+          { "ingredient": "Onion", "quantity": "1/4 medium", "calories": 15, "protein": 0, "carbs": 4, "fat": 0 }
+        ],
+        "totalNutrition": {
+          "calories": 135,
+          "protein": 22,
+          "carbs": 10,
+          "fat": 0
+        },
+        "preparationSteps": [
+          "1. In a non-stick pan, cook the onion and bell pepper until softened.",
+          "2. Add the egg whites and cook until set.",
+          "3. Serve the omelette hot."
+        ]
+      },
+      {
+        "mealName": "Beef and Sweet Potato Mash",
+        "ingredients": [
+          { "ingredient": "Lean Ground Beef", "quantity": "200g", "calories": 320, "protein": 36, "carbs": 0, "fat": 18 },
+          { "ingredient": "Sweet Potato", "quantity": "200g", "calories": 180, "protein": 4, "carbs": 40, "fat": 0 },
+          { "ingredient": "Olive Oil", "quantity": "1 tsp", "calories": 40, "protein": 0, "carbs": 0, "fat": 4 }
+        ],
+        "totalNutrition": {
+          "calories": 540,
+          "protein": 40,
+          "carbs": 40,
+          "fat": 22
+        },
+        "preparationSteps": [
+          "1. Cook the ground beef in a pan until browned.",
+          "2. Bake or boil the sweet potato and mash with olive oil.",
+          "3. Serve the beef alongside the mashed sweet potato."
+        ]
+      },
+      {
+        "mealName": "Greek Yogurt with Honey and Walnuts",
+        "ingredients": [
+          { "ingredient": "Greek Yogurt (Plain, Non-fat)", "quantity": "1 cup", "calories": 100, "protein": 17, "carbs": 6, "fat": 0 },
+          { "ingredient": "Honey", "quantity": "1 tbsp", "calories": 60, "protein": 0, "carbs": 17, "fat": 0 },
+          { "ingredient": "Walnuts", "quantity": "1/4 cup", "calories": 180, "protein": 4, "carbs": 4, "fat": 18 }
+        ],
+        "totalNutrition": {
+          "calories": 340,
+          "protein": 21,
+          "carbs": 27,
+          "fat": 18
+        },
+        "preparationSteps": [
+          "1. In a bowl, mix Greek yogurt with honey.",
+          "2. Top with chopped walnuts and serve."
+        ]
+      },
+      {
+        "mealName": "Tuna Sandwich with Whole Wheat Bread",
+        "ingredients": [
+          { "ingredient": "Canned Tuna (in water)", "quantity": "1 can (120g)", "calories": 140, "protein": 30, "carbs": 0, "fat": 2 },
+          { "ingredient": "Whole Wheat Bread", "quantity": "2 slices", "calories": 180, "protein": 8, "carbs": 30, "fat": 2 },
+          { "ingredient": "Mayonnaise (Light)", "quantity": "1 tbsp", "calories": 50, "protein": 0, "carbs": 0, "fat": 5 }
+        ],
+        "totalNutrition": {
+          "calories": 370,
+          "protein": 38,
+          "carbs": 30,
+          "fat": 9
+        },
+        "preparationSteps": [
+          "1. Mix the tuna with light mayonnaise.",
+          "2. Spread the mixture onto whole wheat bread slices and serve."
+        ]
+      },
+      {
+        "mealName": "Steak with Roasted Vegetables",
+        "ingredients": [
+          { "ingredient": "Lean Steak", "quantity": "200g", "calories": 330, "protein": 36, "carbs": 0, "fat": 20 },
+          { "ingredient": "Mixed Vegetables (Carrots, Zucchini, Bell Peppers)", "quantity": "1 cup", "calories": 50, "protein": 2, "carbs": 10, "fat": 0 },
+          { "ingredient": "Olive Oil", "quantity": "1 tbsp", "calories": 120, "protein": 0, "carbs": 0, "fat": 14 }
+        ],
+        "totalNutrition": {
+          "calories": 500,
+          "protein": 38,
+          "carbs": 10,
+          "fat": 34
+        },
+        "preparationSteps": [
+          "1. Grill or pan-sear the steak until cooked to your liking.",
+          "2. Roast mixed vegetables with olive oil in the oven for 20 minutes.",
+          "3. Serve steak alongside the roasted vegetables."
+        ]
+      },
+      {
+        "mealName": "Cottage Cheese and Almond Butter Bowl",
+        "ingredients": [
+          { "ingredient": "Cottage Cheese (Low-fat)", "quantity": "1 cup", "calories": 200, "protein": 28, "carbs": 6, "fat": 4 },
+          { "ingredient": "Almond Butter", "quantity": "1 tbsp", "calories": 90, "protein": 3, "carbs": 3, "fat": 8 },
+          { "ingredient": "Chia Seeds", "quantity": "1 tbsp", "calories": 60, "protein": 2, "carbs": 4, "fat": 5 }
+        ],
+        "totalNutrition": {
+          "calories": 350,
+          "protein": 33,
+          "carbs": 13,
+          "fat": 17
+        },
+        "preparationSteps": [
+          "1. Mix cottage cheese with almond butter in a bowl.",
+          "2. Sprinkle chia seeds on top and serve."
+        ]
+      },
+      {
+        "mealName": "Shrimp Stir-Fry with Brown Rice",
+        "ingredients": [
+          { "ingredient": "Shrimp (Cooked)", "quantity": "200g", "calories": 170, "protein": 36, "carbs": 2, "fat": 2 },
+          { "ingredient": "Brown Rice", "quantity": "1/2 cup", "calories": 110, "protein": 3, "carbs": 23, "fat": 1 },
+          { "ingredient": "Mixed Vegetables (Carrots, Broccoli, Peppers)", "quantity": "1 cup", "calories": 50, "protein": 2, "carbs": 10, "fat": 0 }
+        ],
+        "totalNutrition": {
+          "calories": 330,
+          "protein": 41,
+          "carbs": 35,
+          "fat": 3
+        },
+        "preparationSteps": [
+          "1. Stir-fry shrimp and mixed vegetables in a pan until tender.",
+          "2. Cook brown rice according to package instructions.",
+          "3. Serve the shrimp and vegetables over the brown rice."
+        ]
+      }
+    ],
+        "mealPlansFatLoss": [
+          {
+            "mealName": "Grilled Chicken Salad",
+            "ingredients": [
+              { "ingredient": "Chicken Breast", "quantity": "150g", "calories": 250, "protein": 35, "carbs": 0, "fat": 8 },
+              { "ingredient": "Mixed Greens", "quantity": "2 cups", "calories": 20, "protein": 2, "carbs": 4, "fat": 0 },
+              { "ingredient": "Olive Oil", "quantity": "1 tsp", "calories": 40, "protein": 0, "carbs": 0, "fat": 4 }
+            ],
+            "totalNutrition": {
+              "calories": 310,
+              "protein": 37,
+              "carbs": 4,
+              "fat": 12
+            },
+            "preparationSteps": [
+              "1. Grill the chicken breast until fully cooked.",
+              "2. Toss the mixed greens with olive oil.",
+              "3. Slice the chicken and serve on top of the salad."
+            ]
+          },
+          {
+            "mealName": "Egg White Veggie Scramble",
+            "ingredients": [
+              { "ingredient": "Egg Whites", "quantity": "6 large", "calories": 100, "protein": 21, "carbs": 2, "fat": 0 },
+              { "ingredient": "Spinach", "quantity": "1 cup", "calories": 20, "protein": 2, "carbs": 3, "fat": 0 },
+              { "ingredient": "Bell Pepper", "quantity": "1/2 medium", "calories": 20, "protein": 1, "carbs": 5, "fat": 0 }
+            ],
+            "totalNutrition": {
+              "calories": 140,
+              "protein": 24,
+              "carbs": 10,
+              "fat": 0
+            },
+            "preparationSteps": [
+              "1. Cook the bell pepper in a non-stick pan until softened.",
+              "2. Add egg whites and spinach, scramble until fully cooked.",
+              "3. Serve hot."
+            ]
+          },
+          {
+            "mealName": "Tuna and Avocado Lettuce Wrap",
+            "ingredients": [
+              { "ingredient": "Canned Tuna (in water)", "quantity": "1 can (120g)", "calories": 140, "protein": 30, "carbs": 0, "fat": 2 },
+              { "ingredient": "Avocado", "quantity": "1/2 medium", "calories": 120, "protein": 1, "carbs": 6, "fat": 11 },
+              { "ingredient": "Romaine Lettuce Leaves", "quantity": "4 large leaves", "calories": 15, "protein": 1, "carbs": 3, "fat": 0 }
+            ],
+            "totalNutrition": {
+              "calories": 275,
+              "protein": 32,
+              "carbs": 9,
+              "fat": 13
+            },
+            "preparationSteps": [
+              "1. Mash the avocado and mix with tuna.",
+              "2. Scoop the mixture into romaine lettuce leaves and wrap.",
+              "3. Serve as a low-carb wrap."
+            ]
+          },
+          {
+            "mealName": "Salmon with Steamed Broccoli",
+            "ingredients": [
+              { "ingredient": "Salmon Fillet", "quantity": "150g", "calories": 280, "protein": 30, "carbs": 0, "fat": 18 },
+              { "ingredient": "Broccoli", "quantity": "1 cup", "calories": 55, "protein": 4, "carbs": 11, "fat": 0 }
+            ],
+            "totalNutrition": {
+              "calories": 335,
+              "protein": 34,
+              "carbs": 11,
+              "fat": 18
+            },
+            "preparationSteps": [
+              "1. Grill or bake the salmon until fully cooked.",
+              "2. Steam the broccoli until tender.",
+              "3. Serve together."
+            ]
+          },
+          {
+            "mealName": "Turkey and Cucumber Roll",
+            "ingredients": [
+              { "ingredient": "Turkey Breast (Sliced)", "quantity": "150g", "calories": 180, "protein": 30, "carbs": 0, "fat": 4 },
+              { "ingredient": "Cucumber", "quantity": "1 medium", "calories": 30, "protein": 1, "carbs": 6, "fat": 0 },
+              { "ingredient": "Mustard", "quantity": "1 tsp", "calories": 5, "protein": 0, "carbs": 1, "fat": 0 }
+            ],
+            "totalNutrition": {
+              "calories": 215,
+              "protein": 31,
+              "carbs": 7,
+              "fat": 4
+            },
+            "preparationSteps": [
+              "1. Slice the cucumber into thin strips.",
+              "2. Spread mustard on the turkey slices.",
+              "3. Roll the turkey around the cucumber strips and serve."
+            ]
+          },
+          {
+            "mealName": "Zucchini Noodles with Ground Beef",
+            "ingredients": [
+              { "ingredient": "Lean Ground Beef", "quantity": "100g", "calories": 170, "protein": 21, "carbs": 0, "fat": 9 },
+              { "ingredient": "Zucchini (spiralized)", "quantity": "1 medium", "calories": 40, "protein": 3, "carbs": 7, "fat": 0 },
+              { "ingredient": "Olive Oil", "quantity": "1 tsp", "calories": 40, "protein": 0, "carbs": 0, "fat": 4 }
+            ],
+            "totalNutrition": {
+              "calories": 250,
+              "protein": 24,
+              "carbs": 7,
+              "fat": 13
+            },
+            "preparationSteps": [
+              "1. Cook the ground beef in a non-stick pan until browned.",
+              "2. Stir-fry the zucchini noodles in olive oil for 2-3 minutes.",
+              "3. Combine the beef and zucchini noodles, and serve."
+            ]
+          },
+          {
+            "mealName": "Cottage Cheese and Berries",
+            "ingredients": [
+              { "ingredient": "Cottage Cheese (Low-fat)", "quantity": "1 cup", "calories": 200, "protein": 28, "carbs": 6, "fat": 4 },
+              { "ingredient": "Mixed Berries", "quantity": "1/2 cup", "calories": 35, "protein": 1, "carbs": 9, "fat": 0 }
+            ],
+            "totalNutrition": {
+              "calories": 235,
+              "protein": 29,
+              "carbs": 15,
+              "fat": 4
+            },
+            "preparationSteps": [
+              "1. Mix cottage cheese with fresh or frozen berries.",
+              "2. Serve chilled."
+            ]
+          },
+          {
+            "mealName": "Baked Cod with Green Beans",
+            "ingredients": [
+              { "ingredient": "Cod Fillet", "quantity": "150g", "calories": 130, "protein": 30, "carbs": 0, "fat": 2 },
+              { "ingredient": "Green Beans", "quantity": "1 cup", "calories": 45, "protein": 2, "carbs": 10, "fat": 0 }
+            ],
+            "totalNutrition": {
+              "calories": 175,
+              "protein": 32,
+              "carbs": 10,
+              "fat": 2
+            },
+            "preparationSteps": [
+              "1. Bake cod fillet in the oven for 10-12 minutes.",
+              "2. Steam or boil the green beans.",
+              "3. Serve together."
+            ]
+          },
+          {
+            "mealName": "Greek Yogurt with Almonds",
+            "ingredients": [
+              { "ingredient": "Greek Yogurt (Plain, Non-fat)", "quantity": "1 cup", "calories": 100, "protein": 17, "carbs": 6, "fat": 0 },
+              { "ingredient": "Almonds", "quantity": "1/4 cup", "calories": 160, "protein": 6, "carbs": 6, "fat": 14 }
+            ],
+            "totalNutrition": {
+              "calories": 260,
+              "protein": 23,
+              "carbs": 12,
+              "fat": 14
+            },
+            "preparationSteps": [
+              "1. Mix Greek yogurt with almonds.",
+              "2. Serve chilled."
+            ]
+          },
+          {
+            "mealName": "Shrimp Stir-Fry with Vegetables",
+            "ingredients": [
+              { "ingredient": "Shrimp (Cooked)", "quantity": "150g", "calories": 120, "protein": 25, "carbs": 0, "fat": 2 },
+              { "ingredient": "Mixed Vegetables (Broccoli, Bell Peppers)", "quantity": "1 cup", "calories": 50, "protein": 3, "carbs": 10, "fat": 0 },
+              { "ingredient": "Soy Sauce (Low-sodium)", "quantity": "1 tbsp", "calories": 10, "protein": 1, "carbs": 1, "fat": 0 }
+            ],
+            "totalNutrition": {
+              "calories": 180,
+              "protein": 29,
+              "carbs": 11,
+              "fat": 2
+            },
+            "preparationSteps": [
+              "1. Stir-fry the shrimp and vegetables in a non-stick pan.",
+              "2. Add soy sauce and cook for another 2 minutes.",
+              "3. Serve hot."
+            ]
+          },
+          {
+            "mealName": "Turkey and Spinach Egg Muffins",
+            "ingredients": [
+              { "ingredient": "Ground Turkey (lean)", "quantity": "100g", "calories": 140, "protein": 22, "carbs": 0, "fat": 7 },
+              { "ingredient": "Eggs", "quantity": "2 large", "calories": 140, "protein": 12, "carbs": 2, "fat": 10 },
+              { "ingredient": "Spinach", "quantity": "1/2 cup", "calories": 10, "protein": 1, "carbs": 2, "fat": 0 }
+            ],
+            "totalNutrition": {
+              "calories": 290,
+              "protein": 35,
+              "carbs": 4,
+              "fat": 17
+            },
+            "preparationSteps": [
+              "1. Preheat the oven to 350°F (175°C).",
+              "2. Cook ground turkey in a pan until browned.",
+              "3. Whisk eggs and mix with cooked turkey and spinach.",
+              "4. Pour the mixture into muffin tins and bake for 15-20 minutes."
+            ]
+          },
+          {
+            "mealName": "Avocado and Tuna Salad",
+            "ingredients": [
+              { "ingredient": "Canned Tuna (in water)", "quantity": "1 can (120g)", "calories": 140, "protein": 30, "carbs": 0, "fat": 2 },
+              { "ingredient": "Avocado", "quantity": "1/2 medium", "calories": 120, "protein": 1, "carbs": 6, "fat": 11 },
+              { "ingredient": "Cherry Tomatoes", "quantity": "1/2 cup", "calories": 15, "protein": 1, "carbs": 3, "fat": 0 }
+            ],
+            "totalNutrition": {
+              "calories": 275,
+              "protein": 32,
+              "carbs": 9,
+              "fat": 13
+            },
+            "preparationSteps": [
+              "1. Drain the tuna and mash the avocado in a bowl.",
+              "2. Mix in cherry tomatoes and season with salt and pepper.",
+              "3. Serve as a salad or in lettuce cups."
+            ]
+          },
+          {
+            "mealName": "Grilled Cod with Asparagus",
+            "ingredients": [
+              { "ingredient": "Cod Fillet", "quantity": "150g", "calories": 130, "protein": 30, "carbs": 0, "fat": 2 },
+              { "ingredient": "Asparagus", "quantity": "10 spears", "calories": 30, "protein": 3, "carbs": 6, "fat": 0 },
+              { "ingredient": "Lemon Juice", "quantity": "1 tbsp", "calories": 4, "protein": 0, "carbs": 1, "fat": 0 }
+            ],
+            "totalNutrition": {
+              "calories": 164,
+              "protein": 33,
+              "carbs": 7,
+              "fat": 2
+            },
+            "preparationSteps": [
+              "1. Grill the cod fillet for 8-10 minutes until fully cooked.",
+              "2. Steam or grill the asparagus until tender.",
+              "3. Drizzle with lemon juice before serving."
+            ]
+          },
+          {
+            "mealName": "Cucumber and Turkey Roll-Ups",
+            "ingredients": [
+              { "ingredient": "Turkey Breast (Sliced)", "quantity": "100g", "calories": 150, "protein": 28, "carbs": 0, "fat": 3 },
+              { "ingredient": "Cucumber", "quantity": "1 medium", "calories": 30, "protein": 1, "carbs": 6, "fat": 0 },
+              { "ingredient": "Cream Cheese (Low-fat)", "quantity": "1 tbsp", "calories": 35, "protein": 1, "carbs": 1, "fat": 3 }
+            ],
+            "totalNutrition": {
+              "calories": 215,
+              "protein": 30,
+              "carbs": 7,
+              "fat": 6
+            },
+            "preparationSteps": [
+              "1. Slice cucumber into thin strips.",
+              "2. Spread cream cheese on turkey slices and roll them around cucumber strips.",
+              "3. Serve cold as a light snack."
+            ]
+          },
+          {
+            "mealName": "Grilled Chicken and Zucchini",
+            "ingredients": [
+              { "ingredient": "Chicken Breast", "quantity": "150g", "calories": 250, "protein": 35, "carbs": 0, "fat": 8 },
+              { "ingredient": "Zucchini", "quantity": "1 medium", "calories": 40, "protein": 2, "carbs": 7, "fat": 0 },
+              { "ingredient": "Olive Oil", "quantity": "1 tsp", "calories": 40, "protein": 0, "carbs": 0, "fat": 4 }
+            ],
+            "totalNutrition": {
+              "calories": 330,
+              "protein": 37,
+              "carbs": 7,
+              "fat": 12
+            },
+            "preparationSteps": [
+              "1. Grill the chicken breast until fully cooked.",
+              "2. Slice zucchini and grill with olive oil until tender.",
+              "3. Serve the chicken with grilled zucchini."
+            ]
+          },
+          {
+            "mealName": "Greek Yogurt with Walnuts",
+            "ingredients": [
+              { "ingredient": "Greek Yogurt (Plain, Non-fat)", "quantity": "1 cup", "calories": 100, "protein": 17, "carbs": 6, "fat": 0 },
+              { "ingredient": "Walnuts", "quantity": "1/4 cup", "calories": 180, "protein": 4, "carbs": 4, "fat": 18 }
+            ],
+            "totalNutrition": {
+              "calories": 280,
+              "protein": 21,
+              "carbs": 10,
+              "fat": 18
+            },
+            "preparationSteps": [
+              "1. Mix Greek yogurt with chopped walnuts.",
+              "2. Serve chilled."
+            ]
+          },
+          {
+            "mealName": "Tuna and Quinoa Bowl",
+            "ingredients": [
+              { "ingredient": "Canned Tuna (in water)", "quantity": "1 can (120g)", "calories": 140, "protein": 30, "carbs": 0, "fat": 2 },
+              { "ingredient": "Cooked Quinoa", "quantity": "1/2 cup", "calories": 110, "protein": 4, "carbs": 20, "fat": 2 },
+              { "ingredient": "Cucumber", "quantity": "1/2 medium", "calories": 15, "protein": 1, "carbs": 4, "fat": 0 }
+            ],
+            "totalNutrition": {
+              "calories": 265,
+              "protein": 35,
+              "carbs": 24,
+              "fat": 4
+            },
+            "preparationSteps": [
+              "1. Mix tuna with cooked quinoa and diced cucumber.",
+              "2. Season with lemon juice, salt, and pepper.",
+              "3. Serve chilled."
+            ]
+          },
+          {
+            "mealName": "Baked Tilapia with Green Beans",
+            "ingredients": [
+              { "ingredient": "Tilapia Fillet", "quantity": "150g", "calories": 110, "protein": 26, "carbs": 0, "fat": 1 },
+              { "ingredient": "Green Beans", "quantity": "1 cup", "calories": 40, "protein": 2, "carbs": 8, "fat": 0 },
+              { "ingredient": "Lemon Juice", "quantity": "1 tbsp", "calories": 4, "protein": 0, "carbs": 1, "fat": 0 }
+            ],
+            "totalNutrition": {
+              "calories": 154,
+              "protein": 28,
+              "carbs": 9,
+              "fat": 1
+            },
+            "preparationSteps": [
+              "1. Bake the tilapia fillet at 375°F (190°C) for 10-12 minutes.",
+              "2. Steam or boil the green beans until tender.",
+              "3. Drizzle lemon juice on top of the fish and serve with green beans."
+            ]
+          }
+        ]
+            
+  }
+  

@@ -1,0 +1,2401 @@
+{
+  "questions": {
+    "1": [
+      {
+          "question": "Quel joueur a remporté le plus de Ballon d'Or ?",
+          "options": [
+              "Lionel Messi",
+              "Cristiano Ronaldo",
+              "Michel Platini",
+              "Johan Cruyff"
+          ],
+          "correctAnswer": "Lionel Messi"
+      },
+      {
+          "question": "Quel pays a remporté le plus de titres de la Coupe du Monde FIFA ?",
+          "options": [
+              "Brésil",
+              "Allemagne",
+              "Italie",
+              "Argentine"
+          ],
+          "correctAnswer": "Brésil"
+      },
+      {
+          "question": "Qui est le meilleur buteur de l'histoire de la Ligue des Champions de l'UEFA ?",
+          "options": [
+              "Cristiano Ronaldo",
+              "Lionel Messi",
+              "Raul",
+              "Robert Lewandowski"
+          ],
+          "correctAnswer": "Cristiano Ronaldo"
+      },
+      {
+          "question": "Quel club a remporté le plus de titres de la Premier League anglaise ?",
+          "options": [
+              "Manchester United",
+              "Liverpool",
+              "Chelsea",
+              "Arsenal"
+          ],
+          "correctAnswer": "Manchester United"
+      },
+      {
+          "question": "Qui a marqué le 'But de la Main de Dieu' lors de la Coupe du Monde FIFA 1986 ?",
+          "options": [
+              "Diego Maradona",
+              "Pelé",
+              "Zinedine Zidane",
+              "Ronaldinho"
+          ],
+          "correctAnswer": "Diego Maradona"
+      },
+      {
+          "question": "Quel joueur détient le record du plus grand nombre de buts marqués lors d'un seul tournoi de la Coupe du Monde FIFA ?",
+          "options": [
+              "Just Fontaine",
+              "Miroslav Klose",
+              "Pelé",
+              "Gary Lineker"
+          ],
+          "correctAnswer": "Just Fontaine"
+      },
+      {
+          "question": "Quel pays a remporté le tournoi UEFA Euro 2020 ?",
+          "options": [
+              "Italie",
+              "Angleterre",
+              "Portugal",
+              "France"
+          ],
+          "correctAnswer": "Italie"
+      },
+      {
+          "question": "Qui est le meilleur buteur de tous les temps de l'équipe nationale brésilienne ?",
+          "options": [
+              "Neymar",
+              "Ronaldo",
+              "Romario",
+              "Pelé"
+          ],
+          "correctAnswer": "Pelé"
+      },
+      {
+          "question": "Quel club a remporté la Ligue des Champions de l'UEFA lors de la saison 2018-2019 ?",
+          "options": [
+              "Liverpool",
+              "Real Madrid",
+              "Bayern Munich",
+              "Barcelona"
+          ],
+          "correctAnswer": "Liverpool"
+      },
+      {
+          "question": "Qui a été le meilleur buteur du tournoi UEFA Euro 2021 ?",
+          "options": [
+              "Cristiano Ronaldo",
+              "Karim Benzema",
+              "Harry Kane",
+              "Romelu Lukaku"
+          ],
+          "correctAnswer": "Cristiano Ronaldo"
+      },
+      {
+          "question": "Quel joueur a remporté le plus de titres de Championnat d'Europe de l'UEFA ?",
+          "options": [
+              "Cristiano Ronaldo",
+              "Michel Platini",
+              "Marco van Basten",
+              "David Beckham"
+          ],
+          "correctAnswer": "Cristiano Ronaldo"
+      },
+      {
+          "question": "Quel pays a remporté le tournoi Copa America 2021 ?",
+          "options": [
+              "Argentine",
+              "Brésil",
+              "Chili",
+              "Uruguay"
+          ],
+          "correctAnswer": "Argentine"
+      },
+      {
+          "question": "Qui est l'entraîneur ayant remporté le plus de titres de Premier League anglaise ?",
+          "options": [
+              "Sir Alex Ferguson",
+              "Jose Mourinho",
+              "Pep Guardiola",
+              "Arsene Wenger"
+          ],
+          "correctAnswer": "Sir Alex Ferguson"
+      },
+      {
+          "question": "Quel joueur a le plus d'assistances dans l'histoire de la Liga espagnole ?",
+          "options": [
+              "Lionel Messi",
+              "Xavi Hernandez",
+              "Andres Iniesta",
+              "Cristiano Ronaldo"
+          ],
+          "correctAnswer": "Lionel Messi"
+      },
+      {
+          "question": "Quel club a remporté le plus de titres de la FA Cup ?",
+          "options": [
+              "Arsenal",
+              "Manchester United",
+              "Chelsea",
+              "Liverpool"
+          ],
+          "correctAnswer": "Arsenal"
+      }
+  ],
+  "2": [
+    {
+        "question": "Qui a remporté le Ballon d'Or en 2004 ?",
+        "options": [
+            "Andriy Shevchenko",
+            "Ronaldinho",
+            "Thierry Henry",
+            "Zinedine Zidane"
+        ],
+        "correctAnswer": "Ronaldinho"
+    },
+    {
+        "question": "Quel joueur a remporté le plus de titres de la Coupe du Monde des Clubs de la FIFA ?",
+        "options": [
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Sergio Ramos",
+            "Dani Alves"
+        ],
+        "correctAnswer": "Dani Alves"
+    },
+    {
+        "question": "Quel pays a accueilli la Coupe du Monde FIFA 2010 ?",
+        "options": [
+            "Afrique du Sud",
+            "Brésil",
+            "Allemagne",
+            "Russie"
+        ],
+        "correctAnswer": "Afrique du Sud"
+    },
+    {
+        "question": "Qui a marqué le but décisif pour l'Allemagne en finale de la Coupe du Monde FIFA 2014 ?",
+        "options": [
+            "Lionel Messi",
+            "Thomas Muller",
+            "Mario Gotze",
+            "Mesut Ozil"
+        ],
+        "correctAnswer": "Mario Gotze"
+    },
+    {
+        "question": "Quel club a remporté la Ligue des Champions de l'UEFA lors de la saison 2008-2009 ?",
+        "options": [
+            "Barcelone",
+            "Manchester United",
+            "AC Milan",
+            "Real Madrid"
+        ],
+        "correctAnswer": "Barcelone"
+    },
+    {
+        "question": "Qui est le meilleur buteur de tous les temps de la Bundesliga allemande ?",
+        "options": [
+            "Gerd Muller",
+            "Robert Lewandowski",
+            "Karl-Heinz Rummenigge",
+            "Lothar Matthaus"
+        ],
+        "correctAnswer": "Gerd Muller"
+    },
+    {
+        "question": "Quel joueur a remporté le plus de titres de la Supercoupe de l'UEFA ?",
+        "options": [
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Paolo Maldini",
+            "Philipp Lahm"
+        ],
+        "correctAnswer": "Paolo Maldini"
+    },
+    {
+        "question": "Qui a été le meilleur buteur du Championnat d'Europe UEFA 2016 ?",
+        "options": [
+            "Cristiano Ronaldo",
+            "Antoine Griezmann",
+            "Mario Gomez",
+            "Olivier Giroud"
+        ],
+        "correctAnswer": "Antoine Griezmann"
+    },
+    {
+        "question": "Quel club a remporté le plus de titres de Serie A italienne ?",
+        "options": [
+            "Juventus",
+            "AC Milan",
+            "Inter Milan",
+            "AS Roma"
+        ],
+        "correctAnswer": "Juventus"
+    },
+    {
+        "question": "Qui est le joueur le plus jeune à avoir marqué un but dans l'histoire de la Coupe du Monde FIFA ?",
+        "options": [
+            "Pelé",
+            "Kylian Mbappe",
+            "Michael Owen",
+            "Diego Maradona"
+        ],
+        "correctAnswer": "Pelé"
+    },
+    {
+        "question": "Quel pays a remporté le tournoi UEFA Euro 2016 ?",
+        "options": [
+            "Portugal",
+            "France",
+            "Espagne",
+            "Allemagne"
+        ],
+        "correctAnswer": "Portugal"
+    },
+    {
+        "question": "Qui est le meilleur buteur de tous les temps de la Ligue 1 française ?",
+        "options": [
+            "Zlatan Ibrahimovic",
+            "Edinson Cavani",
+            "Thierry Henry",
+            "Pauleta"
+        ],
+        "correctAnswer": "Zlatan Ibrahimovic"
+    },
+    {
+        "question": "Quel club a remporté le plus de titres de l'Eredivisie néerlandaise ?",
+        "options": [
+            "Ajax",
+            "PSV Eindhoven",
+            "Feyenoord",
+            "AZ Alkmaar"
+        ],
+        "correctAnswer": "Ajax"
+    },
+    {
+        "question": "Qui a remporté le Ballon d'Or en 2006 ?",
+        "options": [
+            "Fabio Cannavaro",
+            "Ronaldinho",
+            "Thierry Henry",
+            "Zinedine Zidane"
+        ],
+        "correctAnswer": "Fabio Cannavaro"
+    },
+    {
+        "question": "Quel joueur a remporté le plus de titres de Copa America ?",
+        "options": [
+            "Lionel Messi",
+            "Neymar",
+            "Diego Maradona",
+            "Pelé"
+        ],
+        "correctAnswer": "Lionel Messi"
+    }
+],
+"3": [
+    {
+        "question": "Qui était l'entraîneur de l'équipe nationale espagnole lors de leur victoire à la Coupe du Monde FIFA 2010 ?",
+        "options": [
+            "Vicente del Bosque",
+            "Luis Aragones",
+            "Jose Mourinho",
+            "Pep Guardiola"
+        ],
+        "correctAnswer": "Vicente del Bosque"
+    },
+    {
+        "question": "Quel joueur a remporté le Soulier d'Or lors de la Coupe du Monde FIFA 2018 ?",
+        "options": [
+            "Harry Kane",
+            "Kylian Mbappe",
+            "Luka Modric",
+            "Cristiano Ronaldo"
+        ],
+        "correctAnswer": "Harry Kane"
+    },
+    {
+        "question": "Qui a marqué le but décisif pour l'Espagne en finale de l'UEFA Euro 2008 ?",
+        "options": [
+            "Fernando Torres",
+            "David Villa",
+            "Xavi Hernandez",
+            "Andres Iniesta"
+        ],
+        "correctAnswer": "Fernando Torres"
+    },
+    {
+        "question": "Quel joueur a remporté le plus de titres de la Coupe d'Afrique des Nations ?",
+        "options": [
+            "Samuel Eto'o",
+            "Didier Drogba",
+            "Roger Milla",
+            "Yaya Toure"
+        ],
+        "correctAnswer": "Samuel Eto'o"
+    },
+    {
+        "question": "Quel club a remporté la Ligue des Champions de l'UEFA lors de la saison 2004-2005 ?",
+        "options": [
+            "Liverpool",
+            "AC Milan",
+            "Chelsea",
+            "Barcelone"
+        ],
+        "correctAnswer": "Liverpool"
+    },
+    {
+        "question": "Qui est le meilleur buteur de tous les temps de l'équipe nationale argentine ?",
+        "options": [
+            "Lionel Messi",
+            "Diego Maradona",
+            "Gabriel Batistuta",
+            "Sergio Aguero"
+        ],
+        "correctAnswer": "Lionel Messi"
+    },
+    {
+        "question": "Quel joueur a le plus d'assistances dans l'histoire du Championnat d'Europe UEFA ?",
+        "options": [
+            "Andres Iniesta",
+            "Luis Figo",
+            "David Beckham",
+            "Zinedine Zidane"
+        ],
+        "correctAnswer": "Andres Iniesta"
+    },
+    {
+        "question": "Qui a été le meilleur buteur de la Coupe du Monde FIFA 2014 ?",
+        "options": [
+            "James Rodriguez",
+            "Thomas Muller",
+            "Lionel Messi",
+            "Neymar"
+        ],
+        "correctAnswer": "James Rodriguez"
+    },
+    {
+        "question": "Quel club a remporté le plus de titres de la Ligue 1 française ?",
+        "options": [
+            "Paris Saint-Germain",
+            "Saint-Etienne",
+            "Marseille",
+            "Monaco"
+        ],
+        "correctAnswer": "Saint-Etienne"
+    },
+    {
+        "question": "Qui a remporté le Ballon d'Or en 2018 ?",
+        "options": [
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Luka Modric",
+            "Kylian Mbappe"
+        ],
+        "correctAnswer": "Luka Modric"
+    },
+    {
+        "question": "Quel joueur a remporté le plus de titres de Copa Libertadores ?",
+        "options": [
+            "Pepe",
+            "Ariel Ortega",
+            "Carlos Tevez",
+            "Francisco Gento"
+        ],
+        "correctAnswer": "Francisco Gento"
+    },
+    {
+        "question": "Qui est le meilleur buteur de tous les temps de l'équipe nationale néerlandaise ?",
+        "options": [
+            "Robin van Persie",
+            "Ruud van Nistelrooy",
+            "Johan Cruyff",
+            "Patrick Kluivert"
+        ],
+        "correctAnswer": "Robin van Persie"
+    },
+    {
+        "question": "Quel club a remporté le plus de titres de Primeira Liga portugaise ?",
+        "options": [
+            "Benfica",
+            "Porto",
+            "Sporting CP",
+            "Boavista"
+        ],
+        "correctAnswer": "Benfica"
+    },
+    {
+        "question": "Qui a remporté le Ballon d'Or en 2007 ?",
+        "options": [
+            "Kaka",
+            "Cristiano Ronaldo",
+            "Thierry Henry",
+            "Zinedine Zidane"
+        ],
+        "correctAnswer": "Kaka"
+    },
+    {
+        "question": "Quel joueur a remporté le plus de titres de la MLS Cup ?",
+        "options": [
+            "Landon Donovan",
+            "David Beckham",
+            "Thierry Henry",
+            "Robbie Keane"
+        ],
+        "correctAnswer": "Landon Donovan"
+    }
+],
+"4": [
+  {
+      "question": "Quel joueur détient le record du plus grand nombre de buts marqués lors d'un seul tournoi de la Coupe du Monde FIFA ?",
+      "options": [
+          "Just Fontaine",
+          "Gerd Muller",
+          "Pelé",
+          "Ronaldo"
+      ],
+      "correctAnswer": "Just Fontaine"
+  },
+  {
+      "question": "Qui a remporté le Championnat d'Europe UEFA en 2012 ?",
+      "options": [
+          "Espagne",
+          "Allemagne",
+          "Italie",
+          "Portugal"
+      ],
+      "correctAnswer": "Espagne"
+  },
+  {
+      "question": "Quel pays a remporté le tournoi de la Copa America 2019 ?",
+      "options": [
+          "Brésil",
+          "Argentine",
+          "Uruguay",
+          "Chili"
+      ],
+      "correctAnswer": "Brésil"
+  },
+  {
+      "question": "Qui est le meilleur buteur de tous les temps de l'équipe nationale française ?",
+      "options": [
+          "Thierry Henry",
+          "Michel Platini",
+          "Zinedine Zidane",
+          "Just Fontaine"
+      ],
+      "correctAnswer": "Thierry Henry"
+  },
+  {
+      "question": "Quel club a remporté la Ligue des Champions de l'UEFA lors de la saison 2012-2013 ?",
+      "options": [
+          "Bayern Munich",
+          "Borussia Dortmund",
+          "Chelsea",
+          "Real Madrid"
+      ],
+      "correctAnswer": "Bayern Munich"
+  },
+  {
+      "question": "Qui a remporté le Ballon d'Or en 2001 ?",
+      "options": [
+          "Luis Figo",
+          "Ronaldo",
+          "Zinedine Zidane",
+          "David Beckham"
+      ],
+      "correctAnswer": "Michael Owen"
+  },
+  {
+      "question": "Quel joueur a remporté le plus de titres de la Coupe d'Afrique des Nations ?",
+      "options": [
+          "Samuel Eto'o",
+          "Didier Drogba",
+          "Yaya Touré",
+          "Roger Milla"
+      ],
+      "correctAnswer": "Samuel Eto'o"
+  },
+  {
+      "question": "Qui était le meilleur buteur du Championnat d'Europe UEFA 2012 ?",
+      "options": [
+          "Fernando Torres",
+          "Mario Gomez",
+          "Cristiano Ronaldo",
+          "Mario Balotelli"
+      ],
+      "correctAnswer": "Fernando Torres"
+  },
+  {
+      "question": "Quel club a remporté le plus de titres de la Pro League belge ?",
+      "options": [
+          "Anderlecht",
+          "Club Bruges",
+          "Standard de Liège",
+          "Genk"
+      ],
+      "correctAnswer": "Anderlecht"
+  },
+  {
+      "question": "Qui a remporté le Ballon d'Or en 2003 ?",
+      "options": [
+          "Pavel Nedved",
+          "Thierry Henry",
+          "Zinedine Zidane",
+          "Ronaldo"
+      ],
+      "correctAnswer": "Pavel Nedved"
+  },
+  {
+      "question": "Quel joueur a remporté le plus de titres de la MLS Cup ?",
+      "options": [
+          "Landon Donovan",
+          "David Beckham",
+          "Thierry Henry",
+          "Robbie Keane"
+      ],
+      "correctAnswer": "Landon Donovan"
+  },
+  {
+      "question": "Qui a remporté le Ballon d'Or en 1997 ?",
+      "options": [
+          "Ronaldo",
+          "Zinedine Zidane",
+          "George Weah",
+          "David Beckham"
+      ],
+      "correctAnswer": "Ronaldo"
+  },
+  {
+      "question": "Quel joueur a le plus d'apparitions dans l'histoire de la Coupe du Monde FIFA ?",
+      "options": [
+          "Lothar Matthäus",
+          "Paolo Maldini",
+          "Cafu",
+          "Gianluigi Buffon"
+      ],
+      "correctAnswer": "Lothar Matthäus"
+  },
+  {
+      "question": "Quel club a remporté la Ligue des Champions de l'UEFA lors de la saison 2005-2006 ?",
+      "options": [
+          "Barcelone",
+          "Liverpool",
+          "AC Milan",
+          "Real Madrid"
+      ],
+      "correctAnswer": "Liverpool"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Coupe du Monde FIFA 2010 ?",
+      "options": [
+          "Thomas Müller",
+          "Diego Forlán",
+          "Wesley Sneijder",
+          "David Villa"
+      ],
+      "correctAnswer": "Thomas Müller"
+  }
+],
+"5": [
+  {
+      "question": "Qui a remporté le Ballon d'Or en 2019 ?",
+      "options": [
+          "Lionel Messi",
+          "Virgil van Dijk",
+          "Cristiano Ronaldo",
+          "Mohamed Salah"
+      ],
+      "correctAnswer": "Lionel Messi"
+  },
+  {
+      "question": "Quel joueur détient le record du plus grand nombre de buts marqués lors d'une seule saison de la Ligue des Champions UEFA ?",
+      "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Robert Lewandowski",
+          "Raul"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+      "question": "Quel club a remporté la Copa Libertadores en 2020 ?",
+      "options": [
+          "Palmeiras",
+          "Santos",
+          "River Plate",
+          "Boca Juniors"
+      ],
+      "correctAnswer": "Palmeiras"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde Féminine de la FIFA en 2019 ?",
+      "options": [
+          "USA",
+          "Pays-Bas",
+          "Suède",
+          "Allemagne"
+      ],
+      "correctAnswer": "USA"
+  },
+  {
+      "question": "Quel joueur a remporté le plus de trophées de Meilleur Buteur de la Premier League ?",
+      "options": [
+          "Thierry Henry",
+          "Alan Shearer",
+          "Harry Kane",
+          "Sergio Agüero"
+      ],
+      "correctAnswer": "Alan Shearer"
+  },
+  {
+      "question": "Quel pays a accueilli la Coupe du Monde FIFA en 2002 ?",
+      "options": [
+          "Corée du Sud et Japon",
+          "Allemagne",
+          "France",
+          "Italie"
+      ],
+      "correctAnswer": "Corée du Sud et Japon"
+  },
+  {
+      "question": "Qui a remporté le Ballon d'Or en 2016 ?",
+      "options": [
+          "Cristiano Ronaldo",
+          "Lionel Messi",
+          "Antoine Griezmann",
+          "Neymar"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+      "question": "Quel club a remporté la Ligue Europa de l'UEFA lors de la saison 2019-2020 ?",
+      "options": [
+          "Séville",
+          "Inter Milan",
+          "Manchester United",
+          "Arsenal"
+      ],
+      "correctAnswer": "Séville"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Coupe du Monde FIFA 2018 ?",
+      "options": [
+          "Harry Kane",
+          "Antoine Griezmann",
+          "Kylian Mbappé",
+          "Romelu Lukaku"
+      ],
+      "correctAnswer": "Harry Kane"
+  },
+  {
+      "question": "Quel joueur a remporté le plus de titres de Championnat d'Europe UEFA ?",
+      "options": [
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Marco van Basten",
+          "Antoine Griezmann"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+      "question": "Quel club a remporté la Ligue des Champions de l'UEFA lors de la saison 2016-2017 ?",
+      "options": [
+          "Real Madrid",
+          "Barcelone",
+          "Bayern Munich",
+          "Liverpool"
+      ],
+      "correctAnswer": "Real Madrid"
+  },
+  {
+      "question": "Qui a remporté le Ballon d'Or en 2011 ?",
+      "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Andrés Iniesta",
+          "Xavi Hernández"
+      ],
+      "correctAnswer": "Lionel Messi"
+  },
+  {
+      "question": "Quel joueur a remporté le plus de titres de Bundesliga ?",
+      "options": [
+          "Franz Beckenbauer",
+          "Gerd Müller",
+          "Lothar Matthäus",
+          "Oliver Kahn"
+      ],
+      "correctAnswer": "Franz Beckenbauer"
+  },
+  {
+      "question": "Quel club a remporté la Supercoupe de l'UEFA en 2020 ?",
+      "options": [
+          "Bayern Munich",
+          "Liverpool",
+          "Séville",
+          "Real Madrid"
+      ],
+      "correctAnswer": "Bayern Munich"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Coupe du Monde FIFA 2006 ?",
+      "options": [
+          "Miroslav Klose",
+          "Ronaldo",
+          "David Villa",
+          "Thierry Henry"
+      ],
+      "correctAnswer": "Miroslav Klose"
+  }
+],
+"6": [
+  {
+      "question": "Quel joueur a remporté la Ligue des Champions de l'UEFA avec trois clubs différents ?",
+      "options": [
+          "Cristiano Ronaldo",
+          "Clarence Seedorf",
+          "Xavi Hernandez",
+          "Andres Iniesta"
+      ],
+      "correctAnswer": "Clarence Seedorf"
+  },
+  {
+      "question": "Quelle nation a remporté le plus de titres de la Coupe du Monde FIFA U-20 ?",
+      "options": [
+          "Brésil",
+          "Argentine",
+          "Espagne",
+          "Allemagne"
+      ],
+      "correctAnswer": "Argentine"
+  },
+  {
+      "question": "Qui a remporté la Copa America Centenario en 2016 ?",
+      "options": [
+          "Chili",
+          "Argentine",
+          "Brésil",
+          "Uruguay"
+      ],
+      "correctAnswer": "Chili"
+  },
+  {
+      "question": "Quel joueur détient le record du plus grand nombre de buts marqués lors d'un seul tournoi de l'UEFA European Championship ?",
+      "options": [
+          "Michel Platini",
+          "Cristiano Ronaldo",
+          "Thierry Henry",
+          "Antoine Griezmann"
+      ],
+      "correctAnswer": "Michel Platini"
+  },
+  {
+      "question": "Quel club a remporté la Copa Libertadores en 2019 ?",
+      "options": [
+          "Flamengo",
+          "River Plate",
+          "Boca Juniors",
+          "Santos"
+      ],
+      "correctAnswer": "Flamengo"
+  },
+  {
+      "question": "Qui a été le meilleur buteur de la Coupe du Monde FIFA 2002 ?",
+      "options": [
+          "Ronaldo",
+          "Miroslav Klose",
+          "Rivaldo",
+          "Ronaldinho"
+      ],
+      "correctAnswer": "Ronaldo"
+  },
+  {
+      "question": "Quel joueur détient le record du plus grand nombre de passes décisives dans l'histoire de la Premier League ?",
+      "options": [
+          "Ryan Giggs",
+          "Cesc Fabregas",
+          "Thierry Henry",
+          "David Beckham"
+      ],
+      "correctAnswer": "Ryan Giggs"
+  },
+  {
+      "question": "Quelle nation a remporté la Coupe du Monde FIFA U-17 en 2019 ?",
+      "options": [
+          "Brésil",
+          "Pays-Bas",
+          "Espagne",
+          "Mexique"
+      ],
+      "correctAnswer": "Brésil"
+  },
+  {
+      "question": "Quel club a remporté le plus de titres de la FA Cup ?",
+      "options": [
+          "Arsenal",
+          "Manchester United",
+          "Chelsea",
+          "Liverpool"
+      ],
+      "correctAnswer": "Arsenal"
+  },
+  {
+      "question": "Qui a remporté le Ballon d'Or en 2013 ?",
+      "options": [
+          "Cristiano Ronaldo",
+          "Lionel Messi",
+          "Franck Ribery",
+          "Zlatan Ibrahimovic"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+      "question": "Quel joueur a remporté le plus de titres de Championnat d'Europe UEFA ?",
+      "options": [
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Xavi Hernandez",
+          "Andres Iniesta"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+      "question": "Quelle nation a remporté la Coupe d'Afrique des Nations en 2019 ?",
+      "options": [
+          "Algérie",
+          "Sénégal",
+          "Nigeria",
+          "Égypte"
+      ],
+      "correctAnswer": "Algérie"
+  },
+  {
+      "question": "Qui a remporté la Ligue Europa de l'UEFA lors de la saison 2018-2019 ?",
+      "options": [
+          "Chelsea",
+          "Arsenal",
+          "Séville",
+          "Inter Milan"
+      ],
+      "correctAnswer": "Chelsea"
+  },
+  {
+      "question": "Quel joueur a marqué le plus rapide triplé de l'histoire de la Premier League ?",
+      "options": [
+          "Sadio Mane",
+          "Robbie Fowler",
+          "Harry Kane",
+          "Alan Shearer"
+      ],
+      "correctAnswer": "Sadio Mane"
+  },
+  {
+      "question": "Quel club a remporté la Copa del Rey en 2021 ?",
+      "options": [
+          "Barcelone",
+          "Real Madrid",
+          "Atletico Madrid",
+          "Séville"
+      ],
+      "correctAnswer": "Barcelone"
+  }
+],
+"7": [
+  {
+      "question": "Quel joueur a remporté le plus de titres de la Coupe du Monde FIFA ?",
+      "options": [
+          "Pelé",
+          "Diego Maradona",
+          "Zinedine Zidane",
+          "Cristiano Ronaldo"
+      ],
+      "correctAnswer": "Pelé"
+  },
+  {
+      "question": "Qui a remporté la Ligue des Champions de l'UEFA lors de la saison 2013-2014 ?",
+      "options": [
+          "Real Madrid",
+          "Barcelone",
+          "Bayern Munich",
+          "Chelsea"
+      ],
+      "correctAnswer": "Real Madrid"
+  },
+  {
+      "question": "Quel pays a accueilli le plus de tournois de la Coupe du Monde FIFA ?",
+      "options": [
+          "Brésil",
+          "Italie",
+          "Allemagne",
+          "France"
+      ],
+      "correctAnswer": "Brésil"
+  },
+  {
+      "question": "Qui a remporté le Championnat d'Europe UEFA en 2008 ?",
+      "options": [
+          "Espagne",
+          "Allemagne",
+          "Italie",
+          "France"
+      ],
+      "correctAnswer": "Espagne"
+  },
+  {
+      "question": "Quel joueur a remporté le plus de titres de la Copa America ?",
+      "options": [
+          "Lionel Messi",
+          "Diego Maradona",
+          "Neymar",
+          "Pelé"
+      ],
+      "correctAnswer": "Lionel Messi"
+  },
+  {
+      "question": "Quel club a remporté la Coupe du Monde des Clubs de la FIFA en 2019 ?",
+      "options": [
+          "Liverpool",
+          "Real Madrid",
+          "Bayern Munich",
+          "Barcelone"
+      ],
+      "correctAnswer": "Liverpool"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Ligue des Champions de l'UEFA lors de la saison 2019-2020 ?",
+      "options": [
+          "Robert Lewandowski",
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Kylian Mbappe"
+      ],
+      "correctAnswer": "Robert Lewandowski"
+  },
+  {
+      "question": "Quel joueur a remporté le plus de Ballon d'Or ?",
+      "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Johan Cruyff"
+      ],
+      "correctAnswer": "Lionel Messi"
+  },
+  {
+      "question": "Quelle nation a remporté le plus de titres de la Coupe d'Afrique des Nations ?",
+      "options": [
+          "Égypte",
+          "Nigeria",
+          "Ghana",
+          "Cameroun"
+      ],
+      "correctAnswer": "Égypte"
+  },
+  {
+      "question": "Qui a remporté la Ligue Europa de l'UEFA lors de la saison 2015-2016 ?",
+      "options": [
+          "Séville",
+          "Manchester United",
+          "Atletico Madrid",
+          "Chelsea"
+      ],
+      "correctAnswer": "Séville"
+  },
+  {
+      "question": "Quel joueur a remporté le plus de titres de Joueur de la Saison de la Premier League ?",
+      "options": [
+          "Thierry Henry",
+          "Cristiano Ronaldo",
+          "Alan Shearer",
+          "Virgil van Dijk"
+      ],
+      "correctAnswer": "Thierry Henry"
+  },
+  {
+      "question": "Quel club a remporté la Copa Libertadores en 2018 ?",
+      "options": [
+          "River Plate",
+          "Boca Juniors",
+          "Flamengo",
+          "Santos"
+      ],
+      "correctAnswer": "River Plate"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Copa America Centenario en 2016 ?",
+      "options": [
+          "Lionel Messi",
+          "James Rodriguez",
+          "Alexis Sanchez",
+          "Luis Suarez"
+      ],
+      "correctAnswer": "Lionel Messi"
+  },
+  {
+      "question": "Quelle nation a remporté le Championnat d'Europe UEFA en 2016 ?",
+      "options": [
+          "Portugal",
+          "France",
+          "Allemagne",
+          "Espagne"
+      ],
+      "correctAnswer": "Portugal"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde Féminine de la FIFA en 2015 ?",
+      "options": [
+          "États-Unis",
+          "Allemagne",
+          "Japon",
+          "Angleterre"
+      ],
+      "correctAnswer": "États-Unis"
+  }
+],
+"8": [
+  {
+      "question": "Quel joueur a remporté le plus de titres de Joueur de l'Année FIFA ?",
+      "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Zinedine Zidane",
+          "Ronaldo Nazario"
+      ],
+      "correctAnswer": "Lionel Messi"
+  },
+  {
+      "question": "Qui a remporté la Ligue des Champions de l'UEFA lors de la saison 2016-2017 ?",
+      "options": [
+          "Real Madrid",
+          "Juventus",
+          "Barcelone",
+          "Liverpool"
+      ],
+      "correctAnswer": "Real Madrid"
+  },
+  {
+      "question": "Quel pays a remporté la Coupe du Monde FIFA en 2010 ?",
+      "options": [
+          "Espagne",
+          "Pays-Bas",
+          "Allemagne",
+          "Argentine"
+      ],
+      "correctAnswer": "Espagne"
+  },
+  {
+      "question": "Qui a remporté le Championnat d'Europe UEFA en 2004 ?",
+      "options": [
+          "Grèce",
+          "Portugal",
+          "Italie",
+          "France"
+      ],
+      "correctAnswer": "Grèce"
+  },
+  {
+      "question": "Quel joueur a remporté le plus de titres de la Copa Libertadores ?",
+      "options": [
+          "Carlos Tévez",
+          "Ariel Ortega",
+          "Francisco Varallo",
+          "Francisco Gento"
+      ],
+      "correctAnswer": "Francisco Varallo"
+  },
+  {
+      "question": "Quel club a remporté la Coupe du Monde des Clubs de la FIFA en 2018 ?",
+      "options": [
+          "Real Madrid",
+          "Liverpool",
+          "Barcelone",
+          "Bayern Munich"
+      ],
+      "correctAnswer": "Real Madrid"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Ligue des Champions de l'UEFA lors de la saison 2017-2018 ?",
+      "options": [
+          "Cristiano Ronaldo",
+          "Mohamed Salah",
+          "Lionel Messi",
+          "Harry Kane"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+      "question": "Quel joueur a remporté le plus de trophées du Ballon d'Or FIFA Club World Cup Golden Ball ?",
+      "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Neymar",
+          "Andres Iniesta"
+      ],
+      "correctAnswer": "Lionel Messi"
+  },
+  {
+      "question": "Quelle nation a remporté le plus de titres de la Coupe d'Asie des Nations AFC ?",
+      "options": [
+          "Japon",
+          "Corée du Sud",
+          "Arabie Saoudite",
+          "Australie"
+      ],
+      "correctAnswer": "Japon"
+  },
+  {
+      "question": "Qui a remporté la Ligue Europa de l'UEFA lors de la saison 2017-2018 ?",
+      "options": [
+          "Atletico Madrid",
+          "Arsenal",
+          "Chelsea",
+          "Séville"
+      ],
+      "correctAnswer": "Atletico Madrid"
+  },
+  {
+      "question": "Quel joueur a marqué le plus de buts lors d'une seule Coupe du Monde FIFA pour le Brésil ?",
+      "options": [
+          "Pele",
+          "Ronaldo Nazario",
+          "Romario",
+          "Zico"
+      ],
+      "correctAnswer": "Pele"
+  },
+  {
+      "question": "Quel club a remporté la Copa Libertadores en 2020 ?",
+      "options": [
+          "Palmeiras",
+          "Santos",
+          "River Plate",
+          "Boca Juniors"
+      ],
+      "correctAnswer": "Palmeiras"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Copa America en 2019 ?",
+      "options": [
+          "Lionel Messi",
+          "Paolo Guerrero",
+          "Gabriel Jesus",
+          "Luis Suarez"
+      ],
+      "correctAnswer": "Paolo Guerrero"
+  },
+  {
+      "question": "Quelle nation a remporté le Championnat d'Europe UEFA en 1996 ?",
+      "options": [
+          "Allemagne",
+          "France",
+          "Italie",
+          "Angleterre"
+      ],
+      "correctAnswer": "Allemagne"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde Féminine de la FIFA en 2011 ?",
+      "options": [
+          "Japon",
+          "États-Unis",
+          "Allemagne",
+          "Suède"
+      ],
+      "correctAnswer": "Japon"
+  }
+],
+"9": [
+  {
+      "question": "Quel joueur détient le record du plus grand nombre de buts marqués lors d'une seule saison de la Ligue des Champions de l'UEFA ?",
+      "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Robert Lewandowski",
+          "Raul"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde FIFA en 2006 ?",
+      "options": [
+          "Italie",
+          "France",
+          "Brésil",
+          "Allemagne"
+      ],
+      "correctAnswer": "Italie"
+  },
+  {
+      "question": "Quel pays a remporté la Copa America en 2015 ?",
+      "options": [
+          "Chili",
+          "Argentine",
+          "Brésil",
+          "Uruguay"
+      ],
+      "correctAnswer": "Chili"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Premier League anglaise lors de la saison 2019-2020 ?",
+      "options": [
+          "Jamie Vardy",
+          "Pierre-Emerick Aubameyang",
+          "Sadio Mané",
+          "Mohamed Salah"
+      ],
+      "correctAnswer": "Jamie Vardy"
+  },
+  {
+      "question": "Quel joueur a remporté le plus grand nombre de titres de Championnat d'Europe UEFA ?",
+      "options": [
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Andres Iniesta",
+          "Zinedine Zidane"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+      "question": "Quel club a remporté la Coupe des Vainqueurs de Coupe UEFA en 1997 ?",
+      "options": [
+          "Barcelone",
+          "Chelsea",
+          "Paris Saint-Germain",
+          "Real Madrid"
+      ],
+      "correctAnswer": "Barcelone"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Copa Libertadores en 2019 ?",
+      "options": [
+          "Gabriel Barbosa",
+          "Bruno Henrique",
+          "Rafael Santos Borre",
+          "Giorgian De Arrascaeta"
+      ],
+      "correctAnswer": "Bruno Henrique"
+  },
+  {
+      "question": "Quel joueur a remporté le plus grand nombre de trophées du Soulier d'Or de la Premier League ?",
+      "options": [
+          "Thierry Henry",
+          "Alan Shearer",
+          "Harry Kane",
+          "Mohamed Salah"
+      ],
+      "correctAnswer": "Alan Shearer"
+  },
+  {
+      "question": "Quelle nation a remporté le plus grand nombre de titres de Championnat d'Europe des moins de 21 ans de l'UEFA ?",
+      "options": [
+          "Italie",
+          "Espagne",
+          "Allemagne",
+          "Angleterre"
+      ],
+      "correctAnswer": "Espagne"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde des Clubs de la FIFA en 2020 ?",
+      "options": [
+          "Bayern Munich",
+          "Liverpool",
+          "Real Madrid",
+          "Chelsea"
+      ],
+      "correctAnswer": "Bayern Munich"
+  },
+  {
+      "question": "Quel joueur a marqué le plus grand nombre de buts lors d'une seule Coupe du Monde FIFA pour le Brésil ?",
+      "options": [
+          "Pele",
+          "Ronaldo Nazario",
+          "Romario",
+          "Zico"
+      ],
+      "correctAnswer": "Pele"
+  },
+  {
+      "question": "Quel club a remporté la Copa Libertadores en 2017 ?",
+      "options": [
+          "Grêmio",
+          "Lanús",
+          "Boca Juniors",
+          "Palmeiras"
+      ],
+      "correctAnswer": "Grêmio"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Ligue Europa de l'UEFA lors de la saison 2018-2019 ?",
+      "options": [
+          "Olivier Giroud",
+          "Pierre-Emerick Aubameyang",
+          "Edin Dzeko",
+          "Luka Jovic"
+      ],
+      "correctAnswer": "Olivier Giroud"
+  },
+  {
+      "question": "Quelle nation a remporté la Copa America en 2011 ?",
+      "options": [
+          "Uruguay",
+          "Argentine",
+          "Chili",
+          "Brésil"
+      ],
+      "correctAnswer": "Uruguay"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde Féminine de la FIFA en 2019 ?",
+      "options": [
+          "États-Unis",
+          "Pays-Bas",
+          "Allemagne",
+          "Suède"
+      ],
+      "correctAnswer": "États-Unis"
+  }
+],
+"10": [
+  {
+      "question": "Quel joueur a remporté le plus de Ballon d'Or ?",
+      "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Johan Cruyff"
+      ],
+      "correctAnswer": "Lionel Messi"
+  },
+  {
+      "question": "Qui a remporté la Ligue des Champions de l'UEFA lors de la saison 2012-2013 ?",
+      "options": [
+          "Bayern Munich",
+          "Real Madrid",
+          "Chelsea",
+          "Barcelone"
+      ],
+      "correctAnswer": "Bayern Munich"
+  },
+  {
+      "question": "Quel pays a remporté la Copa America en 2019 ?",
+      "options": [
+          "Brésil",
+          "Argentine",
+          "Chili",
+          "Uruguay"
+      ],
+      "correctAnswer": "Brésil"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Premier League anglaise lors de la saison 2018-2019 ?",
+      "options": [
+          "Mohamed Salah",
+          "Sergio Aguero",
+          "Pierre-Emerick Aubameyang",
+          "Jamie Vardy"
+      ],
+      "correctAnswer": "Mohamed Salah"
+  },
+  {
+      "question": "Quel joueur a remporté le plus grand nombre de titres de Championnat d'Europe UEFA ?",
+      "options": [
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Zinedine Zidane",
+          "Luis Figo"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+      "question": "Quel club a remporté la Supercoupe de l'UEFA en 2018 ?",
+      "options": [
+          "Atletico Madrid",
+          "Real Madrid",
+          "Liverpool",
+          "Bayern Munich"
+      ],
+      "correctAnswer": "Atletico Madrid"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Copa Libertadores en 2018 ?",
+      "options": [
+          "Gabriel Barbosa",
+          "Bruno Henrique",
+          "Rafael Santos Borre",
+          "Giorgian De Arrascaeta"
+      ],
+      "correctAnswer": "Gabriel Barbosa"
+  },
+  {
+      "question": "Quel joueur a remporté le plus grand nombre de trophées du Soulier d'Or de la Premier League ?",
+      "options": [
+          "Thierry Henry",
+          "Harry Kane",
+          "Alan Shearer",
+          "Sergio Aguero"
+      ],
+      "correctAnswer": "Harry Kane"
+  },
+  {
+      "question": "Quelle nation a remporté le plus grand nombre de titres de Coupe du Monde FIFA des moins de 20 ans ?",
+      "options": [
+          "Argentine",
+          "Brésil",
+          "Allemagne",
+          "Espagne"
+      ],
+      "correctAnswer": "Argentine"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde des Clubs de la FIFA en 2019 ?",
+      "options": [
+          "Liverpool",
+          "Real Madrid",
+          "Bayern Munich",
+          "Chelsea"
+      ],
+      "correctAnswer": "Liverpool"
+  },
+  {
+      "question": "Quel joueur a marqué le plus grand nombre de buts lors d'une seule Coupe du Monde FIFA ?",
+      "options": [
+          "Just Fontaine",
+          "Pele",
+          "Gerd Muller",
+          "Ronaldo Nazario"
+      ],
+      "correctAnswer": "Just Fontaine"
+  },
+  {
+      "question": "Quel club a remporté la Copa Libertadores en 2015 ?",
+      "options": [
+          "River Plate",
+          "Boca Juniors",
+          "San Lorenzo",
+          "Atletico Nacional"
+      ],
+      "correctAnswer": "River Plate"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Ligue Europa de l'UEFA lors de la saison 2016-2017 ?",
+      "options": [
+          "Edin Dzeko",
+          "Pierre-Emerick Aubameyang",
+          "Romelu Lukaku",
+          "Radamel Falcao"
+      ],
+      "correctAnswer": "Edin Dzeko"
+  },
+  {
+      "question": "Quel pays a remporté la Copa America en 2015 ?",
+      "options": [
+          "Chili",
+          "Argentine",
+          "Brésil",
+          "Uruguay"
+      ],
+      "correctAnswer": "Chili"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde Féminine de la FIFA en 2015 ?",
+      "options": [
+          "États-Unis",
+          "Allemagne",
+          "Japon",
+          "Brésil"
+      ],
+      "correctAnswer": "États-Unis"
+  }
+],
+"11": [
+  {
+      "question": "Quel joueur a marqué le plus de buts dans l'histoire de la Coupe du Monde FIFA ?",
+      "options": [
+          "Miroslav Klose",
+          "Ronaldo Nazario",
+          "Gerd Muller",
+          "Pele"
+      ],
+      "correctAnswer": "Miroslav Klose"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde FIFA en 2018 ?",
+      "options": [
+          "France",
+          "Croatie",
+          "Allemagne",
+          "Brésil"
+      ],
+      "correctAnswer": "France"
+  },
+  {
+      "question": "Quel pays a remporté la Copa America en 2021 ?",
+      "options": [
+          "Argentine",
+          "Brésil",
+          "Chili",
+          "Uruguay"
+      ],
+      "correctAnswer": "Argentine"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Premier League anglaise lors de la saison 2020-2021 ?",
+      "options": [
+          "Harry Kane",
+          "Mohamed Salah",
+          "Bruno Fernandes",
+          "Jamie Vardy"
+      ],
+      "correctAnswer": "Harry Kane"
+  },
+  {
+      "question": "Quel club a remporté la Ligue des Champions de l'UEFA lors de la saison 2020-2021 ?",
+      "options": [
+          "Chelsea",
+          "Manchester City",
+          "Real Madrid",
+          "Bayern Munich"
+      ],
+      "correctAnswer": "Chelsea"
+  },
+  {
+      "question": "Qui a remporté le Championnat d'Europe UEFA en 2020 ?",
+      "options": [
+          "Italie",
+          "Angleterre",
+          "Espagne",
+          "Portugal"
+      ],
+      "correctAnswer": "Italie"
+  },
+  {
+      "question": "Quel joueur a remporté le Soulier d'Or de la Copa Libertadores en 2020 ?",
+      "options": [
+          "Gabriel Barbosa",
+          "Marcos Riquelme",
+          "Carlos Tevez",
+          "Diego Rossi"
+      ],
+      "correctAnswer": "Gabriel Barbosa"
+  },
+  {
+      "question": "Qui a remporté le plus grand nombre de titres de Premier League en tant qu'entraîneur ?",
+      "options": [
+          "Sir Alex Ferguson",
+          "Arsène Wenger",
+          "Pep Guardiola",
+          "Jose Mourinho"
+      ],
+      "correctAnswer": "Sir Alex Ferguson"
+  },
+  {
+      "question": "Quelle nation a remporté la médaille d'or olympique la plus récente en football masculin ?",
+      "options": [
+          "Brésil",
+          "Argentine",
+          "Allemagne",
+          "Espagne"
+      ],
+      "correctAnswer": "Brésil"
+  },
+  {
+      "question": "Qui a été nommé Meilleur Joueur FIFA de l'année 2021 ?",
+      "options": [
+          "Robert Lewandowski",
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Kylian Mbappe"
+      ],
+      "correctAnswer": "Robert Lewandowski"
+  },
+  {
+      "question": "Quel club a remporté la Copa Libertadores en 2021 ?",
+      "options": [
+          "Palmeiras",
+          "Flamengo",
+          "River Plate",
+          "Boca Juniors"
+      ],
+      "correctAnswer": "Palmeiras"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Ligue Europa de l'UEFA lors de la saison 2020-2021 ?",
+      "options": [
+          "Gerard Moreno",
+          "Edinson Cavani",
+          "Harry Kane",
+          "Lorenzo Insigne"
+      ],
+      "correctAnswer": "Gerard Moreno"
+  },
+  {
+      "question": "Quel pays a remporté la Coupe du Monde Féminine de la FIFA en 2019 ?",
+      "options": [
+          "États-Unis",
+          "Pays-Bas",
+          "Allemagne",
+          "Angleterre"
+      ],
+      "correctAnswer": "États-Unis"
+  },
+  {
+      "question": "Quel joueur a remporté le plus de Ballon d'Or ?",
+      "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Johan Cruyff"
+      ],
+      "correctAnswer": "Lionel Messi"
+  },
+  {
+      "question": "Quel pays a remporté le Championnat d'Europe des moins de 21 ans UEFA en 2021 ?",
+      "options": [
+          "Allemagne",
+          "Portugal",
+          "Espagne",
+          "France"
+      ],
+      "correctAnswer": "Allemagne"
+  }
+],
+"12": [
+  {
+      "question": "Qui a remporté la Ligue des Champions de l'UEFA lors de la saison 2019-2020 ?",
+      "options": [
+          "Bayern Munich",
+          "Paris Saint-Germain",
+          "Real Madrid",
+          "Manchester City"
+      ],
+      "correctAnswer": "Bayern Munich"
+  },
+  {
+      "question": "Quel joueur a remporté le prix du Joueur de l'Année de l'UEFA en 2020 ?",
+      "options": [
+          "Robert Lewandowski",
+          "Kevin De Bruyne",
+          "Lionel Messi",
+          "Cristiano Ronaldo"
+      ],
+      "correctAnswer": "Robert Lewandowski"
+  },
+  {
+      "question": "Quelle nation a remporté la Copa America en 2020 ?",
+      "options": [
+          "Argentine",
+          "Brésil",
+          "Chili",
+          "Uruguay"
+      ],
+      "correctAnswer": "Argentine"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Premier League anglaise lors de la saison 2021-2022 ?",
+      "options": [
+          "Mohamed Salah",
+          "Harry Kane",
+          "Romelu Lukaku",
+          "Sadio Mane"
+      ],
+      "correctAnswer": "Mohamed Salah"
+  },
+  {
+      "question": "Quel club a remporté la Ligue Europa de l'UEFA lors de la saison 2020-2021 ?",
+      "options": [
+          "Villarreal",
+          "Manchester United",
+          "Arsenal",
+          "Roma"
+      ],
+      "correctAnswer": "Villarreal"
+  },
+  {
+      "question": "Qui a remporté le Championnat d'Europe de l'UEFA en 2016 ?",
+      "options": [
+          "Portugal",
+          "France",
+          "Allemagne",
+          "Espagne"
+      ],
+      "correctAnswer": "Portugal"
+  },
+  {
+      "question": "Quel joueur a remporté le Soulier d'Or de la Copa Libertadores en 2021 ?",
+      "options": [
+          "Rafael Santos Borre",
+          "Gabriel Barbosa",
+          "Braian Romero",
+          "Miguel Borja"
+      ],
+      "correctAnswer": "Braian Romero"
+  },
+  {
+      "question": "Qui a remporté le plus grand nombre de titres de la FA Cup ?",
+      "options": [
+          "Arsenal",
+          "Manchester United",
+          "Chelsea",
+          "Liverpool"
+      ],
+      "correctAnswer": "Arsenal"
+  },
+  {
+      "question": "Quelle nation a remporté la médaille d'or olympique la plus récente en football féminin ?",
+      "options": [
+          "États-Unis",
+          "Suède",
+          "Allemagne",
+          "Brésil"
+      ],
+      "correctAnswer": "Canada"
+  },
+  {
+      "question": "Qui a été nommé Meilleur Joueur FIFA de l'année en 2020 ?",
+      "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Robert Lewandowski",
+          "Kevin De Bruyne"
+      ],
+      "correctAnswer": "Robert Lewandowski"
+  },
+  {
+      "question": "Quel club a remporté la Copa Libertadores en 2020 ?",
+      "options": [
+          "Palmeiras",
+          "Santos",
+          "River Plate",
+          "Boca Juniors"
+      ],
+      "correctAnswer": "Palmeiras"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Ligue Europa de l'UEFA lors de la saison 2019-2020 ?",
+      "options": [
+          "Romelu Lukaku",
+          "Bruno Fernandes",
+          "Erling Haaland",
+          "Kevin Gameiro"
+      ],
+      "correctAnswer": "Romelu Lukaku"
+  },
+  {
+      "question": "Quel pays a remporté la Coupe du Monde Féminine de la FIFA en 2015 ?",
+      "options": [
+          "États-Unis",
+          "Allemagne",
+          "Japon",
+          "Brésil"
+      ],
+      "correctAnswer": "États-Unis"
+  },
+  {
+      "question": "Qui a remporté le plus grand nombre de titres de la Coupe du Monde FIFA ?",
+      "options": [
+          "Brésil",
+          "Allemagne",
+          "Italie",
+          "Argentine"
+      ],
+      "correctAnswer": "Brésil"
+  },
+  {
+      "question": "Quelle nation a remporté le Championnat d'Europe des moins de 21 ans UEFA en 2019 ?",
+      "options": [
+          "Allemagne",
+          "Espagne",
+          "Italie",
+          "Portugal"
+      ],
+      "correctAnswer": "Espagne"
+  }
+],
+"13": [
+  {
+      "question": "Qui était le meilleur buteur de la Ligue des Champions de l'UEFA lors de la saison 2017-2018 ?",
+      "options": [
+          "Cristiano Ronaldo",
+          "Mohamed Salah",
+          "Lionel Messi",
+          "Robert Lewandowski"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+      "question": "Quel joueur détient le record du plus grand nombre de buts marqués lors d'un seul tournoi de la Coupe du Monde FIFA ?",
+      "options": [
+          "Just Fontaine",
+          "Pele",
+          "Gerd Muller",
+          "Ronaldo Nazario"
+      ],
+      "correctAnswer": "Just Fontaine"
+  },
+  {
+      "question": "Quelle nation a remporté le plus grand nombre de titres de la Copa America ?",
+      "options": [
+          "Uruguay",
+          "Argentine",
+          "Brésil",
+          "Chili"
+      ],
+      "correctAnswer": "Uruguay"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Premier League anglaise lors de la saison 2017-2018 ?",
+      "options": [
+          "Mohamed Salah",
+          "Harry Kane",
+          "Sergio Aguero",
+          "Jamie Vardy"
+      ],
+      "correctAnswer": "Mohamed Salah"
+  },
+  {
+      "question": "Quel club a remporté la Coupe d'Europe des Vainqueurs de Coupe UEFA en 1983 ?",
+      "options": [
+          "Aberdeen",
+          "Juventus",
+          "Ajax",
+          "Porto"
+      ],
+      "correctAnswer": "Aberdeen"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Copa Libertadores en 2013 ?",
+      "options": [
+          "Diego Milito",
+          "Neymar",
+          "Edinson Cavani",
+          "Luis Fabiano"
+      ],
+      "correctAnswer": "Diego Milito"
+  },
+  {
+      "question": "Quel joueur a remporté le plus grand nombre de titres de la Coupe d'Afrique des Nations ?",
+      "options": [
+          "Samuel Eto'o",
+          "Didier Drogba",
+          "Yaya Touré",
+          "Roger Milla"
+      ],
+      "correctAnswer": "Samuel Eto'o"
+  },
+  {
+      "question": "Quelle nation a remporté le plus grand nombre de médailles d'or olympiques en football masculin ?",
+      "options": [
+          "Hongrie",
+          "Argentine",
+          "Allemagne",
+          "États-Unis"
+      ],
+      "correctAnswer": "Hongrie"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde Féminine de la FIFA en 2007 ?",
+      "options": [
+          "Allemagne",
+          "États-Unis",
+          "Brésil",
+          "Japon"
+      ],
+      "correctAnswer": "Allemagne"
+  },
+  {
+      "question": "Quel joueur a remporté le plus grand nombre de titres de la Supercoupe de l'UEFA ?",
+      "options": [
+          "Cristiano Ronaldo",
+          "Lionel Messi",
+          "Paolo Maldini",
+          "Gareth Bale"
+      ],
+      "correctAnswer": "Paolo Maldini"
+  },
+  {
+      "question": "Quel club a remporté la Copa Libertadores en 2012 ?",
+      "options": [
+          "Corinthians",
+          "Boca Juniors",
+          "Santos",
+          "Fluminense"
+      ],
+      "correctAnswer": "Corinthians"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Ligue Europa de l'UEFA lors de la saison 2015-2016 ?",
+      "options": [
+          "Aritz Aduriz",
+          "Kevin Gameiro",
+          "Pierre-Emerick Aubameyang",
+          "Romelu Lukaku"
+      ],
+      "correctAnswer": "Aritz Aduriz"
+  },
+  {
+      "question": "Quelle nation a remporté la Copa America en 2004 ?",
+      "options": [
+          "Argentine",
+          "Brésil",
+          "Chili",
+          "Uruguay"
+      ],
+      "correctAnswer": "Brésil"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde des Clubs de la FIFA en 2012 ?",
+      "options": [
+          "Corinthians",
+          "Real Madrid",
+          "Bayern Munich",
+          "Chelsea"
+      ],
+      "correctAnswer": "Corinthians"
+  }
+],
+"14": [
+  {
+      "question": "Quel joueur a remporté le plus grand nombre de titres de Championnat d'Europe UEFA ?",
+      "options": [
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Andres Iniesta",
+          "Zinedine Zidane"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde FIFA en 1954 ?",
+      "options": [
+          "Allemagne de l'Ouest",
+          "Hongrie",
+          "Brésil",
+          "Argentine"
+      ],
+      "correctAnswer": "Allemagne de l'Ouest"
+  },
+  {
+      "question": "Quelle nation a remporté le plus grand nombre de titres de Coupe d'Afrique des Nations ?",
+      "options": [
+          "Égypte",
+          "Nigeria",
+          "Cameroun",
+          "Ghana"
+      ],
+      "correctAnswer": "Égypte"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Premier League anglaise lors de la saison 2016-2017 ?",
+      "options": [
+          "Harry Kane",
+          "Romelu Lukaku",
+          "Alexis Sanchez",
+          "Diego Costa"
+      ],
+      "correctAnswer": "Harry Kane"
+  },
+  {
+      "question": "Quel club a remporté la Coupe des Vainqueurs de Coupe UEFA en 1981 ?",
+      "options": [
+          "Dinamo Tbilisi",
+          "Aston Villa",
+          "Ajax",
+          "Porto"
+      ],
+      "correctAnswer": "Dinamo Tbilisi"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Copa Libertadores en 2010 ?",
+      "options": [
+          "Neymar",
+          "Fred",
+          "Walter",
+          "Thiago Neves"
+      ],
+      "correctAnswer": "Walter"
+  },
+  {
+      "question": "Quel joueur a remporté le plus grand nombre de titres de Ballon d'Or FIFA des clubs ?",
+      "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Ronaldinho",
+          "Neymar"
+      ],
+      "correctAnswer": "Lionel Messi"
+  },
+  {
+      "question": "Quelle nation a remporté le plus grand nombre de médailles d'or olympiques en football féminin ?",
+      "options": [
+          "États-Unis",
+          "Norvège",
+          "Allemagne",
+          "Suède"
+      ],
+      "correctAnswer": "États-Unis"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde Féminine de la FIFA en 1999 ?",
+      "options": [
+          "États-Unis",
+          "Chine",
+          "Norvège",
+          "Brésil"
+      ],
+      "correctAnswer": "États-Unis"
+  },
+  {
+      "question": "Quel joueur a remporté le plus grand nombre de titres de Ligue Europa UEFA ?",
+      "options": [
+          "Dani Alves",
+          "Aritz Aduriz",
+          "Radamel Falcao",
+          "Juan Mata"
+      ],
+      "correctAnswer": "Dani Alves"
+  },
+  {
+      "question": "Quel club a remporté la Copa Libertadores en 2008 ?",
+      "options": [
+          "Fluminense",
+          "Liga de Quito",
+          "Boca Juniors",
+          "Estudiantes"
+      ],
+      "correctAnswer": "Liga de Quito"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Ligue Europa de l'UEFA lors de la saison 2014-2015 ?",
+      "options": [
+          "Romelu Lukaku",
+          "Carlos Bacca",
+          "Gonzalo Higuain",
+          "Yevhen Seleznyov de Dnipro"
+      ],
+      "correctAnswer": "Romelu Lukaku"
+  },
+  {
+      "question": "Quelle nation a remporté la Copa America en 1997 ?",
+      "options": [
+          "Brésil",
+          "Argentine",
+          "Chili",
+          "Uruguay"
+      ],
+      "correctAnswer": "Brésil"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde des Clubs de la FIFA en 2011 ?",
+      "options": [
+          "Barcelone",
+          "Real Madrid",
+          "Bayern Munich",
+          "Chelsea"
+      ],
+      "correctAnswer": "Barcelone"
+  }
+],
+"15": [
+  {
+      "question": "Qui était le meilleur buteur de la Ligue des Champions de l'UEFA lors de la saison 2009-2010 ?",
+      "options": [
+          "Lionel Messi",
+          "Wayne Rooney",
+          "Didier Drogba",
+          "Cristiano Ronaldo"
+      ],
+      "correctAnswer": "Lionel Messi"
+  },
+  {
+      "question": "Quel joueur détient le record du plus grand nombre de buts marqués dans un seul match de Coupe du Monde FIFA ?",
+      "options": [
+          "Sándor Kocsis",
+          "Just Fontaine",
+          "Oleg Salenko",
+          "Miroslav Klose"
+      ],
+      "correctAnswer": "Oleg Salenko"
+  },
+  {
+      "question": "Quelle nation a remporté le plus grand nombre de titres de Coupe du Monde FIFA U-20 ?",
+      "options": [
+          "Brésil",
+          "Argentine",
+          "Allemagne",
+          "Nigeria"
+      ],
+      "correctAnswer": "Brésil"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Premier League anglaise lors de la saison 2007-2008 ?",
+      "options": [
+          "Cristiano Ronaldo",
+          "Fernando Torres",
+          "Didier Drogba",
+          "Emmanuel Adebayor"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+  },
+  {
+      "question": "Quel club a remporté la Coupe des Vainqueurs de Coupe UEFA en 1963 ?",
+      "options": [
+          "Tottenham Hotspur",
+          "Rangers",
+          "Werder Brême",
+          "Dynamo Kiev"
+      ],
+      "correctAnswer": "Tottenham Hotspur"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Copa Libertadores en 2007 ?",
+      "options": [
+          "Alexandre Pato",
+          "Martín Palermo",
+          "Washington Sebastián Abreu",
+          "Salvador Cabañas"
+      ],
+      "correctAnswer": "Washington Sebastián Abreu"
+  },
+  {
+      "question": "Quel joueur a remporté le plus grand nombre de titres de Coupe d'Asie des Nations AFC ?",
+      "options": [
+          "Ali Daei",
+          "Hidetoshi Nakata",
+          "Sami Al-Jaber",
+          "Sunil Chhetri"
+      ],
+      "correctAnswer": "Sami Al-Jaber"
+  },
+  {
+      "question": "Quelle nation a remporté le plus grand nombre de médailles d'or olympiques en football masculin ?",
+      "options": [
+          "Argentine",
+          "Hongrie",
+          "Allemagne",
+          "Italie"
+      ],
+      "correctAnswer": "Hongrie"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde Féminine de la FIFA en 2011 ?",
+      "options": [
+          "Japon",
+          "États-Unis",
+          "Allemagne",
+          "Suède"
+      ],
+      "correctAnswer": "Japon"
+  },
+  {
+      "question": "Quel joueur a remporté le plus grand nombre de titres de MLS Cup ?",
+      "options": [
+          "Landon Donovan",
+          "David Beckham",
+          "Robbie Keane",
+          "Cobi Jones"
+      ],
+      "correctAnswer": "Landon Donovan"
+  },
+  {
+      "question": "Quel club a remporté la Copa Libertadores en 2001 ?",
+      "options": [
+          "Boca Juniors",
+          "Palmeiras",
+          "San Lorenzo",
+          "Vasco da Gama"
+      ],
+      "correctAnswer": "Boca Juniors"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Ligue Europa de l'UEFA lors de la saison 2013-2014 ?",
+      "options": [
+          "Jonathan Soriano",
+          "Rodrigo Palacio",
+          "Carlos Bacca",
+          "Lima"
+      ],
+      "correctAnswer": "Jonathan Soriano"
+  },
+  {
+      "question": "Quelle nation a remporté la Copa America en 1987 ?",
+      "options": [
+          "Uruguay",
+          "Brésil",
+          "Argentine",
+          "Chili"
+      ],
+      "correctAnswer": "Uruguay"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde des Clubs de la FIFA en 2005 ?",
+      "options": [
+          "São Paulo",
+          "Liverpool",
+          "Barcelone",
+          "AC Milan"
+      ],
+      "correctAnswer": "São Paulo"
+  }
+],
+"16": [
+  {
+      "question": "Quel joueur a remporté le plus grand nombre de Ballon d'Or ?",
+      "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Johan Cruyff"
+      ],
+      "correctAnswer": "Lionel Messi"
+  },
+  {
+      "question": "Qui a remporté la Ligue des Champions de l'UEFA lors de la saison 2004-2005 ?",
+      "options": [
+          "Liverpool",
+          "AC Milan",
+          "Barcelone",
+          "Real Madrid"
+      ],
+      "correctAnswer": "Liverpool"
+  },
+  {
+      "question": "Quelle nation a remporté la Copa America en 1975 ?",
+      "options": [
+          "Pérou",
+          "Argentine",
+          "Brésil",
+          "Chili"
+      ],
+      "correctAnswer": "Pérou"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Premier League anglaise lors de la saison 2003-2004 ?",
+      "options": [
+          "Thierry Henry",
+          "Ruud van Nistelrooy",
+          "Alan Shearer",
+          "Didier Drogba"
+      ],
+      "correctAnswer": "Thierry Henry"
+  },
+  {
+      "question": "Quel club a remporté la Supercoupe de l'UEFA en 1999 ?",
+      "options": [
+          "Real Madrid",
+          "Bayern Munich",
+          "AC Milan",
+          "Lazio"
+      ],
+      "correctAnswer": "Lazio"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Copa Libertadores en 2005 ?",
+      "options": [
+          "Carlos Tévez",
+          "Diego Milito",
+          "Luis Fabiano",
+          "Javier Saviola"
+      ],
+      "correctAnswer": "Carlos Tévez"
+  },
+  {
+      "question": "Quel joueur a remporté le plus grand nombre de titres de Coupe d'Afrique des Nations ?",
+      "options": [
+          "Samuel Eto'o",
+          "Didier Drogba",
+          "Yaya Touré",
+          "Roger Milla"
+      ],
+      "correctAnswer": "Samuel Eto'o"
+  },
+  {
+      "question": "Quelle nation a remporté le plus grand nombre de médailles d'or olympiques en football masculin ?",
+      "options": [
+          "Brésil",
+          "Argentine",
+          "Hongrie",
+          "Italie"
+      ],
+      "correctAnswer": "Hongrie"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde Féminine de la FIFA en 2003 ?",
+      "options": [
+          "Allemagne",
+          "États-Unis",
+          "Norvège",
+          "Suède"
+      ],
+      "correctAnswer": "Allemagne"
+  },
+  {
+      "question": "Quel joueur a remporté le plus grand nombre de titres de Supercoupe de l'UEFA ?",
+      "options": [
+          "Paolo Maldini",
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Andres Iniesta"
+      ],
+      "correctAnswer": "Paolo Maldini"
+  },
+  {
+      "question": "Quel club a remporté la Copa Libertadores en 2014 ?",
+      "options": [
+          "San Lorenzo",
+          "Atlético Mineiro",
+          "River Plate",
+          "Boca Juniors"
+      ],
+      "correctAnswer": "San Lorenzo"
+  },
+  {
+      "question": "Qui était le meilleur buteur de la Ligue Europa de l'UEFA lors de la saison 2011-2012 ?",
+      "options": [
+          "Falcao",
+          "Oscar Cardozo",
+          "Radamel Falcao",
+          "Edinson Cavani"
+      ],
+      "correctAnswer": "Falcao"
+  },
+  {
+      "question": "Quelle nation a remporté la Copa America en 1991 ?",
+      "options": [
+          "Argentine",
+          "Brésil",
+          "Uruguay",
+          "Chili"
+      ],
+      "correctAnswer": "Argentine"
+  },
+  {
+      "question": "Qui a remporté la Coupe du Monde des Clubs de la FIFA en 2010 ?",
+      "options": [
+          "Inter Milan",
+          "Barcelone",
+          "Santos",
+          "Bayern Munich"
+      ],
+      "correctAnswer": "Inter Milan"
+  }
+]
+
+
+
+
+
+  }
+}

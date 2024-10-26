@@ -1,0 +1,748 @@
+{
+    "workouts": {
+      "chest": [
+    {
+      "name": "Barbell Bench Press",
+      "image": "../assets/gif/chest/GifChest_01.gif",
+      "target": ["Pectoralis Major"],
+      "syner": ["Triceps", "Anterior Deltoid"]
+    },
+    {
+      "name": "Incline Barbell Bench Press",
+      "image": "../assets/gif/chest/GifChest_02.gif",
+      "target": ["Upper Pectoralis Major"],
+      "syner": ["Triceps", "Anterior Deltoid"]
+    },
+    {
+      "name": "Decline Barbell Bench Press",
+      "image": "../assets/gif/chest/GifChest_03.gif",
+      "target": ["Lower Pectoralis Major"],
+      "syner": ["Triceps", "Anterior Deltoid"]
+    },
+    {
+      "name": "Dumbbell Bench Press",
+      "image": "../assets/gif/chest/GifChest_04.gif",
+      "target": ["Pectoralis Major"],
+      "syner": ["Triceps", "Anterior Deltoid"]
+    },
+    {
+      "name": "Incline Dumbbell",
+      "image": "../assets/gif/chest/GifChest_05.gif",
+      "target": ["Upper Pectoralis Major"],
+      "syner": ["Triceps", "Anterior Deltoid"]
+    },
+    {
+      "name": "Decline Dumbbell",
+      "image": "../assets/gif/chest/GifChest_06.gif",
+      "target": ["Lower Pectoralis Major"],
+      "syner": ["Triceps", "Anterior Deltoid"]
+    },
+    {
+      "name": "Dumbbell Fly",
+      "image": "../assets/gif/chest/GifChest_07.gif",
+      "target": ["Pectoralis Major"],
+      "syner": ["Anterior Deltoid", "Biceps"]
+    },
+    {
+      "name": "Incline Dumbbell Fly",
+      "image": "../assets/gif/chest/GifChest_08.gif",
+      "target": ["Upper Pectoralis Major"],
+      "syner": ["Anterior Deltoid", "Biceps"]
+    },
+    {
+      "name": "Decline Dumbbell Fly",
+      "image": "../assets/gif/chest/GifChest_09.gif",
+      "target": ["Lower Pectoralis Major"],
+      "syner": ["Anterior Deltoid", "Biceps"]
+    },
+    {
+      "name": "Machine Fly",
+      "image": "../assets/gif/chest/GifChest_10.gif",
+      "target": ["Pectoralis Major"],
+      "syner": ["Anterior Deltoid", "Biceps"]
+    },
+    {
+      "name": "Machine Chest Press",
+      "image": "../assets/gif/chest/GifChest_11.gif",
+      "target": ["Pectoralis Major"],
+      "syner": ["Triceps", "Anterior Deltoid"]
+    },
+    {
+      "name": "Lying Cable Fly",
+      "image": "../assets/gif/chest/GifChest_12.gif",
+      "target": ["Pectoralis Major"],
+      "syner": ["Anterior Deltoid", "Biceps"]
+    },
+    {
+      "name": "High Cable Cross-Over",
+      "image": "../assets/gif/chest/GifChest_13.gif",
+      "target": ["Lower Pectoralis Major"],
+      "syner": ["Anterior Deltoid", "Biceps"]
+    },
+    {
+      "name": "Low Cable Cross-Over",
+      "image": "../assets/gif/chest/GifChest_14.gif",
+      "target": ["Upper Pectoralis Major"],
+      "syner": ["Anterior Deltoid", "Biceps"]
+    },
+    {
+      "name": "Cable Cross-Over",
+      "image": "../assets/gif/chest/GifChest_15.gif",
+      "target": ["Pectoralis Major"],
+      "syner": ["Anterior Deltoid", "Biceps"]
+    },
+    {
+      "name": "Svend Press",
+      "image": "../assets/gif/chest/GifChest_16.gif",
+      "target": ["Pectoralis Major"],
+      "syner": ["Triceps", "Anterior Deltoid"]
+    },
+    {
+      "name": "Machine Assisted",
+      "image": "../assets/gif/chest/GifChest_17.gif",
+      "target": ["Pectoralis Major"],
+      "syner": ["Triceps", "Anterior Deltoid"]
+    },
+    {
+      "name": "Hammer-Grip Dumbbell Press",
+      "image": "../assets/gif/chest/GifChest_18.gif",
+      "target": ["Pectoralis Major"],
+      "syner": ["Triceps", "Anterior Deltoid"]
+    }
+  ]
+  ,
+      "biceps": [
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_01.gif"
+        },
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_02.gif"
+        },
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_03.gif"
+        },
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_04.gif"
+        },
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_05.gif"
+        },
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_06.gif"
+        },
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_07.gif"
+        },
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_08.gif"
+        },
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_09.gif"
+        },
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_10.gif"
+        },
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_11.gif"
+        },
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_12.gif"
+        },
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_13.gif"
+        },
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_14.gif"
+        },
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_15.gif"
+        },
+        {
+          "name": "Biceps Exercice",
+          "image": "../assets/gif/biceps/GifBiceps_16.gif"
+        }
+      ],
+      "triceps": [
+        {
+          "name": "Tricep Exercise",
+          "image": "../assets/gif/triceps/GifTriceps_01.gif"
+        },
+        {
+          "name": "Tricep Exercise with Bar",
+          "image": "../assets/gif/triceps/GifTriceps_02.gif"
+        },
+        {
+          "name": "Tricep Exercise with Bar",
+          "image": "../assets/gif/triceps/GifTriceps_03.gif"
+        },
+        {
+          "name": "Tricep Exercise with Bar",
+          "image": "../assets/gif/triceps/GifTriceps_04.gif"
+        },
+        {
+          "name": "Tricep Exercise with Bar",
+          "image": "../assets/gif/triceps/GifTriceps_05.gif"
+        },
+        {
+          "name": "Tricep Exercise with Bar",
+          "image": "../assets/gif/triceps/GifTriceps_06.gif"
+        },
+        {
+          "name": "Tricep Exercise with Bar",
+          "image": "../assets/gif/triceps/GifTriceps_07.gif"
+        },
+        {
+          "name": "Tricep Exercise with Cable",
+          "image": "../assets/gif/triceps/GifTriceps_08.gif"
+        },
+        {
+          "name": "Tricep Exercise with Cable",
+          "image": "../assets/gif/triceps/GifTriceps_09.gif"
+        },
+        {
+          "name": "Tricep Exercise with Dumbbell",
+          "image": "../assets/gif/triceps/GifTriceps_10.gif"
+        },
+        {
+          "name": "Tricep Exercise with Dumbbell",
+          "image": "../assets/gif/triceps/GifTriceps_11.gif"
+        },
+        {
+          "name": "Tricep Exercise with Dumbbell",
+          "image": "../assets/gif/triceps/GifTriceps_12.gif"
+        },
+        {
+          "name": "Tricep Exercise with Dumbbell",
+          "image": "../assets/gif/triceps/GifTriceps_13.gif"
+        },
+        {
+          "name": "Tricep Exercise with Dumbbell",
+          "image": "../assets/gif/triceps/GifTriceps_14.gif"
+        },
+        {
+          "name": "Tricep Exercise with Cable",
+          "image": "../assets/gif/triceps/GifTriceps_15.gif"
+        },
+        {
+          "name": "Tricep Exercise with Cable",
+          "image": "../assets/gif/triceps/GifTriceps_16.gif"
+        },
+        {
+          "name": "Tricep Exercise",
+          "image": "../assets/gif/triceps/GifTriceps_17.gif"
+        },
+        {
+          "name": "Tricep Dips",
+          "image": "../assets/gif/triceps/GifTriceps_18.gif"
+        },
+        {
+          "name": "Tricep Dips",
+          "image": "../assets/gif/triceps/GifTriceps_19.gif"
+        }
+      ],
+      "back": [
+    {
+      "name": "Behind The Neck Lat Pull Down",
+      "image": "../assets/gif/back/GifBack_01.gif",
+      "target": ["Latissimus Dorsi"],
+      "syner": ["Biceps", "Teres Major"]
+    },
+    {
+      "name": "Medium Grip Lat Pull-Down",
+      "image": "../assets/gif/back/GifBack_02.gif",
+      "target": ["Latissimus Dorsi"],
+      "syner": ["Biceps", "Rhomboids"]
+    },
+    {
+      "name": "Reverse Grip Lat Pull-Down",
+      "image": "../assets/gif/back/GifBack_03.gif",
+      "target": ["Latissimus Dorsi"],
+      "syner": ["Biceps", "Lower Trapezius"]
+    },
+    {
+      "name": "Close Neutral Grip Lat Pull-Down",
+      "image": "../assets/gif/back/GifBack_04.gif",
+      "target": ["Latissimus Dorsi"],
+      "syner": ["Biceps", "Teres Major"]
+    },
+    {
+      "name": "Seated Cable Row",
+      "image": "../assets/gif/back/GifBack_05.gif",
+      "target": ["Rhomboids", "Latissimus Dorsi"],
+      "syner": ["Biceps", "Trapezius"]
+    },
+    {
+      "name": "Wide Grip Cable Row",
+      "image": "../assets/gif/back/GifBack_06.gif",
+      "target": ["Rhomboids", "Latissimus Dorsi"],
+      "syner": ["Biceps", "Trapezius"]
+    },
+    {
+      "name": "Bent Over Barbell Row",
+      "image": "../assets/gif/back/GifBack_07.gif",
+      "target": ["Latissimus Dorsi", "Rhomboids"],
+      "syner": ["Biceps", "Rear Deltoids"]
+    },
+    {
+      "name": "Smith Machine Underhand",
+      "image": "../assets/gif/back/GifBack_08.gif",
+      "target": ["Latissimus Dorsi", "Trapezius"],
+      "syner": ["Biceps", "Forearms"]
+    },
+    {
+      "name": "Barbell Deadlift",
+      "image": "../assets/gif/back/GifBack_09.gif",
+      "target": ["Erector Spinae", "Glutes"],
+      "syner": ["Hamstrings", "Quads"]
+    },
+    {
+      "name": "Landmine Row",
+      "image": "../assets/gif/back/GifBack_10.gif",
+      "target": ["Latissimus Dorsi", "Rhomboids"],
+      "syner": ["Biceps", "Trapezius"]
+    },
+    {
+      "name": "T-Bar Row",
+      "image": "../assets/gif/back/GifBack_11.gif",
+      "target": ["Latissimus Dorsi", "Rhomboids"],
+      "syner": ["Biceps", "Rear Deltoids"]
+    },
+    {
+      "name": "Machine One Arm Row",
+      "image": "../assets/gif/back/GifBack_12.gif",
+      "target": ["Latissimus Dorsi"],
+      "syner": ["Biceps", "Teres Major"]
+    },
+    {
+      "name": "Standing Twisting Cable",
+      "image": "../assets/gif/back/GifBack_13.gif",
+      "target": ["Obliques", "Latissimus Dorsi"],
+      "syner": ["Biceps", "Rectus Abdominis"]
+    },
+    {
+      "name": "Bent Over One Arm Cable Pull",
+      "image": "../assets/gif/back/GifBack_14.gif",
+      "target": ["Latissimus Dorsi", "Rhomboids"],
+      "syner": ["Biceps", "Rear Deltoids"]
+    },
+    {
+      "name": "Bent Over Dumbbell Row",
+      "image": "../assets/gif/back/GifBack_15.gif",
+      "target": ["Latissimus Dorsi", "Rhomboids"],
+      "syner": ["Biceps", "Rear Deltoids"]
+    },
+    {
+      "name": "Bent Over Two Arm Dumbbell",
+      "image": "../assets/gif/back/GifBack_16.gif",
+      "target": ["Latissimus Dorsi", "Rhomboids"],
+      "syner": ["Biceps", "Rear Deltoids"]
+    },
+    {
+      "name": "Dumbbell Pullover",
+      "image": "../assets/gif/back/GifBack_17.gif",
+      "target": ["Latissimus Dorsi", "Pectoralis Major"],
+      "syner": ["Triceps", "Serratus Anterior"]
+    },
+    {
+      "name": "Pull Up",
+      "image": "../assets/gif/back/GifBack_18.gif",
+      "target": ["Latissimus Dorsi", "Rhomboids"],
+      "syner": ["Biceps", "Forearms"]
+    },
+    {
+      "name": "Close Neutral Grip Pull Up",
+      "image": "../assets/gif/back/GifBack_19.gif",
+      "target": ["Latissimus Dorsi"],
+      "syner": ["Biceps", "Teres Major"]
+    },
+    {
+      "name": "Seated One Arm Cable Row",
+      "image": "../assets/gif/back/GifBack_20.gif",
+      "target": ["Rhomboids", "Latissimus Dorsi"],
+      "syner": ["Biceps", "Trapezius"]
+    },
+    {
+      "name": "Inverted Row",
+      "image": "../assets/gif/back/GifBack_21.gif",
+      "target": ["Latissimus Dorsi", "Rhomboids"],
+      "syner": ["Biceps", "Trapezius"]
+    },
+    {
+      "name": "Shrugs",
+      "image": "../assets/gif/back/GifBack_22.gif",
+      "target": ["Trapezius"],
+      "syner": ["Levator Scapulae", "Forearms"]
+    }
+  ]
+  ,
+      "shoulders": [
+    {
+      "name": "Seated Barbell Overhead Press",
+      "image": "../assets/gif/shoulders/GifShoulders_01.gif",
+      "target": ["Anterior Deltoid", "Medial Deltoid"],
+      "syner": ["Triceps", "Upper Pectoralis Major"]
+    },
+    {
+      "name": "Behind The Neck Barbell",
+      "image": "../assets/gif/shoulders/GifShoulders_02.gif",
+      "target": ["Medial Deltoid", "Anterior Deltoid"],
+      "syner": ["Triceps", "Trapezius"]
+    },
+    {
+      "name": "Seated Dumbbell Press",
+      "image": "../assets/gif/shoulders/GifShoulders_03.gif",
+      "target": ["Anterior Deltoid", "Medial Deltoid"],
+      "syner": ["Triceps", "Upper Pectoralis Major"]
+    },
+    {
+      "name": "Arnold Press",
+      "image": "../assets/gif/shoulders/GifShoulders_04.gif",
+      "target": ["Anterior Deltoid", "Medial Deltoid"],
+      "syner": ["Triceps", "Upper Pectoralis Major"]
+    },
+    {
+      "name": "Seated Elbows In Alternating Press",
+      "image": "../assets/gif/shoulders/GifShoulders_05.gif",
+      "target": ["Anterior Deltoid"],
+      "syner": ["Triceps", "Upper Pectoralis Major"]
+    },
+    {
+      "name": "Alternating Dumbbell Press",
+      "image": "../assets/gif/shoulders/GifShoulders_06.gif",
+      "target": ["Anterior Deltoid", "Medial Deltoid"],
+      "syner": ["Triceps", "Upper Pectoralis Major"]
+    },
+    {
+      "name": "Cable Front Raise",
+      "image": "../assets/gif/shoulders/GifShoulders_07.gif",
+      "target": ["Anterior Deltoid"],
+      "syner": ["Trapezius", "Pectoralis Major"]
+    },
+    {
+      "name": "Seated Alternating Press",
+      "image": "../assets/gif/shoulders/GifShoulders_08.gif",
+      "target": ["Anterior Deltoid", "Medial Deltoid"],
+      "syner": ["Triceps", "Upper Pectoralis Major"]
+    },
+    {
+      "name": "Plate Front Raise",
+      "image": "../assets/gif/shoulders/GifShoulders_09.gif",
+      "target": ["Anterior Deltoid"],
+      "syner": ["Trapezius", "Pectoralis Major"]
+    },
+    {
+      "name": "Supine Cable Reverse Fly",
+      "image": "../assets/gif/shoulders/GifShoulders_10.gif",
+      "target": ["Posterior Deltoid"],
+      "syner": ["Trapezius", "Rhomboids"]
+    },
+    {
+      "name": "Dumbbell Bent-Over Lateral Raise",
+      "image": "../assets/gif/shoulders/GifShoulders_11.gif",
+      "target": ["Posterior Deltoid"],
+      "syner": ["Trapezius", "Rhomboids"]
+    },
+    {
+      "name": "Prone Incline Wide Grip Fly",
+      "image": "../assets/gif/shoulders/GifShoulders_12.gif",
+      "target": ["Posterior Deltoid"],
+      "syner": ["Trapezius", "Rhomboids"]
+    },
+    {
+      "name": "Cable Face Pull",
+      "image": "../assets/gif/shoulders/GifShoulders_13.gif",
+      "target": ["Posterior Deltoid", "Upper Trapezius"],
+      "syner": ["Rhomboids", "Rotator Cuff"]
+    },
+    {
+      "name": "Seated Bent-Over Lateral Raise",
+      "image": "../assets/gif/shoulders/GifShoulders_14.gif",
+      "target": ["Posterior Deltoid"],
+      "syner": ["Trapezius", "Rhomboids"]
+    },
+    {
+      "name": "Bent-Over Barbell Reverse Fly",
+      "image": "../assets/gif/shoulders/GifShoulders_15.gif",
+      "target": ["Posterior Deltoid"],
+      "syner": ["Trapezius", "Rhomboids"]
+    },
+    {
+      "name": "Lying Dumbbell One Arm Rear Fly",
+      "image": "../assets/gif/shoulders/GifShoulders_16.gif",
+      "target": ["Posterior Deltoid"],
+      "syner": ["Trapezius", "Rhomboids"]
+    },
+    {
+      "name": "Head Supported Rear Fly",
+      "image": "../assets/gif/shoulders/GifShoulders_17.gif",
+      "target": ["Posterior Deltoid"],
+      "syner": ["Trapezius", "Rhomboids"]
+    },
+    {
+      "name": "Seated Dumbbell Press",
+      "image": "../assets/gif/shoulders/GifShoulders_18.gif",
+      "target": ["Anterior Deltoid", "Medial Deltoid"],
+      "syner": ["Triceps", "Upper Pectoralis Major"]
+    },
+    {
+      "name": "Barbell Wide Grip Upright Row",
+      "image": "../assets/gif/shoulders/GifShoulders_19.gif",
+      "target": ["Medial Deltoid", "Upper Trapezius"],
+      "syner": ["Biceps", "Forearms"]
+    },
+    {
+      "name": "Dumbbell Lateral Raise",
+      "image": "../assets/gif/shoulders/GifShoulders_20.gif",
+      "target": ["Medial Deltoid"],
+      "syner": ["Trapezius", "Supraspinatus"]
+    },
+    {
+      "name": "Cable One Arm Lateral Raise",
+      "image": "../assets/gif/shoulders/GifShoulders_21.gif",
+      "target": ["Medial Deltoid"],
+      "syner": ["Trapezius", "Supraspinatus"]
+    },
+    {
+      "name": "Dumbbell Armpit Row",
+      "image": "../assets/gif/shoulders/GifShoulders_22.gif",
+      "target": ["Medial Deltoid", "Upper Trapezius"],
+      "syner": ["Biceps", "Forearms"]
+    },
+    {
+      "name": "Dumbbell Scott Press",
+      "image": "../assets/gif/shoulders/GifShoulders_23.gif",
+      "target": ["Anterior Deltoid", "Medial Deltoid"],
+      "syner": ["Triceps", "Upper Pectoralis Major"]
+    }
+  ],
+      "forearms": [
+        {
+          "name": "forearms with Bar",
+          "image": "../assets/gif/forearms/GifForearms_01.gif"
+        },
+        {
+          "name": "forearms with Bar",
+          "image": "../assets/gif/forearms/GifForearms_02.gif"
+        },
+        {
+          "name": "forearms with Bar",
+          "image": "../assets/gif/forearms/GifForearms_03.gif"
+        },
+        {
+          "name": "forearms with Bar",
+          "image": "../assets/gif/forearms/GifForearms_04.gif"
+        },
+        {
+          "name": "forearms with Dumbbell",
+          "image": "../assets/gif/forearms/GifForearms_05.gif"
+        },
+        {
+          "name": "forearms with Dumbbell",
+          "image": "../assets/gif/forearms/GifForearms_06.gif"
+        },
+        {
+          "name": "forearms with Dumbbell",
+          "image": "../assets/gif/forearms/GifForearms_07.gif"
+        },
+        {
+          "name": "forearms with Dumbbell",
+          "image": "../assets/gif/forearms/GifForearms_08.gif"
+        },
+        {
+          "name": "forearms with Dumbbell",
+          "image": "../assets/gif/forearms/GifForearms_09.gif"
+        },
+        {
+          "name": "forearms with Cable",
+          "image": "../assets/gif/forearms/GifForearms_10.gif"
+        }
+      ],
+      "legs": [
+    {
+      "name": "Body Weight Squat",
+      "image": "../assets/gif/legs/GifLegs_01.gif",
+      "target": ["Quadriceps", "Glutes"],
+      "syner": ["Hamstrings", "Calves"]
+    },
+    {
+      "name": "Barbell Sumo Squat",
+      "image": "../assets/gif/legs/GifLegs_02.gif",
+      "target": ["Glutes", "Quadriceps"],
+      "syner": ["Hamstrings", "Adductors"]
+    },
+    {
+      "name": "Barbell Front Box Squat",
+      "image": "../assets/gif/legs/GifLegs_03.gif",
+      "target": ["Quadriceps"],
+      "syner": ["Glutes", "Hamstrings"]
+    },
+    {
+      "name": "Barbell Front Squat",
+      "image": "../assets/gif/legs/GifLegs_04.gif",
+      "target": ["Quadriceps"],
+      "syner": ["Glutes", "Hamstrings"]
+    },
+    {
+      "name": "Dumbbell Lunge",
+      "image": "../assets/gif/legs/GifLegs_05.gif",
+      "target": ["Quadriceps", "Glutes"],
+      "syner": ["Hamstrings", "Calves"]
+    },
+    {
+      "name": "Barbell Lunge",
+      "image": "../assets/gif/legs/GifLegs_06.gif",
+      "target": ["Quadriceps", "Glutes"],
+      "syner": ["Hamstrings", "Calves"]
+    },
+    {
+      "name": "Dumbbell Step Up",
+      "image": "../assets/gif/legs/GifLegs_07.gif",
+      "target": ["Quadriceps", "Glutes"],
+      "syner": ["Hamstrings", "Calves"]
+    },
+    {
+      "name": "Leg Extension",
+      "image": "../assets/gif/legs/GifLegs_08.gif",
+      "target": ["Quadriceps"],
+      "syner": []
+    },
+    {
+      "name": "Incline Leg Press",
+      "image": "../assets/gif/legs/GifLegs_09.gif",
+      "target": ["Quadriceps", "Glutes"],
+      "syner": ["Hamstrings", "Calves"]
+    },
+    {
+      "name": "Smith Machine Chair Squat",
+      "image": "../assets/gif/legs/GifLegs_10.gif",
+      "target": ["Quadriceps", "Glutes"],
+      "syner": ["Hamstrings", "Calves"]
+    },
+    {
+      "name": "Dumbbell Leg Curl",
+      "image": "../assets/gif/legs/GifLegs_11.gif",
+      "target": ["Hamstrings"],
+      "syner": ["Glutes"]
+    },
+    {
+      "name": "Lying Leg Curl",
+      "image": "../assets/gif/legs/GifLegs_12.gif",
+      "target": ["Hamstrings"],
+      "syner": ["Glutes"]
+    },
+    {
+      "name": "Seated Leg Curl",
+      "image": "../assets/gif/legs/GifLegs_13.gif",
+      "target": ["Hamstrings"],
+      "syner": ["Glutes"]
+    },
+    {
+      "name": "Standing Dumbbell One Leg Curl",
+      "image": "../assets/gif/legs/GifLegs_14.gif",
+      "target": ["Hamstrings"],
+      "syner": ["Glutes"]
+    },
+    {
+      "name": "Machine Standing Calf Raise",
+      "image": "../assets/gif/legs/GifLegs_15.gif",
+      "target": ["Calves"],
+      "syner": ["Hamstrings"]
+    },
+    {
+      "name": "Machine Seated One Leg Calf Raise",
+      "image": "../assets/gif/legs/GifLegs_16.gif",
+      "target": ["Calves"],
+      "syner": []
+    },
+    {
+      "name": "Sled Calf Press",
+      "image": "../assets/gif/legs/GifLegs_17.gif",
+      "target": ["Calves"],
+      "syner": ["Hamstrings"]
+    }
+  ]
+  ,
+      "abs": [
+        {
+          "name": "Middle Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_01.gif"
+        },
+        {
+          "name": "Middle Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_02.gif"
+        },
+        {
+          "name": "Middle Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_03.gif"
+        },
+        {
+          "name": "Middle Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_04.gif"
+        },
+        {
+          "name": "Middle Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_05.gif"
+        },
+        {
+          "name": "Middle Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_06.gif"
+        },
+        {
+          "name": "Middle Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_07.gif"
+        },
+        {
+          "name": "Middle Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_08.gif"
+        },
+        {
+          "name": "Middle Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_09.gif"
+        },
+        {
+          "name": "Side Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_10.gif"
+        },
+        {
+          "name": "Side Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_11.gif"
+        },
+        {
+          "name": "Side Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_12.gif"
+        },
+        {
+          "name": "Side Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_13.gif"
+        },
+        {
+          "name": "Side Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_14.gif"
+        },
+        {
+          "name": "Side Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_15.gif"
+        },
+        {
+          "name": "Side Abs Muscles",
+          "image": "../assets/gif/abs/GifAbs_16.gif"
+        }
+      ]
+    }
+  }
+  
