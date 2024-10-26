@@ -10,8 +10,8 @@ const CardHomeExercixes = ({src,title,detail}) => {
       alt="" />
   </figure>
   <div className="card-body justify-center items-center cairo-regular">
-    <h2 className="card-title">{title}</h2>
-    <p className='text-center' >{detail}</p>
+    <h2 className="card-title text-white">{title}</h2>
+    <p className='text-center text-gray-800' >{detail}</p>
     <div className="card-actions justify-end">
       <button className="btn btn-primary">مشاهدة</button>
     </div>

@@ -16,6 +16,7 @@ import { banner } from "./admob/banner.ts";
 import { useTranslation } from 'react-i18next';
 import Welcome from './screens/Welcome.jsx';
 import PartExercise from './screens/PartExercise.jsx';
+import Navbar from './components/Navbar.jsx';
 
 setupIonicReact();
   
@@ -83,18 +84,8 @@ export default function App() {
   return (
     <>
       <IonApp  >
-      <IonHeader>
-        <IonToolbar className='toolbar'>
-        <IonTitle   >
-          <div className='flex flex-row items-center justify-around '>
-            <p className='text-white cairo-bold' >Fitness Pro</p>
-
-           
-          </div>
-          </IonTitle>
-        </IonToolbar>
-      </IonHeader>
       <IonContent className="ion-padding">
+      <Navbar />
       <div className="bg-background-gray flex justify-around   min-h-[100%]">
       <div className='container max-w-[95%] mx-auto flex flex-col justify-around items-center  ' >
      

@@ -20,7 +20,7 @@ const AlimtProg = () => {
     <div className="hero-overlay bg-opacity-60 rounded-xl"></div>
     <div className="hero-content text-neutral-content text-center">
       <div className="max-w-md">
-        <h1 className="mb-5 text-2xl cairo-bold">برنامج تغدية للتضخيم</h1>
+        <h1 className="mb-5 text-2xl cairo-bold text-white">برنامج تغدية للتضخيم</h1>
          
         <p className='cairo-regular' >خطة غذائية تهدف إلى زيادة الكتلة العضلية</p>
         </div>
@@ -39,7 +39,7 @@ const AlimtProg = () => {
     <div className="hero-overlay bg-opacity-60 rounded-xl"></div>
     <div className="hero-content text-neutral-content text-center">
       <div className="max-w-md">
-        <h1 className="mb-5 text-2xl cairo-bold">برنامج تغدية للتنشيف</h1>
+        <h1 className="mb-5 text-2xl cairo-bold text-white">برنامج تغدية للتنشيف</h1>
          
         <p className='cairo-regular'>نظام غذائي مخصص لحرق الدهون مع الحفاظ على الكتلة العضلية</p>
       </div>
