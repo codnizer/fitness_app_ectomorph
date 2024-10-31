@@ -6,8 +6,8 @@ export async function interstitial(): Promise<void> {
   });
 
   const options: AdOptions = {
-    adId: 'ca-app-pub-5397928283000872/7679768489',
-      // isTesting: true
+    adId: 'ca-app-pub-5397928283000872/9848081845',
+      isTesting: true
     // npa: true
   };
   await AdMob.prepareInterstitial(options);

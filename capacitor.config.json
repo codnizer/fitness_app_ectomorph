@@ -1,5 +1,9 @@
 {
-  "appId": "com.codnizer.soccermind",
-  "appName": "SoccerMind",
-  "webDir": "dist"
+  "appId": "com.codnizer.ectofitness",
+  "appName": "EctoFitness",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
 }

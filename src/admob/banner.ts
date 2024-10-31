@@ -10,13 +10,13 @@ export async function banner(): Promise<void> {
     });
 
     const options: BannerAdOptions = {
-      adId: 'ca-app-pub-5397928283000872/8763402405',
+      adId: 'ca-app-pub-5397928283000872/5077965302',
       // adSize: BannerAdSize.FULL_BANNER,
       adSize: BannerAdSize.ADAPTIVE_BANNER,
       
       position: BannerAdPosition.BOTTOM_CENTER,
       margin: 0,
-    // isTesting: true
+    isTesting: true
       // npa: true
     };
     AdMob.showBanner(options);

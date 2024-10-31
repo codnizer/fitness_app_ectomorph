@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EctoFitness</string>
+    <string name="title_activity_main">EctoFitness</string>
+    <string name="package_name">com.codnizer.ectofitness</string>
+    <string name="custom_url_scheme">com.codnizer.ectofitness</string>
+    <string name="admob_app_id">ca-app-pub-5397928283000872~5077965302</string>
+</resources>

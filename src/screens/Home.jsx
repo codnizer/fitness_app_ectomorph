@@ -1,7 +1,7 @@
 import React ,{useEffect,useContext} from 'react'
 import { Link, useNavigate } from "react-router-dom";
 import home from '../assets/mp3/home.mp3'
-import { coinsContext } from '../coinsContext';
+
 import { SettingsModal, PrivacyModal,RateModal } from '../components';
 import { Preferences } from '@capacitor/preferences';
 import { useTranslation } from 'react-i18next';
@@ -15,7 +15,6 @@ import AlimtProg from '../components/AlimtProg';
 const Home = ({setGoBack}) => {
   const { t } = useTranslation();
   const navigate= useNavigate()
-  const {isSoundEnabled } = useContext(coinsContext);
   // const audioRef = useAudioPlayer(home, isSoundEnabled);
   const handleRate = async () => {
     const openCapacitorSite = async () => {

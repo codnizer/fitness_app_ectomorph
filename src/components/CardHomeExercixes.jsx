@@ -11,9 +11,9 @@ const CardHomeExercixes = ({src,title,detail}) => {
   </figure>
   <div className="card-body justify-center items-center cairo-regular">
     <h2 className="card-title text-white">{title}</h2>
-    <p className='text-center text-gray-800' >{detail}</p>
+    <p className='text-center text-black-400' >{detail}</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">مشاهدة</button>
+      <button className="btn btn-info">مشاهدة</button>
     </div>
   </div>
 </div>

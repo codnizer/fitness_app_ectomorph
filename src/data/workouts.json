@@ -3,7 +3,7 @@
     "chest": [
   {
     "name": "Barbell Bench Press",
-    "image": "../assets/gif/chest/GifChest_01.gif",
+    "image": "GifChest_01.gif",
     "target": ["Pectoralis Major"],
     "syner": ["Triceps", "Anterior Deltoid"]
   },

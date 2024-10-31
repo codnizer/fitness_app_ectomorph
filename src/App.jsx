@@ -9,7 +9,7 @@ import {Home } from './screens'
  import { IonContent, IonHeader, IonToolbar, IonApp,IonFooter, IonTitle } from '@ionic/react';
  import ExitAppModal from './components/ExitAppModal';
 import { useContext , useEffect, useState} from "react";
-import { coinsContext } from './coinsContext';
+
 import { LocalNotifications } from '@capacitor/local-notifications';
 import { initializeAdMob } from './admob/adMobService.ts';
 import { banner } from "./admob/banner.ts";
@@ -17,12 +17,20 @@ import { useTranslation } from 'react-i18next';
 import Welcome from './screens/Welcome.jsx';
 import PartExercise from './screens/PartExercise.jsx';
 import Navbar from './components/Navbar.jsx';
+import { auth } from './firebase';
+import { onAuthStateChanged } from 'firebase/auth';
+import Register from './components/Register.jsx'
+import Login from './components/Login.jsx'
+import SignIn from './screens/SignIn.jsx';
+import RegisterScreen from './screens/RegisterScreen.jsx';
+import { useAuth } from './authContext';
+import Profile from './screens/Profile.jsx';
 
 setupIonicReact();
   
 export default function App() {
   const { t,i18n } = useTranslation();
-
+  const { user, logout } = useAuth(); // Get user data and logout function
   useEffect(() => {
     const scheduleNotification = async () => {
       await LocalNotifications.requestPermissions();
@@ -55,12 +63,13 @@ export default function App() {
   useEffect(() => {
     
     initializeAdMob()
+    // important banner to activate
     banner()
   }, []);
 
 
   const navigate = useNavigate();
-  const { coins, setCoins,selectedLevel } = useContext(coinsContext);
+
   const[goBack,setGoBack]=useState(true)
   const[goHome,setGoHome]=useState(false)
 
@@ -87,10 +96,13 @@ export default function App() {
       <IonContent className="ion-padding">
       <Navbar />
       <div className="bg-background-gray flex justify-around   min-h-[100%]">
-      <div className='container max-w-[95%] mx-auto flex flex-col justify-around items-center  ' >
-     
+      <div className='container max-w-[95%] mx-auto flex flex-col justify-around items-center pt-[64px]  ' >
+      
     <Routes>
       <Route path='/' element={<Home setGoBack={setGoBack} />} />
+      <Route path='/sign-in' element={ <SignIn/> } />
+      <Route path='/register' element={ <RegisterScreen/> } />
+      <Route path='/profile' element={ <Profile/> } />
       <Route path='/welcome' element={ <Welcome/> } />
       <Route path='/part-exs' element={ <PartExercise/> } />
  </Routes>

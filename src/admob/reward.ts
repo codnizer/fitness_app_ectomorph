@@ -24,8 +24,8 @@ export async function rewardVideo(): Promise<boolean | null> {
     });
 
     const options: RewardAdOptions = {
-      adId: 'ca-app-pub-5397928283000872/3548951784',
-      // isTesting: true,
+      adId: 'ca-app-pub-5397928283000872/3895883179',
+      isTesting: true,
     };
 
     try {

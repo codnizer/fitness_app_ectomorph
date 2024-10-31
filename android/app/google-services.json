@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829996427395",
+    "project_id": "fitness-ectomorph",
+    "storage_bucket": "fitness-ectomorph.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829996427395:android:498cd3e33a5dc911bbd3b6",
+        "android_client_info": {
+          "package_name": "com.codnizer.ectofitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829996427395-tolq0ivluetcd2gua870ehguksdv0sc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgsxsQ7q1DwCeIwj6V522WuIYjdMfdwFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829996427395-tolq0ivluetcd2gua870ehguksdv0sc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
